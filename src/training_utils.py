@@ -462,7 +462,7 @@ def pre_train_model(sentence_data, model_checkpoint, model_save_path, config, pr
                                         early_stopping=True,
                                         pretrained_model_path=pretrained_model_path_adapted,
                                         config=config,
-                                        debug=True,
+                                        debug=False,
     )
     return final_results, model
 

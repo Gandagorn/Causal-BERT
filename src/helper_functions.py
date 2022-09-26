@@ -1034,11 +1034,11 @@ def fondsforste_sanity_check(fondsforste_sentence_data):
         df = sanity_check(8, fondsforste_sentence_data, True)
         assert df["labels0"].to_list() == ['O', 'O', 'B-Affected', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Affected', 'I-Affected', 'I-Affected', 'B-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'O', 'B-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'O', 'B-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'B-Trigger', 'B-Trigger', 'B-Trigger', 'O']
     except Exception as e:
-        print("Something wrong with SF data... :O")
+        print("Something wrong with SF data...")
         traceback.print_exc()
         return
 
-    print("SF data correct ;)")
+    print("SF data correct")
 
 
 def forstvermessung_sanity_check(forstvermessung_sentence_data):
@@ -1069,11 +1069,11 @@ def forstvermessung_sanity_check(forstvermessung_sentence_data):
         assert df["labels0"].to_list() == ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'O', 'B-Trigger', 'B-Controlling', 'B-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'O'] 
 
     except Exception as e:
-        print("Something wrong with FV data... :O")
+        print("Something wrong with FV data...")
         traceback.print_exc()
         return
 
-    print("FV data correct ;)")
+    print("FV data correct")
 
 
 def rehbein_sanity_check(rehbein_sentence_data):
@@ -1096,11 +1096,11 @@ def rehbein_sanity_check(rehbein_sentence_data):
         assert df["labels0"].to_list() == ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-Effect', 'I-Effect', 'B-Trigger', 'B-Cause', 'I-Cause', 'O', 'O', 'O']
 
     except Exception as e:
-        print("Something wrong with Rehbein data... :O")
+        print("Something wrong with Rehbein data...")
         traceback.print_exc()
         return
 
-    print("Rehbein data correct ;)")
+    print("Rehbein data correct")
 
 
 def dunietz_sanity_check(dunietz_sentence_data):
@@ -1125,11 +1125,11 @@ def dunietz_sanity_check(dunietz_sentence_data):
         df = sanity_check(1522, dunietz_sentence_data, False)
         assert df["labels0"].to_list() == ['O', 'O', 'O', 'O', 'O', 'O', 'B-Trigger', 'O', 'B-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'I-Effect', 'O', 'B-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'I-Cause', 'O']
     except Exception as e:
-        print("Something wrong with Dunietz data... :O")
+        print("Something wrong with Dunietz data...")
         traceback.print_exc()
         return
 
-    print("Dunietz data correct ;)")
+    print("Dunietz data correct")
 
 
 def get_test_predictions(predictions, dataset, config):
@@ -1543,7 +1543,7 @@ def filter_metrics_from_validation_results(results, config):
     return filtered_results
 
 
-def get_kfolds(sentence_data, config, n_splits=5, debug=True):
+def get_kfolds(sentence_data, config, n_splits=5, debug=False):
     """Split sentences into stratified kfolds based on type and degree.
 
     Parameters
@@ -1636,10 +1636,10 @@ def print_dataset_statistics(dataset, name, config):
             degree_counts[rel_degree] = degree_counts[rel_degree] + 1
 
     print(f"Statistics for Dataset {name}")
-    display(pd.DataFrame(trigger_counts.astype(int)).T)
-    display(pd.DataFrame(argument_counts.astype(int)).T)
-    display(pd.DataFrame(type_counts.astype(int)).T)
-    display(pd.DataFrame(degree_counts.astype(int)).T)
+    print(pd.DataFrame(trigger_counts.astype(int)).T)
+    print(pd.DataFrame(argument_counts.astype(int)).T)
+    print(pd.DataFrame(type_counts.astype(int)).T)
+    print(pd.DataFrame(degree_counts.astype(int)).T)
 
 
 class NumpyEncoder(json.JSONEncoder):
