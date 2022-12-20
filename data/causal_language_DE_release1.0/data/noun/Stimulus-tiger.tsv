@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.CausalConstructicon|Roles
+#T_SP=webanno.custom.CausalTypes|Types
+
+
+#Text=Das geht offensichtlich am besten , wie TV-Produzenten festgestellt haben , wenn der Bildschirm mit möglichst vielen , die Aufmerksamkeit fesselnden Stimuli vollgestopft wird - mit rasanter Action , schnellen Themenwechseln , Gewalt und Sex .
+1-1	0-3	Das	_	_	
+1-2	4-8	geht	_	_	
+1-3	9-23	offensichtlich	_	_	
+1-4	24-26	am	_	_	
+1-5	27-33	besten	_	_	
+1-6	34-35	,	_	_	
+1-7	36-39	wie	_	_	
+1-8	40-54	TV-Produzenten	_	_	
+1-9	55-67	festgestellt	_	_	
+1-10	68-73	haben	_	_	
+1-11	74-75	,	_	_	
+1-12	76-80	wenn	_	_	
+1-13	81-84	der	_	_	
+1-14	85-95	Bildschirm	_	_	
+1-15	96-99	mit	_	_	
+1-16	100-109	möglichst	_	_	
+1-17	110-116	vielen	_	_	
+1-18	117-118	,	_	_	
+1-19	119-122	die	_	_	
+1-20	123-137	Aufmerksamkeit	_	_	
+1-21	138-148	fesselnden	_	_	
+1-22	149-156	Stimuli	Trigger	Motivation	
+1-23	157-169	vollgestopft	_	_	
+1-24	170-174	wird	_	_	
+1-25	175-176	-	_	_	
+1-26	177-180	mit	_	_	
+1-27	181-189	rasanter	_	_	
+1-28	190-196	Action	_	_	
+1-29	197-198	,	_	_	
+1-30	199-208	schnellen	_	_	
+1-31	209-223	Themenwechseln	_	_	
+1-32	224-225	,	_	_	
+1-33	226-232	Gewalt	_	_	
+1-34	233-236	und	_	_	
+1-35	237-240	Sex	_	_	
+1-36	241-242	.	_	_	

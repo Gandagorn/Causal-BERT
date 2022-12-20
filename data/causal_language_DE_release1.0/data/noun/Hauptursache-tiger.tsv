@@ -1,0 +1,189 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.CausalConstructicon|Roles
+#T_SP=webanno.custom.CausalTypes|Types
+
+
+#Text=Die Münchener Wissenschaftler sehen in diesen Rückzahlungen eine der Hauptursachen dafür , daß die Schätzung der Steuereinnahmen jüngst drastisch nach unten korrigiert werden mußte .
+1-1	0-3	Die	_	_	
+1-2	4-13	Münchener	_	_	
+1-3	14-29	Wissenschaftler	_	_	
+1-4	30-35	sehen	Controller	_	
+1-5	36-38	in	Controller	_	
+1-6	39-45	diesen	Cause[1]	_	
+1-7	46-59	Rückzahlungen	Cause[1]	_	
+1-8	60-64	eine	_	_	
+1-9	65-68	der	_	_	
+1-10	69-82	Hauptursachen	Trigger	Consequence	
+1-11	83-88	dafür	Effect[2]	_	
+1-12	89-90	,	Effect[2]	_	
+1-13	91-94	daß	Effect[2]	_	
+1-14	95-98	die	Effect[2]	_	
+1-15	99-108	Schätzung	Effect[2]	_	
+1-16	109-112	der	Effect[2]	_	
+1-17	113-128	Steuereinnahmen	Effect[2]	_	
+1-18	129-135	jüngst	Effect[2]	_	
+1-19	136-145	drastisch	Effect[2]	_	
+1-20	146-150	nach	Effect[2]	_	
+1-21	151-156	unten	Effect[2]	_	
+1-22	157-167	korrigiert	Effect[2]	_	
+1-23	168-174	werden	Effect[2]	_	
+1-24	175-180	mußte	Effect[2]	_	
+1-25	181-182	.	_	_	
+
+#Text=Als Hauptursache des Kurdenkonflikts bezeichnet die Studie der Metallarbeitergewerkschaft nicht ethnische Probleme , sondern die ökonomische Situation .
+2-1	183-186	Als	Controller	_	
+2-2	187-199	Hauptursache	Trigger	Consequence	
+2-3	200-203	des	Effect[3]	_	
+2-4	204-219	Kurdenkonflikts	Effect[3]	_	
+2-5	220-230	bezeichnet	Controller	_	
+2-6	231-234	die	_	_	
+2-7	235-241	Studie	_	_	
+2-8	242-245	der	_	_	
+2-9	246-272	Metallarbeitergewerkschaft	_	_	
+2-10	273-278	nicht	Cause[4]	_	
+2-11	279-288	ethnische	Cause[4]	_	
+2-12	289-297	Probleme	Cause[4]	_	
+2-13	298-299	,	Cause[4]	_	
+2-14	300-307	sondern	Cause[4]	_	
+2-15	308-311	die	Cause[4]	_	
+2-16	312-323	ökonomische	Cause[4]	_	
+2-17	324-333	Situation	Cause[4]	_	
+2-18	334-335	.	_	_	
+
+#Text=Die Hauptursache dafür heißt Fernsehen :
+3-1	336-339	Die	_	_	
+3-2	340-352	Hauptursache	Trigger	Consequence	
+3-3	353-358	dafür	Effect	_	
+3-4	359-364	heißt	Support	_	
+3-5	365-374	Fernsehen	Cause	_	
+3-6	375-376	:	_	_	
+
+#Text=Hauptursache sei jedoch , daß die Abnehmer `` bei nunmehr gefüllten Lagern '' zurückhaltend auf die `` spürbaren Preisanhebungen vor allem bei Grundchemikalien und Kunststoffen '' reagierten .
+4-1	377-389	Hauptursache	Trigger	Consequence	
+4-2	390-393	sei	Support	_	
+4-3	394-400	jedoch	_	_	
+4-4	401-402	,	_	_	
+4-5	403-406	daß	Cause[5]	_	
+4-6	407-410	die	Cause[5]	_	
+4-7	411-419	Abnehmer	Cause[5]	_	
+4-8	420-422	``	Cause[5]	_	
+4-9	423-426	bei	Cause[5]	_	
+4-10	427-434	nunmehr	Cause[5]	_	
+4-11	435-444	gefüllten	Cause[5]	_	
+4-12	445-451	Lagern	Cause[5]	_	
+4-13	452-454	''	Cause[5]	_	
+4-14	455-468	zurückhaltend	Cause[5]	_	
+4-15	469-472	auf	Cause[5]	_	
+4-16	473-476	die	Cause[5]	_	
+4-17	477-479	``	Cause[5]	_	
+4-18	480-489	spürbaren	Cause[5]	_	
+4-19	490-505	Preisanhebungen	Cause[5]	_	
+4-20	506-509	vor	Cause[5]	_	
+4-21	510-515	allem	Cause[5]	_	
+4-22	516-519	bei	Cause[5]	_	
+4-23	520-536	Grundchemikalien	Cause[5]	_	
+4-24	537-540	und	Cause[5]	_	
+4-25	541-553	Kunststoffen	Cause[5]	_	
+4-26	554-556	''	Cause[5]	_	
+4-27	557-567	reagierten	Cause[5]	_	
+4-28	568-569	.	_	_	
+
+#Text=Kongreß : Rauchen Hauptursache für Tumor-Erkrankungen
+5-1	570-577	Kongreß	_	_	
+5-2	578-579	:	_	_	
+5-3	580-587	Rauchen	Cause	_	
+5-4	588-600	Hauptursache	Trigger	Consequence	
+5-5	601-604	für	Effect[6]	_	
+5-6	605-623	Tumor-Erkrankungen	Effect[6]	_	
+
+#Text=Hauptursache dafür sei ungesunde Lebensführung in Kombination mit sozialem Streß .
+6-1	624-636	Hauptursache	Trigger	Consequence	
+6-2	637-642	dafür	Effect	_	
+6-3	643-646	sei	Support	_	
+6-4	647-656	ungesunde	Cause[7]	_	
+6-5	657-670	Lebensführung	Cause[7]	_	
+6-6	671-673	in	Cause[7]	_	
+6-7	674-685	Kombination	Cause[7]	_	
+6-8	686-689	mit	Cause[7]	_	
+6-9	690-698	sozialem	Cause[7]	_	
+6-10	699-704	Streß	Cause[7]	_	
+6-11	705-706	.	_	_	
+
+#Text=Hauptursache für den erneuten Verlust ist der anhaltende Preisdruck auf dem Hotel-Markt .
+7-1	707-719	Hauptursache	Trigger	Consequence	
+7-2	720-723	für	Effect[8]	_	
+7-3	724-727	den	Effect[8]	_	
+7-4	728-736	erneuten	Effect[8]	_	
+7-5	737-744	Verlust	Effect[8]	_	
+7-6	745-748	ist	Support	_	
+7-7	749-752	der	Cause[9]	_	
+7-8	753-763	anhaltende	Cause[9]	_	
+7-9	764-774	Preisdruck	Cause[9]	_	
+7-10	775-778	auf	Cause[9]	_	
+7-11	779-782	dem	Cause[9]	_	
+7-12	783-794	Hotel-Markt	Cause[9]	_	
+7-13	795-796	.	_	_	
+
+#Text=Als Hauptursache für das flaue Geschäft nennt Kaub eine gesunkene Kaufkraft der Kunden .
+8-1	797-800	Als	Controller	_	
+8-2	801-813	Hauptursache	Trigger	Consequence	
+8-3	814-817	für	Effect[10]	_	
+8-4	818-821	das	Effect[10]	_	
+8-5	822-827	flaue	Effect[10]	_	
+8-6	828-836	Geschäft	Effect[10]	_	
+8-7	837-842	nennt	Controller	_	
+8-8	843-847	Kaub	_	_	
+8-9	848-852	eine	Cause[11]	_	
+8-10	853-862	gesunkene	Cause[11]	_	
+8-11	863-872	Kaufkraft	Cause[11]	_	
+8-12	873-876	der	Cause[11]	_	
+8-13	877-883	Kunden	Cause[11]	_	
+8-14	884-885	.	_	_	
+
+#Text=`` Die Rücksichtnahme auf Randgruppen findet spätestens dort ihre legitime Grenze , wo das gesundheitliche Wohl der Gesamtbevölkerung in Gefahr gerät '' , schrieb der Beamte und bezeichnete `` sexuelle Perversionen '' als eine `` Hauptursache für diese Geißel der Menschheit ( Aids ) '' .
+9-1	886-888	``	_	_	
+9-2	889-892	Die	_	_	
+9-3	893-907	Rücksichtnahme	_	_	
+9-4	908-911	auf	_	_	
+9-5	912-923	Randgruppen	_	_	
+9-6	924-930	findet	_	_	
+9-7	931-941	spätestens	_	_	
+9-8	942-946	dort	_	_	
+9-9	947-951	ihre	_	_	
+9-10	952-960	legitime	_	_	
+9-11	961-967	Grenze	_	_	
+9-12	968-969	,	_	_	
+9-13	970-972	wo	_	_	
+9-14	973-976	das	_	_	
+9-15	977-992	gesundheitliche	_	_	
+9-16	993-997	Wohl	_	_	
+9-17	998-1001	der	_	_	
+9-18	1002-1019	Gesamtbevölkerung	_	_	
+9-19	1020-1022	in	_	_	
+9-20	1023-1029	Gefahr	_	_	
+9-21	1030-1035	gerät	_	_	
+9-22	1036-1038	''	_	_	
+9-23	1039-1040	,	_	_	
+9-24	1041-1048	schrieb	_	_	
+9-25	1049-1052	der	_	_	
+9-26	1053-1059	Beamte	_	_	
+9-27	1060-1063	und	_	_	
+9-28	1064-1075	bezeichnete	Controller	_	
+9-29	1076-1078	``	Cause[12]	_	
+9-30	1079-1087	sexuelle	Cause[12]	_	
+9-31	1088-1100	Perversionen	Cause[12]	_	
+9-32	1101-1103	''	Cause[12]	_	
+9-33	1104-1107	als	Controller	_	
+9-34	1108-1112	eine	_	_	
+9-35	1113-1115	``	_	_	
+9-36	1116-1128	Hauptursache	Trigger	Consequence	
+9-37	1129-1132	für	Effect[13]	_	
+9-38	1133-1138	diese	Effect[13]	_	
+9-39	1139-1145	Geißel	Effect[13]	_	
+9-40	1146-1149	der	Effect[13]	_	
+9-41	1150-1160	Menschheit	Effect[13]	_	
+9-42	1161-1162	(	Effect[13]	_	
+9-43	1163-1167	Aids	Effect[13]	_	
+9-44	1168-1169	)	Effect[13]	_	
+9-45	1170-1172	''	_	_	
+9-46	1173-1174	.	_	_	

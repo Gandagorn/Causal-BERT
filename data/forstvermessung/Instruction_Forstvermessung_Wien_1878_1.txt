@@ -1,0 +1,1016 @@
+----- 1 / 164 -----
+
+* Oecon. *
+515
+28
+----- 2 / 164 -----
+becon
+Instruction
+a
+516
+----- 3 / 164 -----
+!
+1,
+----- 4 / 164 -----
+----- 5 / 164 -----
+
+Instruction
+für die
+Begrenzung, Vermarkung, Vermessung und Betriebseinrichtung
+der
+Österreichischen Staats- und Fondsforste.
+Wien.
+Druck der kaiserlich-königlichen Hof- und Staatsdruckerei.
+1878.
+K. k. Hofbuchhandlung Wilhelm Frick
+Wien, Graben 27.
+B
+----- 6 / 164 -----
+
+----- 7 / 164 -----
+Instruction
+fiir die
+Begrenzung, Vermarkung, Vermessung und Betriebseinrichtung
+der
+Österreichischen Staats- und Fondsforste.
+Wien.
+Druck der kaiserlicb-königlichen Hof- und Staatsdruckerei.
+1878.
+?.545
+----- 8 / 164 -----
+30%!
+-Ed,
+show
+..:-1, "
+mi502" "X
+----- 9 / 164 -----
+3
+Inhalt.
+1
+.
+I. Begrenzung.
+Seite
+$. 1. Sicherung der Eigenthumsgrenzen
+9
+§. 2. Mangelhaftigkeit in der Sicherstellung der Eigenthumsgrenzen und deren Erforschung
+9
+§. 3. Verhalten bei Zweifeln und Anständen, Streitigkeiten und Uebergriffen (ſ. 2 a)
+10
+§. 4. Verhalten bei nichtentsprechender Begrenzung
+10
+§. 5. Errichtung der fehlenden Grenzurkunden .
+10
+§. 6. Zielpunkte bei völlig neuen, sowie bei der Berichtigung bereits bestehenıler Begrenzungen
+11
+§. 7. Festsetzung (les Grenzzuges in der Natur .
+11
+§. 8. Grenzzeichen
+12
+§. 9. Aufnahme, Beschreibung und Verzeichnung des Grenzzuges
+14
+§. 10. Bestreitung der Kosten
+15
+$. 11. Ausführung der Begrenzungsarbeiten
+15
+§. 12. Abfassung der Grenzurkunde .
+16
+§. 13. Besondere Berücksichtigung dieser Vorschriften bei Begrenzungen in Folge von gesetzlichen Regulirungen
+des Besitzstandes, und angemessene Begrenzung jener Waldtheile, in welchen von Seite der Eingeforsteten
+gewisse Berechtigungen fernerhin ausgeübt werden dürfen
+17
+§. 14. Sonstige Bestimmungen
+17
+.
+Beilagen:
+Formulare 1. Begrenzungstabelle . .
+20, 21
+2. Protokoll über eine vorgenommene commissionelle Begrenzung forstärarischen Grundeigenthums . . 22
+II. Vermarkung der räumlichen Eintheilung.
+§. 1. Vorgang beim Festlegen und Erweitern der Eintheilungslinien .
+$. 2. Grundsätze, nach welchen die Standorte für die Sicherheitssteine zu wählen sind
+§. 3. Distanz der Sicherheitssteine
+$. 4. Kreuzungspunkte der Eintheilungslinien
+8. 5. Wahl der Sicherheitssteine
+§. 6. Bezeichnung der Sicherheitssteine
+§. 7. Vermarkung der zu Abtheilungsgrenzen benützten natürlichen Linien
+25
+25
+26
+26
+26
+27
+27
+VII. Vermessung.
+$. 1. Eintheilung der Arbeiten .
+g. 2. Netzlegung
+§. 3. Aufnahme der Eigenthumsgrenzen und Linien der räumlichen Eintheilung überhaupt
+28
+28
+30
+.
+1 *
+----- 10 / 164 -----
+4
+§. 4. Aufnahme der Eigenthumsgrenzen mit dem Theodolit
+§. 5. Aufnahme der räumlichen Eintheilung mit dem Theodolit .
+§. 6. Aufnahme der Eigenthumsgrenzen und der Linien der räumlichen Eintheilung mit dem Messtisch
+§. 7. Aufnahme des forstlichen Details
+$. 8. Verticalaufuahme
+$. 9. Kartiruug
+$. 10. Vervielfältigung, Evidenzhaltung und Aufbewahrung der Karten und Vermessungswerke
+g. 11. Flächenberechnung
+Seite
+30
+32
+33
+33
+33
+34
+35
+36
+n
+12
+Beilagen:
+Formulare 1. Zum Eintragen der Winkel bei Triangulirungen .
+37
+2. Zur Reduction excentrisch gemessener Winkel auf das ('entrum der Station
+39
+3. Zur Berechnung der Dreieckseiten und der vorläufigen (unverbesserten) (oordinaten und Netzpunkte 10, 41
+4. a) Zum Ausgleich der berechneten Dreieckseiten und zur endgiltigen Bestimmung der ('oordinaten der
+Netzpunkte;
+b) Zur Berechnung der Polygonzüge
+5. Zum Eintragen der Detailaufnahme
+45
+6. Zusammenstellung der ermittelten ('oordinaten
+7. Zur trigonometrischen Flächenberechnung
+18
+8. Zur Reduction der mittelst des Planimeters gefundenen, auf die aus den ('oordinaten berechnete
+Fläche.
+19
+42, 43
+16, 17
+IV. Betriebseinrichtung.
+1. Grundzüge und Tendenzen der gesammten Forsteinrichtung.
+$. 1. Die Aufgaben der Betriebseinrichtung in Verbindung mit der Wirthschaftsführung
+51
+52
+52
+53
+46
+53
+53
+1
+54
+II. Die Eintheilung des Forstes.
+A. Grundsätze für die Eintheilung in Amts- und Dienstbezirke.
+$. 2. Grenze und Art des Eingreifens der Betriebsregelung bei der Bildung der Dienstbezirke
+$. 3. Was man ein Wirthschaftsganzes neunt
+§. 4. Erklärung der Bezeichnung „Schutzbezirk
+§. 5. Anforderungen bei der Zerlegung und der Begrenzung der Bezirke ($$. 3 und 1)
+B. Grunılsätze uncl allgemeine Gesichtspunkte für die innere Eintheilung der Wirthschaftsganzen.
+$. 6. Eintheilung der Wirthschaftsganzen in Betriebsclassen . .
+§. 7. Eintheilung der Wirthschaftsganzen oder deren Betriebsclassen in lliebszüge.
+$. 8. Hiebsziige im Plänterwalde und im Ausschlagwalde
+$. 9. Zusatz zu den $s. 6—8 ..
+$. 10. Zerlegung der liebsziige in Abtheilungen. Die Form, Länge, Breite und Grösse derselben
+§. 11. Die Abtheilungen als Hiebsfächer für gewisse Zeitabschnitte (Perioden). Bedeutung der Periodenziffern
+oder der in die Hiebszüge eingezeichneten Pfeile. Vortheile der dauernd markirten Abtheilungen .
+('. Entwurf der Forsteintheilung und deren vorläufige Festlegung im Walde.
+$. 12. Anfertigung von Brouillons zum Entwurfe der Eintheilung
+§. 13. Geodätische und wirthschaftliche Vorerhebungen im Walde als Grundlagen des Eintheilungsentwurfes, sowie
+der zunächst und späterhin angezeigten Schlagführung
+$. 14. Beginn der Eintheilung mit der Ausscheidung von Pläuter-, Schutz- und Bannwald, ferner der ausser Ertrags-
+anschlag bleibenden Flächen. Abgrenzung der Betriebsclassen
+§. 15. Anhaltsgegenstände für die Hlauptlinien der Eintheilung. Die Wirthschaftsstreifen, ihr Zweck und die
+künftige Behandlung derselben. Projectirung der Abtheilungslinien mit Benützung natürlicher Merkmale
+und Anwendung von Schneissen
+53
+54
+55
+56
+56
+.
+57
+37
+----- 11 / 164 -----
+5
+Seite
+§. 16. Commissionelle Prüfung des Eintheilungsentwurfes. Vorlage des Befundes an das Ackerbauministerium.
+Beschäftigung der Betriebseinrichtungsorgane bis zur Genehmigung oder Modificirung des Entwurfes .
+$. 17. Festlegung der Eintheilung
+59
+60
+60
+III. Begründung eines Betriebseinrichtungsprovisoriums.
+§. 18. Fiir welche Forste Provisorien zu verfassen sind und was sie enthalten sollen .
+§. 19. Die Begründung des Provisoriums hat sich mit der Projectirung der inneren Forsteintheilung zu verbinden,
+ebenso die commissionelle Prüfung der Letzteren mit der Prüfung des Betriebspläneentwurfes
+§. 20. Bestandtheile eines provisorischen Betriebseinrichtungsoperates
+§. 21. Vorlage der provisorischen Elaborate beim Ackerbauministerium
+§. 22. Die Verpflichtung zu Nachtragsarbeiten, wenn auch nur Provisorien bestehen
+§. 23. Umwandlungszeitpunkt für das Provisorium in ein Definitivum
+60
+61
+61
+61
+61
+IV. Aufsuchung, Berichtigung oder Auffrischung bestehender Eigenthumsgrenzen, Neuver-
+markung von Grenzzügen.
+§. 24. Die Ausführungsorgane und Zeitpunkte
+61
+62
+62
+61
+V. Gegenstände und Aufgaben der Forstvermessung.
+$. 25. Aufnahme der Eigenthumsgrenzen und des wenig veränderlichen Details .
+§. 26. Vorschriften für die Scheidung von Holzbestandesabtheilungen (Bestandesparcellen).
+$. 27. Aufnahme von Verticalwinkeln behufs Construirung von Terrainprofilen.
+§. 28. Sicherung der Vermessungspunkte. Uebergabe der Punkte und Linien des Vermessungswerkes an das
+Localpersonale
+8. 29. Andeutungen für das geodätische Verfahren und die Flächenberechnung. Hinweis auf die Specialinstruction
+für die Vermessung, Vermarkung und Begrenzung der Staatsforste (Haupttheil I., II., III.)
+64
+61
+VI. Kartirung.
+§. 30. Bezeichnungen der Karten. Die zu liefernden Arten der Karten, deren Beschaffenheit und Zweck. Hinweis
+auf die Specialinstruction für die Vermessung und Begrenzung der Staatsforste ..
+65
+65
+66
+VII. Taxatorische Vorerhebungen und Berechnungen be hufs Nachweisung des thatsächlichen
+(gegenwärtigen oder concreten) Waldzustandes, sowie der gesammten Waldverhältnisse.
+A. Ertragstafeln.
+g. 31. Welche Art von Ertragstafeln vorzubereiten sind. Verfahren bei der Anfertigung
+$. 32. Zeitweilige Ersatzmittel für Localertragstafeln
+B. IIolzbestandesbeschreibung.
+$. 33. Die Nachweisungen der Bestandesbeschreibung im Allgemeinen .
+$. 34. Die speciellen Nachweisungen der Bestandesbeschreibung
+8. 35. Bemerkung zu den Erhebungen unter g. 34 ..
+§. 336. Verfahren bei der Ermittlung des Bestandesvorrathes und Zuwachses
+66
+66
+70
+70
+VIII. Die Forstbeschreibung.
+72
+§. 37. Zweck der Forstbeschreibung im Vergleich wit der Holzbestandes beschreibung
+§. 38. Die einzelnen Abschnitte der Forstbeschreibung :
+g. 339. Mitwirkung bei der Beschaffung der Nachweise von Punkt 1 bis 1:3 im §. 338.
+72
+75
+IX. Betriebsvorschläge für den ganzen Forst und im IIinblicke auf den Verlauf des nächsten
+Umtriebe s.
+$. 10. Zeitpunkt für die Vorlage von Betriebsvorschlägen, falls sie die Ertragsermittlung und die Wirthschafts-
+pläne beeinflussen.
+§. 41. Gegenstände der Betriebsvorschläge :
+75
+75
+i
+----- 12 / 164 -----
+6
+Seite
+g. 42. Commissionelle Priifung der Betriebsvorschläge im Wirkungskreise der Directionen. Vorlage an das
+Ackerbauministerium
+78
+.
+79
+80
+X. Die Berechnung des IIolzertrag es für das nächste Jahrzehnt.
+A. Grundsätze.
+§. 43. Unterscheidung der Materialerträge nach Antheilen der Haubarkeits- oder Zwischennutzung
+g. H. Vorsichten bei der Benützung der Einzelfactoren zur Ertragsberechnung .
+B. Rechnungsverfahren.
+$. 45. Ertragsberechnung für den schlagweisen Betrieb
+8. 46. Ertragsberechnung für den Plänterwald
+S. 47. Berechnung des Zwischennutzungsertrages
+80
+81
+81
+XI. Hauungen für das nächste Jahrzehnt.
+.
+81
+82
+A. Haubarkeitsnutzung.
+§. 48. Auswahl der eigentlichen Schläge, Anrechnung der Massen aus den anzulegenden Sicherungsstreifen
+$. 19. Auswahl der liebsorte in den Einzeljahren des Decenniums
+B. Ausserordentlicher Holzeinschlag.
+$. 50. Holzmassen von Wirthschaftsstreifen und Umwandlungsland
+C. Zwischennutzung.
+$. 51. Auszug der Nebenbestandesmasse aus der Bestandesbeschreibung
+$. 52. Anrechnung von sporadischen Bruchhölzern und Dürrlingen
+82
+.
+82
+82
+XII. Neben nutzungen.
+g. 5:3. Die Fälle, in welchen ein Nebennutzungsplan zu verfassen
+82
+XIIJ. Plan für die Culturaufgaben des näc
+en Jahrzehntes,
+A. Bestandesbegründung.
+.
+.
+.
+§. 54. Ergänzungsculturen
+$. 55. Erste Aufforstungen
+$. 56. Bemerkungen zu $8.54 und 55
+$. 57. Beschaffung der Setzlinge
+83
+83
+83
+83
+84
+B. Hilfsculturen.
+$. 58. Aufzählung der Hilfsculturen und ihre Darstellung
+C. Massnahmen für Forstschutz und Eintheilung.
+§. 59. Dic Bezeichnung und Motivirung dieser Massnahmen . .
+84
+XIV. Wege und Bringungsanstalten.
+$. 60. Der Plan für neue Anlagen im Jahrzehnt
+$. 61. Erhaltungsarbeiten an den Wegen und Bringungsanstalten
+84
+85
+XV. Gebäude.
+§. (52. Neue Herstellungen
+§. 63. Ausbesserung der vorhandenen Gebäude .
+85
+85
+XVI. Allgemeine Vorschrift für mehrere Tabellen des Betriebsregelungsoperates.
+§. 64. Behandlung der Eintragungen in die Tabellen .
+85
+----- 13 / 164 -----
+7
+XVII. Jährliche Nachtragsarbeiten.
+A. Gedenkbuch.
+Seite
+86
+86
+0
+§. 65. Zweck, Inhalt und Führung des Gedenkbuches
+B. Das Wirthschaftsbuch.
+ş. 66. Der erste Theil des Wirthschaftsbuches zur Vergleichung der Ertragsschätzung mit den Ertragsergebnissen
+für den Einzelnbestand
+§. 67. Zweiter Theil des Wirthschaftsbuches zur Vergleichung zwischen geschätztem und wirklichem Ertrage des
+ganzen Etatskörpers .
+§. 68. Der dritte Theil des Wirthschaftsbuches zur bestandesweisen Aufzeichnung des Aufforstungsvollzuges .
+§. 69. Der vierte Theil des Wirthschaftsbuches zur Evidenzhaltung über die gesammte Aufforstungsfläche
+§. 70. Anlagezeitpunkt und Führung der vier Theile des Wirthschaftsbuches
+88
+O
+1
+1
+89
+89
+89
+.
+.
+XVIII. Periodische Revisionen der Ertrags- und Betriebsregelung.
+§. 71. Die fünfjährigen Revisionen und ibr Zweck .
+§. 72. Die Aufgabe der zehnjährigen Revisionen
+.
+89
+89
+=1
+12
+2
+n
+17
+22
+n
+Beilagen:
+Formular 1. Flächentabelle
+91
+2. Ertragstafel
+94
+3. Bestandesbeschreibung
+95
+4. Altersclassen-Verhältnissnachweis
+99
+5. Darstellung des idealen Altersclassen-Verhältnisses (iler anzustrebenden Bestandesordnung)
+102
+6. Voranschlag der innerhalb der Ausgleichs- oder Umtriebszeit für die Haubarkeitsnutzung verfügbaren
+Holzmassen
+103
+7. Plan und Nachweis für die Haubarkeits- und Zwischennutzung des kommenden Jahrzehntes
+105
+8. Plan und Nachweis für die Aufforstungen und die Zwischennutzung des kommenden Jahrzehntes . 109
+9. Gedenkbuch
+113
+10. Wirthschaftsbuch, Abtheilung I.
+117
+11.
+II.
+121
+12.
+III.
+125
+13.
+IV.
+129
+17
+77
+ת
+.
+n
+2
+12
+83
+8
+----- 14 / 164 -----
+----- 15 / 164 -----
+9
+BAVUSCHE
+BIBLIOTHEK
+allNARAN
+I.
+Instruction
+für
+die Begrenzung der österreichischen Staats- und Fondsforste.
+$. 1.
+Sicherung der
+Damit über den Umfang des Grundbesitzes des Staates kein Zweifel sei,
+Eigenthumsgrenzen. und derselbe jederzeit rechtsgiltig nachgewiesen werden könne, sind die
+Grenzen der Staatsforste gegenüber dem fremden Besitze deutlich und unwandel-
+bar zu bezeichnen und durch Verfassung von Grenzurkunden sicher zu stellen.
+Wo diesen Forderungen bereits Genüge geleistet ist, haben die dazu beru-
+fenen Verwaltungs- und Inspectionsorgane sorgfältig darüber zu wachen, dass
+keine einseitige Aenderung in der Begrenzung Platz greite und dass bei eintreten-
+den rechtlichen Grenzveränderungen die Grenzurkunden – beziehungsweise
+Grenztabellen — gehörig und in legaler Weise richtig gestellt werden.
+Wo dagegen die Sicherstellung der Eigenthumsgrenzen der Staatsforste
+mangelhaft erscheint, oder wo völlig neue Begrenzungen in Folge von Wald-
+theilungen, Abtretungen, Grundtausch u. s. w. statthaben sollen, ist einer solchen
+Mangelbaftigkeit so bald als möglich abzuhelfen und sind die neuen Begrenzungen
+ohne Verzug auszuführen.
+(§. $45 des allgemeinen birgerlichen Gesetzbuches. Kaiserliches Patent über
+clie Regulirung und Ablösung der Waldservituten vom 5. Juli 1853.)
+S. 2.
+Mangelhaftigkeit in Eine Mangelhaftigkeit in der Sicherstellung der Eigenthumsgrenzen
+der Sicherstellung der kann in Folgendem bestehen:
+Eigenthumsgrenzen
+a) Die Eigenthumsgrenzen sind zum Theile zweifelhaft und werden daher
+und deren
+mehr oder weniger beanständet, daher auch Streitigkeiten und
+Erforschung,
+llebergriffe von Seite der Grenznachbarn (Anrainer) vorkommen.
+b. Die Vermarkung entspricht ganz oler theilweise nicht ihrem Zwecke, weil
+sie minder dentlich und unwandelbar erscheint, oder es sind die Grenz-
+zeichen in Gefahr, durch weitere Verletzungen ganz unkenntlich zu werden.
+) Es fehlt eine rechtsgiltige deutliche Grenzurkunde.
+----- 16 / 164 -----
+10
+$. 3.
+Verhalten bei Zweifeln
+und Anständen,
+Streitigkeiten und
+Uebergriffen (s. 2 :t).
+Zweifel und Anstände sind, wo es möglich, durch sorgfältige Forschun-
+gen nach oder in den bezüglichen Urkunden und aus dem Inhalte der öffent-
+lichen Bücher, Gutsbeschreibungen und Urbarien, insbesondere aber durch die
+Original-Katastralkarten und die Aussagen sachkundiger Zeugen zu beseitigen.
+Ist jedoch die Beseitigung der Zweifel und Anstände im Wege des giitlichen
+Uebereinkommens mit den Grenznachbarn (Anrainern) nicht möglich, so wird
+mit angemessener Berücksichtigung der Grösse und des Werthes
+der Objecte in Betracht zu ziehen sein, ob die Austragung der Sache im gericht-
+lichen Wege von der Staatsforstverwaltung selbst zu veranlassen, oder ob es
+zweckmässiger wäre, den bisherigen Zustand einstweilen zu belassen und die
+Schritte der Grenznachbarn abzuwarten.
+In allen diesen Fällen ist übrigens der Gegenstand der Beurtheilung der
+Finanzprocuratur zu unterziehen.
+Bei Streitigkeiten und Uebergriffen von Seite der Grenznachbarn
+ist zwar stets ohne Zögerung im gerichtlichen Wege vorzugehen;
+wenn sich jedoch in Folge freiwilligen Entgegenkommens der Gegner oder durch
+umsichtiges Vorgehen der Verwaltungsorgane im Verlaufe der gerichtlichen Amts-
+handlung oder noch vor derselben die Gelegenheit ergeben sollte, einen Vergleich
+zu schliessen, der mit Rücksicht auf den Erfolg in der Sache selbst, und mit
+Rücksicht auf Kostenersparung durch Gewinn an Zeit und Arbeit, so wie durch
+Beseitigung des gerichtlichen Verfahrens als vortheilhaft erkannt werden
+muss,
+ist
+die Vergleichsverhandlung nach vorläutiger Anfrage bei der Finanz-Procuratur ein-
+zuleiten, bei Gefahr am Verzuge aber von den betheiligten Verwaltungsorganen
+unter Vorbehalt der höheren Genehmigung sogleich ein vorläutiges l'eber-
+einkommen zu treffen.
+Mittlerweile wird genau dariiber zu wachen sein, dass die von der Staats-
+verwaltung angesprochene Grenzlinie sichtbar erhalten werde.
+Verhalten bei nicht
+entsprechender
+Begrenzung.
+S. 4.
+Die Beseitigung einer nicht entsprechenden Begrenzung soll selbst in
+dem Falle, als sie nach Massgabe der bestehenden Gesetze und Anordnungen im
+gerichtlichen Wege erwirkt werden könnte, zunächst durch gütliches Ueberein-
+kommen versucht werden und nur wenn dieser Versuch fruchtlos bleibt, ist der
+gerichtliche Weg einzuschlagen.
+Errichtung der
+fehlenden
+Grenzurkunden.
+$. 5.
+Die Herstellung fehlender rechtsgiltiger und deutlicher Grenzurkunden,
+ist vorerst ebenfalls durch gütliches L'ebereinkommen zu versuchen.
+Wo der allgemeine Kataster bereits ins Leben getreten ist, kann, wenn der
+thatsächliche und als richtig anzusehende Bestand der Grenzen mit dem Kataster
+übereinstimmt, vorläufig auch nur die Anerkennung der Richtigkeit des Katasters
+von den Grenznachbarn schriftlich und rechtsgiltig zu erwirken getrachtet und
+die Ausfertigung specieller Grenzbeschreibungen mit mehr Beruhigung auf einen
+gelegeneren Zeitpunkt verschoben werden.
+----- 17 / 164 -----
+11
+Verweigern die Grenznachbarn die Errichtung einer Grenzurkunde, so ist
+diese im gerichtlichen Wege zu erwirken.
+§. 6.
+Zielpunkte bei völlig
+Sowohl bei völlig neuen, als auch bei der Berichtigung und Vervoll-
+neuen, sowie bei der ständigung schon bestehender Begrenzungen, es mögen diese durch
+Berichtigung schon be- giitliches Uebereinkommen oder im gerichtlichen Wege zu Stande kommen, ist
+stehender Begren-
+folgendes ins Auge zu fassen:
+zungen.
+a) Die Festlegung des Grenzzuges in der Natur,
+b) die Wabl und Bezeichnung der Grenzmarken,
+c) die Art und Weise der Aufnahme, Beschreibung und Verzeichnung des
+Grenzzuges,
+d) die Bestreitung der Kosten,
+e) die Ausführung der Begrenzungs-Arbeiten,
+f) die Abfassung der Grenzurkunde.
+Festsetzung des Grenz-
+zuges in der Natur.
+$. 7.
+Bei der Festsetzung des Grenzzuges in der Natur ist sowohl auf den
+äusseren Umfang der Forste, als auch auf die im Innern derselben befindlichen
+fremden Realitäten (Enclaven) gehörig Bedacht zu nehmen.
+Insoweit es räthlich erscheint, wo es leicht und möglichst schnell thunlich ist,
+und wenn die Grenznachbarn sich dazu geneigt zeigen, ist hierbei unter Vorbehalt
+der Genehmigung des Ackerbau-Ministeriums auf eine angemessene Arrondirung
+der Forste hinzuwirken, und zwar theils durch Vereinfachung des Grenzzuges
+mittelst Aus- und Eintausch der Ein- und Aussprünge behufs Herstellung lang und
+gerade fortlaufender Grenzlinien, theils durch den Austausch von Enclaven gegen
+Waldparzellen im äusseren l'infange.
+Dabei miissen jedoch stets die Waldbestandes-Verhältnisse, insbesondere
+aber die allfällige Windbruchgefahr, die Ausbringung der Forst-
+producte zu den Abfahrtwegen, Trittwässern u. s. w. berücksichtigt werden.
+Für den Scheitelpunkt eines jeden Grenzwinkels ist in der Regel ein beson-
+deres Grenzzeichen festzusetzen.
+Wo die Grenze geradlinig fortläuft, soll man von einem Grenzzeichen zum
+andern sehen können.
+Auf sehr langen, geraden Grenzlinien sind in einer Maximal-Entfernung von
+300 Meter Zwischensteine (Laufer) zu setzen, deren Aufstellung, Numerirung
+und Verzeichnung ganz conform mit den eigentlichen Grenzsteinen zu behan-
+deln ist.
+Wo die Grenze durch natürliche Gegenstände als Flüsse, Bäche, Gräben,
+scharfe Bergrücken, Felsenpartien u. $. w., oder durch gebaute Strassen gebildet
+wird, oder wo diese Gegenstände als Grenzmale ausdrücklich vereinbart werden,
+yeniigt cs, deren Lage zur Vermeidung von Irrungen genau zu beschreiben, und die
+künstliche Begrenzung auf die Anfangs-, End- und markantesten Brechungspunkte
+immer aber derart zu beschränken, dass der Zusammenhang der Grenzzliye herge-
+stellt ist.
+2*
+----- 18 / 164 -----
+12
+Sind derlei Grenzzeichen wie z. B. Flüsse, Bäche, Strassen 11. s. w. gemein-
+schaftliches Eigenthum zu gleichen Theilen, so sind die Grenzsteine ab-
+wechselnd auf den beiden Seiten aufzustellen.
+Aerarische landwirthschaftliche Grundstücke, welche an die ärarischen
+Waldungen anstossen, sind in den allgemeinen Grenzzug mit einzubeziehen,
+dagegen isolirt gelegene derartige Objecte wie isolirte Waldcomplexe zu be-
+handeln.
+Die Grenzzeichen sind genau im Scheitel des Grenzwinkels, daher bei
+Gräben, welche in der ganzen Breite ärarisch sind, auf der dem Anrainer zuge-
+kehrten Grabenseite anzubringen.
+Ist der Grenzgraben gemeinschaftliches Eigenthum, so ist das Grenzzeichen
+in der Mitte des Grabens oder, wo dieses wegen etwa starken Gefälles und
+abfliessenden Wassers unthunlich erscheint, abwechselnd zu beiden Seiten des
+Grenzgrabens als sogenannte ,Rückmarke aufzustellen und als solche in der
+Grenztabelle ausdrücklich zu beschreiben.
+Der Grabenauswurf ist stets auf dem Besitze desjenigen Anrainers abzulagern,
+welcher Eigenthümer des Grabens ist.
+Grenzzeichen.
+S. 8.
+Bei der Wahl der Grenzzeichen ist im Allgemeinen auf Deutlichkeit der
+Grenze und Dauerhaftigkeit der Grenzzeichen bei möglichster Sparsamkeit Rück-
+sicht zu nehmen.
+Diese Zwecke werden in erster Linie durch Grenzgräben erreicht, welche
+daher als Grenzzeichen vorzugsweise und auch dort anzubringen sind, wo die
+Grenzlinien durch Steine oder Pfähle bereits ersichtlich gemacht wurden.
+Behut's genauer Verzeichnung der Grenzlinien und Abfassung einer unwandel-
+baren Grenzurkunde ist jedoch die Bezeichnung der Eckpunkte im Grenzzuge
+durch Steine, Pfälle und dgl. unerlässlich imd es werden daher Grenzsteine in
+Verbindung mit (renzgräben in der Regel als Grenzzeichen zu wählen sein.
+An den der Abschwemmung oder der Ausrachelung ausgesetzten Orten sind die
+Grenzgräben durch sogenannte Sprunggräben zu ersetzen, welch' letztere auch
+dort anzuwenden sind, wo l'surpirungen zu befürchten, die Grenzgräben aber, aus
+Geld-, Zeit- oder Arbeitermangel nicht gleich in der ganzen Länge ausgeführt
+werden können.
+Auch müssen nicht immer beide Grenzzeichen gleichzeitig errichtet werden,
+so dass die Grenze zuerst durch Steine ersichtlich gemacht und später init Gräben
+versehen werden kann oder ungekehrt, wem z. B. umliegende lekergrinde eine
+successive Usurpirung und Verrückung der Grenzsteine befürchten lassen.
+Die Verwendung regelmässig belauener Grenzsteine soll in der
+Reyel nur dort statthaben, wo die Beischaffung derselben minder kostspielig ist,
+wo die geniigende Bezeichnung der Grenze in anderer Weise t'üglich nicht erreicht
+werden kann und wo der Werth der Grundstücke eine grössere luslage vollständig
+rechtfertigt.
+Statt der regelmässig behauenen Grenzsteine können nach Umständen und
+insbesondere als Zwischenzeichen auch unbeliau ene starke und zugleich flache
+----- 19 / 164 -----
+13
+wenn
+Steine, angewendet werden, wogegen Lagersteine welche erfabrungsgemäss
+sehr leicht vermoosen und am wenigsten in die Augen fallen, nur mit grosser Vor-
+sicht als Grenzzeichen zu verwenden sind.
+Auch Holzsäulen, Aufwürfe
+aus groben Steinen oder Erde,
+letztere mit Rasen belegt, sind nur
+dann als Grenzzeichen zu wäblen,
+wenn Steine entschieden zu kost-
+spielig wären, oder
+die
+Fixirung des Grenzzuges wegen
+Gefahr beim Verzuge sehr rasch
+durchgeführt werden müsste. Uebri-
+gens sind Holzsäulen als Grenz-
+zeichen mindestens 0.75 Meter in
+die Erde zu versenken und an der
+untersten Stelle gut zu verankern.
+Die Bezeichnung der Grenze
+durch Bäune soll gänzlich unterbleiben.
+Die Grenzsteine sind nach Massgabe der Oertlichkeit gehörig tief einzusetzen
+und sollen wie auch die Grenzsäulen nicht mehr als 0:4 Meter die Erdoberfläche
+überragen, um bei der Vermessung die Aufstellung der Mess-Instrumente nicht zu
+hindern. Um den Standpunkt verloren gegangener Grenzsteine leichter und
+namentlich sicherer aufzufinden, sind unter jedlen Grenzstein vor der Ein-
+senkung unverwesliche Gegenstände, wie Glasscherben, Kohle Ziegelstücke u. dgl.
+zu legen.
+Jedler isolirte ärarische Grundcomplex hat eine, den ganzen Grenzzug in fort-
+laufender Zahlenfolge einschliessende eigene Numerirung, wobei auf die
+bestehende Forstbezirks-Eintheilung keine Rücksicht zu nehmen ist und die Num-
+mernfolge der Grenzsteine eintretenden Falles aus einem Wirthschaftsbezirk in
+den andern von Nr. 1 bis an das letzte Grenzzeichen fortzulaufen bat.
+Jeder Enclave freinden Eigenthumes im ärarischen Grundbesitz ist wieder
+eine eigene Nuunernfolge, von Nr. 1 anfangend, zu geben.
+Die Nummerirung jedes ärarischen Grundcomplexes hat in der Regel
+an der Nordgrenze bei einem solchen Grenzpunkte zu beginnen, wo die an-
+stossenden Gemarkungen zweier Katastralgemeinden sich scheiden, oder ein Weg
+in den Wald zieht, oder sonst ein bleibendes Merkmal vorhanden ist, und ist von
+da aus gegen Osten, Süden und Westen bis zu dem Ausgangspunkte fortzusetzen,
+so dass der ärarische Grundbesitz rechts bleibt, wenn man der Nummernordnung
+an den äusseren Grenzen des Waldes folgt, und links, wenn man der Nummern-
+folge an den Grenzen der Waldenclaven nachgeht.
+Wo die Localverliältnisse es nicht vermeiden lassen, die Nummernfolge bis
+in die Tausende fortzusetzen, ist, um das Einmeisseln von vier Nummern neben
+einander zu vermeiden, die Zahl der Tausende durch Querstriche oberhalb der
+Nummern auszudrücken; z. B. für 1836. .. 836; fiir 2473
+473; fiir
+3561 ... 561 11. s. W.
+----- 20 / 164 -----
+14
+Alle Grenzmarken mit Einschluss der Zwischenzeichen sind auf der dem Reichs-
+oder Fondsforste zugekehrten Seite mit dem Zeichen: K. K. - auf der entgegen-
+gesetzten Seite aber mit den Ordnungsnummern in arabischen Ziffern, circa
+6 * lang, und zwar bei Steinen durch Einmeisslung zu versehen; zur grösseren
+Deutlichkeit sind diese Zitfern und Buchstaben schwarz auf weissein Grunde
+zu bemalen.
+Wenn Besitzveränderungen durch Kauf oder Tausch die Berichtigung einer
+solchen Grenzlinic in der Folge bedingen, wird nicht die ganze Nummernfolge
+der Grenzmarken an einem Grundcomplexe geändert, sondern es erhalten die
+neuen Grenzpunkte die correspondirenden der alten wieder, und sind der neuen
+Grenzpunkte mehr, so werdeil diese eingeschalteten z. B. mit
+24 * bezeichnet.
+Sind aber deren weniger, so bleiben die iiberflüssigen Nummern ganz weg, und es
+wird auf den Endsteinen das Leberspringen durch das Anbringen der nächst-
+folgenden Nummern bemerkt; z. B. wären bei einer (irenzberichtigung die Num-
+mern 26, 27, 28 und 29 weggefallen, so wäre der Stein Nr. 25 mit auf und der Stein
+30
+30
+25
+Nr. 30 mit von zu bezeichnen.
+Bei Ergänzungen von Vermarkungen ist die Art und Weise der Bezeichnung
+conform init jener auf den schon bestehenden Grenzmarken auszuführen.
+Die Richtung der Grenzlinien oder der Schenkel der Grenzwinkel soll oben
+auf die Grenzsteine nicht eingehauen werden.
+Die Grenzlinien sind derart often zu halten, dass von einem Grenzpunkte
+zum nächsten gesehen werden kann; zwischen Waldpartien geradlinig fortlaufende
+Grenzen sind durch schmale Durchlaue kenntlich zu machen.
+!
+Aufnahme, Beschrei. Die Aufnahme des Grenzzuges ist nach den SS. + ud i der Instruction für
+bung und Verzeichnung die Vermessung der Staatsforste auszuführen.
+des Grenzzuges.
+Die Beschreibung des Grenzzuges hat sich nur auf die markantesten
+Punkte, das ist auf jene Merkmale zu beschränken, welche leicht und sicher, ent-
+weder zur ('onstatirung ciner Verrickung der Grenzzeichen oder zur Wieder-
+bestimmung verloren gegangener Grenzpunkte dienen.
+Es ist daher die Lage der Grenzpunkte gegen einander und zum gesammten
+Eigenthume hauptsächlich durch Angabe ler (rösse der (irenzwinkel gegen den
+ärarischen Besitz und die Länge der Grenzlinien --- oder, wo die Forstvermessung
+sich an die Landesvermessung anselluss, durch dugabe der ('oorilinaten der
+(irenzpunkte, bezogen auf das liensystem der Katastralvermessung des Kron-
+landes, zu bezeichnen.
+Es ist ferner in der Begrenzungs-Tabelle, Rubrik: „Bemerkungs anzuführen:
+die Art der angrenzenden ('ulturgattung, ob die Grenzlinie durch Gräben, Bäche,
+Strassen, Wege, Durchlaue etc. gebildet, ob dieselbe von Wegen, Strassen,
+Gewässern etc. durchschuitten wird. Nöthigenfalls sind diese Ingaben durch in
+dieser Rubrik angebrachte Zeichnungen zu ergänzen.
+Dic Verzeichnung der (irenze in einem Situationsplane soll unter
+allen Umständen stattfinden, und zwar in solcher Verjiingung, dass der Plan als
+----- 21 / 164 -----
+15
+Theil der Grenzurkunde benützt werden kann; es ist jedoch in der Grenzurkunde
+ausdrücklich hervorzuheben, dass der beigeheftete Situationsplan nur zur
+besseren Orientirung der Begrenzungstabelle dienen soll, keineswegs aber für sich
+allein zur Wiederbestimmung verloren gegangener Grenzzeichen benützt werden
+dart, und dass zu letzterem Zwecke in erster Linie die Angaben der Begrenzungs-
+tabelle selbst verwendet werden müssen.
+$. 10.
+Bestreitung der
+Kosten.
+Rücksichtlich der Begrenzungskosten ist sich im Allgemeinen, und
+wenn nicht bereits bestehende Verträge etwas Anderes bestimmen, an den §. 850
+des allgemeinen birgerlichen Gesetzbuches zu halten, wornach die Kosten von
+allen Theilnehmern nach Mass ihrer Grenzlinien zu bestreiten sind.
+In der Regel sollen daher je zwei Grenznachbarn, die sich fiir ihre beider-
+seitige Grenzstrecke ergebenden Begrenzungskosten zu gleichen Theilen tragen.
+Wenn sich jedoch unter l'mständen, welche die Uebernahme grösserer Begren-
+zugskosten von Seite der Grenznachbarn möglich machen, als z. B. bei den an
+Staatsforste anstossenden sehr werthvollen, anderweitigen Culturgründen, eine
+grössere Beitragsleistung von Seite dieser Nachbarn erwarten lässt, ist hierauf
+hinzuwirken, und ebenso kann in dem Falle, als aus der erzielten Begrenzung
+wesentliche Vortheile für das Aerar hervorgehen sollten, ausnahmsweise auf
+die Uebernahme eines yrösseren Kostenantheiles von Seite der Staatsforstver-
+waltung eingegangen werden.
+Bei solchen Commissionsverhandlungen ist daher hinsichtlich eines jeden
+Inrainers ein Vergleich über die ihn treffende Beitragsquote mit Festsetzung einer
+angemessenen Zahlungsfrist zu versuchen, und wenn ein solches giitliches Veber-
+einkommen nicht zu Stande käme, nach Erforderniss das Begehren um gerichtliche
+Zuerkennung der rücksichtlich jedes Anrainers speciell anzugebenden, nach dem
+gesetzlichen Ausmasse zu bestimmenden Kostenantheile zu stellen.
+Das etwa nicht rechtzeitige Eingehen des Betrages der Begrenzungskosten
+von Seite der Anrainer darf die Begrenzungsarbeiten nicht aufhalten und sind in
+diesem Falle sämmtliche Kosten vorschussweise aus den ärarischen Kassen zu
+decken.
+Das letztere kann auch in dem Falle stattfinden, wenn sich die Anrainer zur
+Beitragsleistung zwar willfährig zeigen, die Höhe der Begrenzungskosten aber
+vor gänzlicher Beendigung der Begrenzung nicht leicht oder sicher ermittelt
+werden könnte.
+Ausfiihrung der Be-
+grenzungsarbeiten.
+S. 11.
+Bezüglich der Frage, wem bei Grenzverhandlungen mit Anrainern die Be-
+grenzungsarbeiten zu übertragen sind, ist in der Regel daraut zu bestehen, dass
+die Begrenzungs- und Vermessungsarbeiten von den Organen der Staats-
+forstverwaltung ausgeführt werden.
+Nur in dem Falle, wenn der Anrainer ein grösserer Waldbesitzer ist,
+welcher über entsprechend ycodätisch gebildetes Personale verftigt, kann von der
+Ausführung der Begrenzung durch die Organe der Staatsforstverwaltung
+----- 22 / 164 -----
+16
+.
+ausnahmsweise abgesehen werden. Doch ist auch in diesem Falle der Staatsforst-
+verwaltung eine wirksame Controle und genaue Ueberprüfung der Begrenzungs-
+arbeiten vorzubehalten.
+S. 12.
+}
+1
+Abfassung der Grenz Die Grenzurkunden sollen in der Hauptsache bestehen:
+urkunde.
+a) aus dem nach Inhalt des Formulares möglichst kurz gefassten Protokolle,
+worin nach der namentlichen Aufführung aller Betheiligten zunächst die Ver-
+anlassung zur Errichtung der Urkunde, beziehungsweise zur Begrenzung
+selbst anzugeben ist,
+b) aus der gerichtsordnungsmässig anzuheftenden Begrenzungstabelle, welche
+nach den im g. 9 enthaltenen Bestimmungen in tabellarischer Form (For-
+mular 1) zu verfassen ist;
+c) aus den Grenzkarten.
+Im Protokolle soll wo möglich die Zeit festgesetzt werden, binnen welcher
+jedesmal eine Erneuerung der Grenzen, und zwar auf gemeinschaftliche Kosten
+vorzunehmen ist. Ferner hat das Protokoll die Bestimmung zu enthalten, dass die
+Grenzurkunde für das Aerar und diejenigen namentlich aufzuführenden Parteien,
+welche der Ertheilung einer höheren Genehmigung bedürfen, vom Tage der
+Bestätigung durch die Behörden, für alle übrigen Betheiligten aber vom Tage der
+Unterschrift giltig sei.
+Am Schlusse der Urkunde sind Ort und Tag der Abfassung anzusetzen.
+Wurde die Begrenzung ohne gerichtliche Intervention vorgenommen, so sind
+sowohl das hierüber aufgenommene Protokoll selbst, als auch die beigehefteten
+Behelfe von sämmtlichen Betheiligten, im Beisein und unter Mitfertigung
+von zwei unbedenklichen Zeugen, mit der ausdrücklichen Erklärung
+zu unterzeichnen, dass die Betheiligten mit dem Inhalte des Protokolles und seiner
+Beilagen vollkommen einverstanden sind, und dass jedem Theile das Recht ein-
+geräumt werde, die Grenzurkunde ohne weiteres Einvernehmen bei den gegen-
+seitigen Realitäten bücherlich auszeichnen zu lassen.
+Sollte ein oder der andere der Betheiligten des Schreibens unkundig oiler
+wegen körperlicher Gebrechen zu schreiben unfähig sein, so ist sein Name durch
+cinen der beiden Zeugen mit ausdrücklicher Angabe „als Namensfertiger des
+N. N. und Zeuge“ zu unterschreiben, während der Betheiligte selbst sein gewöhn-
+liches Handzeichen beizusetzen hat. Werden Grenznachbarn durch Bevollmäch-
+tigte vertreten, so miissen ihre Vollmachten der Grenzurkunde ebenfalls gerichts-
+ordnungsmässig beigeheftet werden.
+Zur Erfüllung dieser Vorschrift sind überhaupt alle Bogen der Urkunde mit
+cinem Faden oder einer Schnur zusammen zu heften, beide Enden des Fadens
+oder der Schnur mit hartem Siegelwachse festzumachen, und die Petschafte der
+Aussteller darauf zu drücken.
+Wenn die Vermarkung nicht unter Intervention der Gerichte stattfindet, ist
+auf die Legalisirung der Unterschriften Bedacht zu nehmen. (SS. 31 und 32 des
+Grundbuchs-Gesetzes vom 25. Juli 1871, R. G. Bl. Nr. 95.)
+----- 23 / 164 -----
+17
+Die bücherliche Einverleibung der Grenzurkunden auf die Realitäten der
+Grenznachbarn und sonstigen Interessenten, welche Realitäten in dem betreffenden
+Protokolle, beziehungsweise in der Einverleibungserklärung genau zu bezeichnen
+sind, wird den hierzu berufenen Verwaltungsorganen ausdrücklich zur Pflicht
+gemacht.
+S. 13.
+Besondere Berick-
+Bei den Begrenzungen behufs Feststellung cines zu Gunsten dritter Personen
+sichtigung vorstehen. mit Servituten belasteten ärarischen Grundcomplexes ist von Seite der Staatsforst-
+der Vorschriften bei verwaltungs-Organe insbesondere daranf hinzuwirken, dass die in gegenwärtiger
+Begrenzungen in Folge Vorschrift enthaltenen administrativen Grundsätze allenthalben zur Anwendung
+von gesetzlichen Regu-
+kommen. Insofern iibrigens rücksichtlich solcher Begrenzungen besondere gesetz-
+lirungen des Besitz-
+standes, und angemes- liche Bestimmungen bestehen oder erst erfolgen, muss sich diesen Bestimmungen
+sene Begrenzung jener gemäss benommen werden.
+Waldtheile, in welchen
+Ist auf Grund der Reguliruung von Berechtigungen klar und bestimmt
+von Seite der Einge-
+forsteten gewisse Be: ausgesprochen, in welchen Waldtheilen (Parzellen) gewisse Nutzungen von Seite
+Anderer fernerhin stattzufinden haben, so können derlei Waldtheile rücksichtlich
+rechtigungen ferner-
+hin ausgeübt werden dieser Nutzungen nach Erforderniss ebenfalls gehörig begrenzt werden.
+dürfen.
+Diese Begrenzung ist jedoch in thunlichst einfacher und minder kostspieliger
+Weise zu bewirken und es sind für solche Begrenzungen andere Grenzzeichen zu
+wählen, als fiir die Vermarkung der Eigenthumsgrenzen.
+$. 11.
+Sonstige Bestim-
+mugen.
+Die l'eberwachung der Eigenthumsgrenzen ist durch die besondere Dienst-
+instruction geregelt.
+Die Originalgrenzurkunden sind bei den Forst- und Domänen Directionen
+aufzubewahren und den Verwaltungsorganen gerichtlich beglaubigte
+Abschriften der Grenzurkunden hinauszugeben.
+Den betheiligten Parteien können über ihr Ansuchen und auf ihre Kosten
+Ausziige aus der Grenzurkunde ausgefolyt werden.
+3
+----- 24 / 164 -----
+----- 25 / 164 -----
+19
+Formular 1.
+Begrenzungs-Tabelle
+für den
+Staatsforst.
+.
+in k. k. Wirthschaftsbezirke .
+B.com
+.
+3113107:K
+C!!!
+.
+3*
+----- 26 / 164 -----
+20
+Pay. 1.
+Horizontale Entfernung
+Bezeichnung der angren-
+der Grenzmarken
+vom
+Der Grenzmarke
+Grenzwinkel gegen
+('oordinaten, und zwar den ärarischen
+Nr. und
+Grundbesitz auf
+vom
+Meridian Perpendikel vorstehendem
+sonstige
+der Landesvermessung
+Grenzpunkte
+Bezeichnung
+Mi-
+Meter
+Grade
+nuten
+izenden Realitäten und des
+Besitzers derselben
+von
+bis
+in Meter
+Nr.
+400gradiger
+Limbus
+z. B.:
+K. K. 1
+Bindergut, inneliegend
+im Grundbuche
+.
+2
+99
+3
+19
+(oder in der Landtatel
+)
+Parcellen Nr.
+der Katastral. Gemeinde
+4
+2
+12
+5
+Besitzer Josef Mayer
+19
+12
+6
+7
+5
+7
+72
+8
+7
+77
+9.
+99
+10
+72
+11
+12
+17
+-
+----- 27 / 164 -----
+21
+Pag. 2.
+G I on z beschreib 111 g
+Unterschrift der Anrainer.
+----- 28 / 164 -----
+22
+Formular 2.
+Protokoll
+über
+die in Folge Erlasses.
+(genehmigten Vergleiches etc.)
+vorgenommene commissionelle Begrenzung des forstärarischen Grundeigenthumes im rst
+wirthschaftsbezirke*)
+Gegenwärtig.
+Von Seite der übrigen Interessenten. **)
+Von Seite des k. k. Forstärars:
+1. Das hiemit begrenzte forstärarische Grundeigenthum *) besteht nach dem stabilen Steuer-
+kataster aus den nachstehenden Parcellen.
+Fläche
+Parcellen
+Nr.
+Steuergemeinde
+Inneliegend
+Hektar
+Ar
+(z. B. im Grundbuche des k. k. Bezirks-
+gerichtes
+Folio
+oder in der Landtafel
+Einlage Nr. .
+*) Oder sonstige vamentliche Bezeichnung des begrenzten Objectes.
+**) 2. B. Josef Mayer, als Besitzer des Bindergutes, inneliegend im Grundbuche
+Parz. Ni..
+der Katastralgemeinde.
+----- 29 / 164 -----
+23
+alls-
+2. Die hiermit vermarkten Grenzen wurden auf folgende Weisc festgestellt und dauernd
+gesichert. *)
+Die Anfangs-, End- und Winkelpunkte der Grenzzüge wurden mittelst bebauener Grenzsteine,
+längere gerade Grenzlinien durch eingeschobene Zwischensteine (Laufer) und zwar durchweg in einer
+Entfernung bezeichnet, dass von einem Stein zum anderen gesehen werden kann.
+Wo des felsigen Terrains halber die Einsetzung von Grenzsteinen unzulässig war, wurden in den
+an entsprechender Stelle vorhandenen, deutlich sichtbaren Lagersteinen die Grenzmerkmale eingehauen,
+welch' letztere in der diesem Protokolle gerichtsordnungsmässig angehefteten Begrenzungstabelle
+näher bezeichnet sind.
+Natürliche Grenzen, als: Flüsse, Bäche, Gräben, scharfe Bergricken, Felspartien, gebaute Strassen
+und dgl. wurden an den Anfangs- und Endpunkten, dann an den mark antesten Brechungspunkten
+mit Grenzsteinen jeweilig derart versehen, dass der Zusammenhang der Grenzziige hergestellt ist.
+Die Grenzsteine sind in der Regel auf den Grenzlinien selbst angebracht und letztere --
+genonimen an den der Abschwemmung ausgesetzten oder sonst nicht geeigneten Oertlichkeiten
+mittelst ausgehobener Grenzgräbchen gekennzeichnet worden.
+An Grenzlocalitäten, welche der Abschwemmungs- oder Abrutschungsgefahr oder aber anderen
+Zufälligkeiten unterliegen, wurden die Grenzsteine riickwärts der Grenze als sogenannte „Rückmarken"
+aufgestellt, und sind letztere als solche in der Grenztabelle ausdrücklich beschrieben worden.
+Sämmtliche Grenzsteine wurden an der dem forstärarischen Grundeigenthume zugekehrten Seite mit
+der Bezeichnung K. K. und an der entgegengesetzten Seite mit von Nord über Ost fortlaufenden von
+1 beginnenden arabischen Nummern versehen.
+Zur grösseren Deutlichkeit sind auf den Grenzsteinen die Nummern und Buchstaben eingehauen
+und mit schwarzer Farbe auf weissem Grunde ersichtlich gemacht worden.
+3. Die horizontale Entfernung der einzelnen Grenzsteine von einander, deren Nummern, sonstige
+Bezeichnung und Standorte, deren Coordinaten bezogen auf die Landesvermessung, die Grösse der
+Grenzwinkel nach Graden und Minuten in ('entesimaltheilung an der dem forstärarischen Grundbesitze
+zugekehrten Seite, die angrenzenden Realitäten und Namen der jetzigen Eigenthümer letzterer, sowie
+die vermarkten Grenzzüge selbst, sind in der beigehefteten Begrenzungstabelle und in den gleichzeitig
+verfassten, von sämmtlichen Interessenten unterfertigten, einen integrirenden Bestandtheil dieser Ver-
+markungsurkunde bildenden angehefteten **) (írenzkarten genau verzeichnet und beschrieben.
+Es wird ausdrücklich hervorgehoben, dass diese Grenzkarten nur zur Orientirung bezüglich der
+in der Begrenzungstabelle beschriebenen (irenzen dienen und – insofern die Begrenzungstabelle
+selbst Aufschluss gibt – keinesfalls zur Wiederbestimmung verloren gegangener Grenzzeichen benützt
+werden dürfen, daher zu letzterem Zwecke in erster Linie die Angaben der Begrenzungstabelle selbst
+verwendet werden müssen. ***)
+*) Die Angaben des Punktes 2 über die Feststellung und Sicherung der Grenze haben selbstverständlich den
+jeweiligen thatsächlichen Verhältnissen zu entsprechen und sind daher für jeilen Einzelfall in geeigneter Weise
+abzuändern und zu ergänzen.
+**, Wenn die Grenzkarten des grossen C'mfanges halber oder aus sonstigen Ursachen der Vermarkungsurkunde
+nicht angeheftet werden können, ist das Wort yngeheftet“ selbstverständlich im Contexte wegzulassen.
+***) Auf jedle Grenzkarte ist die Clausel:
+Diese Grenzkarte wird als integrirender Bestandtheil der Grenzurkunde ddo. .
+nach dem Umfange der Bestimmungen letzterer anerkannt“ zu setzen und diese
+(lausel von allen Interessenten und Zeugen imterfertigen zu lassen.
+n

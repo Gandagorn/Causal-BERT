@@ -1,0 +1,186 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.CausalConstructicon|Roles
+#T_SP=webanno.custom.CausalTypes|Types
+
+
+#Text=So crazy sind sie im Mutterland des kick and rush ob der allgemeinen Fußballaktien-Hysterie schon geworden , daß selbst der Weltrekordtransfer von EM-Star Alan Shearer nach Newcastle so lange hin und her gerechnet wird , bis aus einer Ausgabe von 15 Millionen eine Einnahme von fünf Millionen Pfund geworden ist .
+1-1	0-2	So	Effect[1]	_	
+1-2	3-8	crazy	Effect[1]	_	
+1-3	9-13	sind	Effect[1]	_	
+1-4	14-17	sie	Effect[1]	_	
+1-5	18-20	im	Effect[1]	_	
+1-6	21-31	Mutterland	Effect[1]	_	
+1-7	32-35	des	Effect[1]	_	
+1-8	36-40	kick	Effect[1]	_	
+1-9	41-44	and	Effect[1]	_	
+1-10	45-49	rush	Effect[1]	_	
+1-11	50-52	ob	Trigger	Motivation	
+1-12	53-56	der	Cause[2]	_	
+1-13	57-68	allgemeinen	Cause[2]	_	
+1-14	69-91	Fußballaktien-Hysterie	Cause[2]	_	
+1-15	92-97	schon	Effect[3]	_	
+1-16	98-106	geworden	Effect[3]	_	
+1-17	107-108	,	Effect[3]	_	
+1-18	109-112	daß	Effect[3]	_	
+1-19	113-119	selbst	Effect[3]	_	
+1-20	120-123	der	Effect[3]	_	
+1-21	124-142	Weltrekordtransfer	Effect[3]	_	
+1-22	143-146	von	Effect[3]	_	
+1-23	147-154	EM-Star	Effect[3]	_	
+1-24	155-159	Alan	Effect[3]	_	
+1-25	160-167	Shearer	Effect[3]	_	
+1-26	168-172	nach	Effect[3]	_	
+1-27	173-182	Newcastle	Effect[3]	_	
+1-28	183-185	so	Effect[3]	_	
+1-29	186-191	lange	Effect[3]	_	
+1-30	192-195	hin	Effect[3]	_	
+1-31	196-199	und	Effect[3]	_	
+1-32	200-203	her	Effect[3]	_	
+1-33	204-213	gerechnet	Effect[3]	_	
+1-34	214-218	wird	Effect[3]	_	
+1-35	219-220	,	Effect[3]	_	
+1-36	221-224	bis	Effect[3]	_	
+1-37	225-228	aus	Effect[3]	_	
+1-38	229-234	einer	Effect[3]	_	
+1-39	235-242	Ausgabe	Effect[3]	_	
+1-40	243-246	von	Effect[3]	_	
+1-41	247-249	15	Effect[3]	_	
+1-42	250-259	Millionen	Effect[3]	_	
+1-43	260-264	eine	Effect[3]	_	
+1-44	265-273	Einnahme	Effect[3]	_	
+1-45	274-277	von	Effect[3]	_	
+1-46	278-282	fünf	Effect[3]	_	
+1-47	283-292	Millionen	Effect[3]	_	
+1-48	293-298	Pfund	Effect[3]	_	
+1-49	299-307	geworden	Effect[3]	_	
+1-50	308-311	ist	Effect[3]	_	
+1-51	312-313	.	_	_	
+
+#Text=Das symbolische Wächteramt der Bensberger Gottesburg ob des kirchlichen und weltlichen Weltgetriebes scheint also gesichert .
+2-1	314-317	Das	_	_	
+2-2	318-329	symbolische	_	_	
+2-3	330-340	Wächteramt	_	_	
+2-4	341-344	der	_	_	
+2-5	345-355	Bensberger	_	_	
+2-6	356-366	Gottesburg	_	_	
+2-7	367-369	ob	None	_	
+2-8	370-373	des	_	_	
+2-9	374-385	kirchlichen	_	_	
+2-10	386-389	und	_	_	
+2-11	390-400	weltlichen	_	_	
+2-12	401-414	Weltgetriebes	_	_	
+2-13	415-422	scheint	_	_	
+2-14	423-427	also	_	_	
+2-15	428-437	gesichert	_	_	
+2-16	438-439	.	_	_	
+
+#Text=die künstlerische Leitung stand ob der Intervention innerlich stramm und entfernte dienstfertig die Objekte der ranghohen Erzürnung .
+3-1	440-443	die	Effect[4]	_	
+3-2	444-457	künstlerische	Effect[4]	_	
+3-3	458-465	Leitung	Effect[4]	_	
+3-4	466-471	stand	Effect[4]	_	
+3-5	472-474	ob	Trigger	Motivation	
+3-6	475-478	der	Cause[5]	_	
+3-7	479-491	Intervention	Cause[5]	_	
+3-8	492-501	innerlich	Effect[6]	_	
+3-9	502-508	stramm	Effect[6]	_	
+3-10	509-512	und	Effect[6]	_	
+3-11	513-522	entfernte	Effect[6]	_	
+3-12	523-535	dienstfertig	Effect[6]	_	
+3-13	536-539	die	Effect[6]	_	
+3-14	540-547	Objekte	Effect[6]	_	
+3-15	548-551	der	Effect[6]	_	
+3-16	552-561	ranghohen	Effect[6]	_	
+3-17	562-571	Erzürnung	Effect[6]	_	
+3-18	572-573	.	_	_	
+
+#Text=`` Der Befangene sieht nicht und erkennt nicht '' , bemerkt er ob der Unruhe , die manchen Besucher angesichts der Überfülle von Deckenmalereien , Fresken und Heiligenszenen ergreift .
+4-1	574-576	``	Effect[7]	_	
+4-2	577-580	Der	Effect[7]	_	
+4-3	581-590	Befangene	Effect[7]	_	
+4-4	591-596	sieht	Effect[7]	_	
+4-5	597-602	nicht	Effect[7]	_	
+4-6	603-606	und	Effect[7]	_	
+4-7	607-614	erkennt	Effect[7]	_	
+4-8	615-620	nicht	Effect[7]	_	
+4-9	621-623	''	Effect[7]	_	
+4-10	624-625	,	Effect[7]	_	
+4-11	626-633	bemerkt	Effect[7]	_	
+4-12	634-636	er	Effect[7]	_	
+4-13	637-639	ob	Trigger	Motivation	
+4-14	640-643	der	Cause[8]	_	
+4-15	644-650	Unruhe	Cause[8]	_	
+4-16	651-652	,	Cause[8]	_	
+4-17	653-656	die	Cause[8]	_	
+4-18	657-664	manchen	Cause[8]	_	
+4-19	665-673	Besucher	Cause[8]	_	
+4-20	674-684	angesichts	Cause[8]	_	
+4-21	685-688	der	Cause[8]	_	
+4-22	689-698	Überfülle	Cause[8]	_	
+4-23	699-702	von	Cause[8]	_	
+4-24	703-718	Deckenmalereien	Cause[8]	_	
+4-25	719-720	,	Cause[8]	_	
+4-26	721-728	Fresken	Cause[8]	_	
+4-27	729-732	und	Cause[8]	_	
+4-28	733-747	Heiligenszenen	Cause[8]	_	
+4-29	748-756	ergreift	Cause[8]	_	
+4-30	757-758	.	_	_	
+
+#Text=Die Wirtschaftsminister und -senatoren der Küstenländer laufen ob des rauhen Windes aus Brüssel Sturm .
+5-1	759-762	Die	Effect[9]	_	
+5-2	763-782	Wirtschaftsminister	Effect[9]	_	
+5-3	783-786	und	Effect[9]	_	
+5-4	787-797	-senatoren	Effect[9]	_	
+5-5	798-801	der	Effect[9]	_	
+5-6	802-814	Küstenländer	Effect[9]	_	
+5-7	815-821	laufen	Effect[9]	_	
+5-8	822-824	ob	Trigger	Motivation	
+5-9	825-828	des	Cause[10]	_	
+5-10	829-835	rauhen	Cause[10]	_	
+5-11	836-842	Windes	Cause[10]	_	
+5-12	843-846	aus	Cause[10]	_	
+5-13	847-854	Brüssel	Cause[10]	_	
+5-14	855-860	Sturm	Effect	_	
+5-15	861-862	.	_	_	
+
+#Text=Ob dieser Vorlesung zur political correctness sind wir einfach platt .
+6-1	863-865	Ob	Trigger	Motivation	
+6-2	866-872	dieser	Cause[11]	_	
+6-3	873-882	Vorlesung	Cause[11]	_	
+6-4	883-886	zur	Cause[11]	_	
+6-5	887-896	political	Cause[11]	_	
+6-6	897-908	correctness	Cause[11]	_	
+6-7	909-913	sind	Effect[12]	_	
+6-8	914-917	wir	Effect[12]	_	
+6-9	918-925	einfach	Effect[12]	_	
+6-10	926-931	platt	Effect[12]	_	
+6-11	932-933	.	_	_	
+
+#Text=Er ist der Mann , dem Anfang der neunziger Jahre Hohn und Spott zuteil wurde ob seiner zwar nicht ganz ausgegorenen , allemal aber aufsehenerregenden Pläne .
+7-1	934-936	Er	_	_	
+7-2	937-940	ist	_	_	
+7-3	941-944	der	_	_	
+7-4	945-949	Mann	_	_	
+7-5	950-951	,	_	_	
+7-6	952-955	dem	Effect[13]	_	
+7-7	956-962	Anfang	Effect[13]	_	
+7-8	963-966	der	Effect[13]	_	
+7-9	967-976	neunziger	Effect[13]	_	
+7-10	977-982	Jahre	Effect[13]	_	
+7-11	983-987	Hohn	Effect[13]	_	
+7-12	988-991	und	Effect[13]	_	
+7-13	992-997	Spott	Effect[13]	_	
+7-14	998-1004	zuteil	Effect[13]	_	
+7-15	1005-1010	wurde	Effect[13]	_	
+7-16	1011-1013	ob	Trigger	Motivation	
+7-17	1014-1020	seiner	Cause[14]	_	
+7-18	1021-1025	zwar	Cause[14]	_	
+7-19	1026-1031	nicht	Cause[14]	_	
+7-20	1032-1036	ganz	Cause[14]	_	
+7-21	1037-1049	ausgegorenen	Cause[14]	_	
+7-22	1050-1051	,	Cause[14]	_	
+7-23	1052-1059	allemal	Cause[14]	_	
+7-24	1060-1064	aber	Cause[14]	_	
+7-25	1065-1083	aufsehenerregenden	Cause[14]	_	
+7-26	1084-1089	Pläne	Cause[14]	_	
+7-27	1090-1091	.	_	_	

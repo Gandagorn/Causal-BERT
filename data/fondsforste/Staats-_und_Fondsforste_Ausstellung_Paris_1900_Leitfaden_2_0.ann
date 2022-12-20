@@ -1,0 +1,2006 @@
+T1	Motivation 577 584	erweckt
+E1	Motivation:T1 Cause:T2 Effect:T3
+A1	Degree E1 Facilitate
+A2	Creation-termination E1
+T2	Argument 535 551	Mannigfaltigkeit
+T3	Argument 567 576	Interesse
+T4	Note 376 389	unsere Forste
+T5	Consequence 914 936	nicht aufkommen lassen
+E2	Consequence:T5 Effect:T6 Cause:T7 Affected:T9
+A3	Degree E2 Inhibit
+T6	Argument 877 913	eine freie Entfaltung der Wirtschaft
+T7	Argument 775 823	unter der Ungunst bestehender Rechtsverhältnisse
+T8	Argument 825 875	unter dem Einflusse ihrer Belastung mit Servituten
+T9	Argument 763 774	solche, die
+T10	Motivation 1499 1504	lockt
+E3	Motivation:T10 Affected:T15 Cause:T11 Effect:T52 Controlling:T436
+T11	Argument 1522 1541	die flüchtige Gemse
+T12	Argument 1567 1597	das Geröhre des Brunfthirsches
+T14	Note 1373 1394	der beherzte Weidmann
+T15	Argument 1505 1508	ihn
+A5	Degree E3 Facilitate
+T16	Consequence 1690 1694;1738 1747	sind begründet
+E4	Consequence:T16 Effect:T17 Cause:T18
+A6	Degree E4 Facilitate
+A8	Creation-termination E4
+T17	Argument 1695 1737	mannigfache Schwierigkeiten der Wirtschaft
+T18	Argument 1665 1689	Wechsel der Verhältnisse
+T19	Motivation 1844 1852	erwecken
+E5	Motivation:T19 Effect:T20 Cause:T21 Affected:T50
+A9	Degree E5 Facilitate
+A10	Creation-termination E5
+T20	Argument 1872 1887	Liebe zum Walde
+T21	Argument 1761 1766	diese
+R3	Coref Arg1:T18 Arg2:T21	
+T23	Argument 1775 1788	die Thatkraft
+T24	Argument 1793 1810	Berufsforstwirtes
+T25	Argument 1819 1822	ihn
+R4	Coref Arg1:T24 Arg2:T25	
+T26	Motivation 1767 1774	stärken
+E6	Motivation:T26 Cause:T21 Effect:T23 Affected:T24
+A12	Degree E6 Facilitate
+T22	NonCausal 1982 1989;2085 2091	giengen hervor
+E7	NonCausal:T22 
+T27	Consequence 2456 2463	gelangt
+E8	Consequence:T27 Cause:T28 Effect:T438 Affected:T437
+A13	Degree E8 Inhibit
+A14	Temporal E8
+T28	Argument 2360 2439	nach der durchgreifenden Reorganisation der Staatsgüterverwaltung im Jahre 1573
+T29	Argument 2312 2342	Verminderung des Besitzstandes
+T30	Consequence 2473 2481;2501 2505;2639 2648	Ursachen sind zu suchen
+E9	Consequence:T30 Effect:T31 Cause:T32
+A15	Degree E9 Facilitate
+A16	Creation-termination E9
+T31	Argument 2482 2500	dieser Erscheinung
+T32	Argument 2517 2562	in den finanziellen Verhältnissen des Staates
+T33	Argument 2575 2638;2650 2758	in der ehemals viel allgemeineren mercantilistischen Anschauung dass dem Staate die Eignung, große Ländereien entsprechend zu bewirtschaften und zu verwalten, nicht zukomme
+T35	Consequence 2943 2951;2955 2963	brachten mit sich
+E10	Consequence:T35 Cause:T36 Cause2:T37 Cause3:T38 Effect:T439
+A17	Degree E10 Facilitate
+A18	Correlation E10
+T36	Argument 2830 2872	drückende Last ungeregelter Waldservituten
+T37	Argument 2878 2904	Entlegenheit vieler Forste
+T38	Argument 2913 2942	Mangel an Transportsanstalten
+T40	Argument 2965 3054	dass solche Objecte entweder gar keinen oder doch nur einen sehr geringen Ertrag abwarfen
+T41	Motivation 3078 3084	gewann
+E11	Motivation:T41 Cause:T42 Effect:T440 Affected:T43
+A19	Degree E11 Facilitate
+T42	Argument 3055 3077	Unter diesen Umständen
+T43	Argument 3089 3124	Bestreben, Staatsgüter zu veräußern
+E12	Motivation:T10 Cause:T12 Affected:T15 Effect:T54
+A21	Degree E12 Facilitate
+T45	Consequence 3334 3340	worauf
+E13	Consequence:T45 Cause:T48 Effect:T46 Affected:T47
+A22	Degree E13 Facilitate
+A23	Temporal E13
+T46	Argument 3342 3417;3454 3470	m Jahre 1855 etwa 660.000 ha im Werte von 156,6 Millionen Gulden pfandweise übergeben wurden
+T47	Argument 3418 3453	an die österreichische Nationalbank
+T48	Argument 3187 3332	Bis zu den Fünfziger-Jahren war das Flächenmaß der Staatsgüter bis auf 1,725.000 ha, darunter 1,290.500 ha productive Fläche, zusammengeschmolzen
+E14	Consequence:T5 Cause:T8 Effect:T6 Affected:T9
+A24	Degree E14 Inhibit
+A4	Obligation-permission E2
+A7	Obligation-permission E14
+T51	Argument 601 608	Gebiete
+R9	Coref Arg1:T51 Arg2:T9	
+T52	Argument 1542 1565	in unwirtliches Gefelse
+E15	Motivation:T10 Cause:T53 Affected:T15 Effect:T54
+A25	Degree E15 Facilitate
+T53	Argument 1603 1632	der Balzgesang des Auerhahnes
+T54	Argument 1634 1653	n den dunklen Forst
+T13	Motivation 1812 1818;1836 1839	bilden aus
+E16	Motivation:T13 Effect:T49 Affected:T25 Cause:T21
+A26	Degree E16 Facilitate
+T44	Motivation 1857 1865	erhalten
+E17	Motivation:T44 Cause:T21 Effect:T20 Affected:T50
+A27	Degree E17 Facilitate
+A28	Correlation E17
+#1	AnnotatorNotes R4	nicht 1:1 ersetzbar, aber dennoch coreference?
+T49	Argument 1823 1835	vielseitiger
+T50	Argument 1866 1871	seine
+R1	Coref Arg1:T50 Arg2:T24	
+A29	Creation-termination E8
+T55	Consequence 2473 2481;2501 2505;2639 2648	Ursachen sind zu suchen
+E18	Consequence:T55 Cause:T33 Effect:T31
+A30	Degree E18 Facilitate
+A31	Creation-termination E18
+T34	Argument 3664 3809	Indessen war auch eine nicht unbedeutende Fläche an Wald- und Weideland im Wege der Servitutenablösung an die Berechtigten zur Abtretung gelangt,
+T39	Argument 3954 4028	45 Procent der Landesfläche im Staatsbesitze und in Verwaltung des Staates
+T56	Consequence 3810 3817;4029 4039	so dass verblieben
+E19	Consequence:T56 Cause:T34 Effect:T39
+A32	Degree E19 Facilitate
+T57	Argument 4118 4239	unter dem Einflusse der eine nur zu deutliche Sprache führenden rücksichtslosen Ausnützung vieler veräußerter Staatsgüter
+T59	Argument 4072 4113	änderten sich die Verhältnisse wesentlich
+T61	Note 4695 4707	In der Folge
+T62	Argument 6410 6748	sie in Ostgalizien und der Bukowina die Karpathen und deren Ausläufer bedecken, im Westen die nördlichen Kalkalpen von ihrem äußersten Vorgebirge, dem Wiener Walde, bis nach Vorarlberg durchziehen und in den übrigen österreichischen Alpenländern, sowie dem böhmischen Erzgebirge in isolierten, mehr weniger großen Complexen vertheilt sind
+T66	Argument 6816 6910	sie sich mit mehr als der Hälfte der Gesammtfläche in einer Seehöhe von über 1000 m ausbreiten
+T69	Consequence 8329 8336	zufolge
+E23	Consequence:T69 Effect:T71 Affected:T79 Controlling:T72 Cause:T78 Cause2:T68 Cause3:T70
+T71	Argument 8458 8497	bedeutende Hindernisse zu bezwingen hat
+T72	Argument 8304 8328	besonders im Hochgebirge
+T73	Consequence 8228 8240	beeinflussen
+E25	Consequence:T73 Cause:T74 Effect:T75 Affected:T77
+A37	Degree E25 Facilitate
+A38	Correlation E25
+T74	Argument 8241 8244	sie
+T75	Argument 8245 8275	gar oft in nachtheiligem Sinne
+T76	Argument 8014 8043	die klimatischen Verhältnisse
+T77	Argument 8276 8298	die Wirtschaftsführung
+R2	Coref Arg1:T74 Arg2:T76	
+T78	Argument 8337 8382	der herrschenden niedrigen Jahrestemperaturen
+T79	Argument 8300 8303	die
+R5	Coref Arg1:T79 Arg2:T77	
+T80	Consequence 8958 8961	mit
+E26	Consequence:T80 Affected:T83 Effect:T82 Cause:T81
+A39	Degree E26 Facilitate
+A40	Correlation E26
+T81	Argument 8962 8973	der Seehöhe
+T82	Argument 8950 8957;8974 9231	wachsen und üben in der wärmeren Jahreszeit durch die Vehemenz der niederströmenden Gewitterregen oft verheerende Wirkungen aus, während sie im Winter und Frühjahr durch die Mächtigkeit und das lange Liegenbleiben der Schneedecke die Baumvegetation beeinträchtigen.
+T83	Argument 8946 8949	sie
+T84	Argument 8812 8835	die Niederschlagsmengen
+R6	Coref Arg1:T83 Arg2:T84	
+T85	Consequence 8978 8982;9090 9093	üben aus
+E27	Consequence:T85 Effect:T93 Cause:T92 Controlling:T91 Trigger:T131
+A41	Degree E27 Facilitate
+T86	Consequence 9215 9230	beeinträchtigen
+E28	Consequence:T86 Effect:T90 Controlling:T88 Actor:T87 Cause:T89 Trigger:T132
+A42	Degree E28 Inhibit
+A43	Correlation E28
+T87	Argument 9103 9106	sie
+R7	Coref Arg1:T87 Arg2:T84	
+T88	Argument 9107 9129	im Winter und Frühjahr
+T89	Argument 9136 9195	die Mächtigkeit und das lange Liegenbleiben der Schneedecke
+T90	Argument 9196 9214	die Baumvegetation
+T91	Argument 8983 9009	in der wärmeren Jahreszeit
+T92	Argument 9016 9063	die Vehemenz der niederströmenden Gewitterregen
+T93	Argument 9064 9089	oft verheerende Wirkungen
+T94	Motivation 12993 12995	da
+E29	Motivation:T94 Actor:T97 Effect:T99 Affected:T98 Cause:T96
+A44	Degree E29 Facilitate
+T95	Consequence 28067 28069	Da
+E30	Consequence:T95 Cause:T101 Affected:T103 Effect:T102
+A45	Degree E30 Facilitate
+T96	Argument 13000 13038	als Nutz- und Brennholz sehr geschätzt
+T97	Argument 12940 12943	Man
+T98	Argument 12996 12999	sie
+T99	Argument 12944 12991	lässt ihr indessen in Mischbeständen gerne Raum
+T100	Argument 12827 12841	Die Weißkiefer
+R8	Coref Arg1:T98 Arg2:T100	
+T101	Argument 28126 28159	bis auf den heutigen Tag erhalten
+T102	Argument 28165 28229	dürfte es genügen, den jetzigen Stand zur Darstellung zu bringen
+T103	Argument 28075 28083	dieselbe
+T104	Argument 27920 27935	die Eintheilung
+R10	Coref Arg1:T103 Arg2:T104	
+T105	Consequence 54761 54763	Da
+E31	Consequence:T105 Cause:T107 Controlling:T108 Effect:T106
+A46	Degree E31 Facilitate
+T106	Argument 54931 55051	kommt auch der Nutzholz- und Brennholzsortierung ein bedeutender Einfluss auf das finanzielle Ergebnis der Wirtschaft zu
+T107	Argument 54864 54927	die Aufbereitung der Schlagergebnisse in eigener Regie erfolgt,
+T108	Argument 54764 54849	in den österreichischen Staats- und Fondsforsten, mit Ausnahme des östlichen Gebietes
+T110	Consequence 91085 91087	da
+E33	Consequence:T110 Cause:T113 Effect:T114
+A48	Degree E33 Facilitate
+T111	Argument 89882 89938	diese Lagen zumeist die höchsten Wertsclassen vorstellen
+T112	Argument 89947 90015	der allgemeine freie Nutzungsbetrieb in erster Linie in diesen Orten
+T113	Argument 91093 91141	die Verhältnisse nur unwesentlich geändert haben
+T114	Argument 91143 91198	die finanzielle Seite der Wirtschaft richtig beleuchten
+T115	Motivation 47536 47545	auf Grund
+E34	Motivation:T115 Affected:T118 Cause:T116 Effect:T117
+A49	Degree E34 Facilitate
+T116	Argument 47546 47647	einer allgemeinen Forstbeschreibung, sowie der vom Ackerbauministerium genehmigten Betriebsvorschläge
+T117	Argument 47648 47663	verfasst werden
+T118	Argument 47529 47535	welche
+T120	Consequence 87597 87606	auf Grund
+E36	Consequence:T120 Cause:T121 Effect:T122
+A51	Degree E36 Facilitate
+T121	Argument 87607 87622	obigen Patentes
+T122	Argument 87623 87643	durchgeführte Action
+T124	Consequence 89940 89946;90016 90027	so ist unterbunden
+E38	Consequence:T124 Effect:T112 Cause:T111 Trigger:T109
+A53	Degree E38 Inhibit
+T109	Argument 89874 89876	Da
+T125	Argument 62931 62935	dank
+T126	Consequence 62764 62770	bietet
+E32	Consequence:T126 Effect:T127 Cause:T128 Trigger:T125 Controlling:T871 Actor:T129
+A47	Degree E32 Facilitate
+T127	Argument 62820 62930	eine große Mannigfaltigkeit in Bezug auf Wildarten und Jagdbetrieb, sowie nicht selten eine große Ergiebigkeit
+T128	Argument 62936 62976	dem Wildreichthume der einzelnen Reviere
+T129	Argument 62756 62763	Erstere
+T130	Argument 62704 62712	die Jagd
+R11	Coref Arg1:T129 Arg2:T130	
+T131	Argument 9010 9015	durch
+T132	Argument 9130 9135	durch
+T133	Argument 9520 9566	die Bora (Nordost-) und den Scirocco (Südwind)
+T134	Argument 9454 9464	die Gefahr
+T135	Consequence 9567 9582	ausgesetzt sind
+E39	Consequence:T135 Cause:T133 Trigger:T136 Affected:T137 Effect:T134
+A54	Degree E39 Facilitate
+T136	Argument 9514 9519	durch
+T137	Argument 9484 9513	die Bestände der Küstenländer
+T140	Argument 23738 23828	richtige Führung der Wirtschaftsbücher und die vorgeschriebenen anderweitigen Eintragungen
+T141	Argument 23616 23731	die Durchführung der Betriebseinrichtungen und Waldstandsrevisionen, sowie die Evidenzhaltung der Einrichtungswerke
+T142	Argument 23904 24127	Prüfung und Genehmigung der jährlichen Fällungs- und sonstigen Nutzungsanträge, der Forstproductenpreis- und Arbeitslohntarife, der Versteigerungs- und Accordverhandlungen, der Anträge für Forstculturen und Wegbauten u.s.w.
+T144	Argument 23837 23883	die Leitung und Überwachung des Forstbetriebes
+T145	NonCausal 24774 24779	durch
+E43	NonCausal:T145 
+T146	NonCausal 35678 35683	durch
+E44	NonCausal:T146 
+A57	Temporal E44
+T147	Argument 36428 36460	Abhaltung von Waldaufsehercursen
+T148	Argument 36318 36416	die Ausbildung der im Dienste des griechisch-orientalischen Religionsfondes stehenden Waldaufseher
+T149	Purpose 36417 36421;36461 36471	wird vorgesorgt
+E45	Purpose:T149 Trigger:T150 Cause:T148 Effect:T147 Trigger2:T591
+A58	Degree E45 Facilitate
+T150	Argument 36422 36427	durch
+T151	Consequence 38454 38459	durch
+E46	Consequence:T151 Affected:T154 Cause:T152 Effect:T153
+A59	Degree E46 Facilitate
+T152	Argument 38460 38472	den Cataster
+T153	Argument 38473 38488	genau vermessen
+T154	Argument 38429 38439	das Gebiet
+T155	Argument 14618 14751	eine schöne Farbe und einen besonders schön verlaufenden, um die zahlreichen eingewachsenen Äste oft absonderlich gezeichneten Flader
+T156	Argument 14598 14611	ausgezeichnet
+T157	Argument 14588 14596	Ihr Holz
+T158	Consequence 14612 14617	durch
+E47	Consequence:T158 Cause:T155 Effect:T156 Affected:T157
+A60	Degree E47 Facilitate
+T159	Consequence 39481 39489	verloren
+E48	Consequence:T159 Affected:T160 Effect:T161 Trigger:T162 Cause:T163
+A61	Degree E48 Inhibit
+T160	Argument 39490 39493	sie
+T161	Argument 39502 39514	bald an Wert
+T162	Argument 39515 39520	durch
+T163	Argument 39521 39578	die mangelhafte, später ganz unterbliebene Evidenthaltung
+T164	Argument 39580 39587	so dass
+T165	Argument 39355 39369	diese Arbeiten
+R12	Coref Arg1:T160 Arg2:T165	
+T166	Consequence 39682 39688	musste
+E49	Consequence:T166 Cause:T168 Trigger:T164 Effect:T167
+A62	Degree E49 Facilitate
+A63	Obligation-permission E49
+T167	Argument 39629 39681	eine neuerliche Forsteinrichtung durchgeführt werden
+T168	Argument 39481 39514	verloren sie dennoch bald an Wert
+T169	NonCausal 40518 40523	durch
+E50	NonCausal:T169 
+T170	Purpose 41865 41870	durch
+E51	Purpose:T170 Effect:T171 Cause:T172
+A64	Degree E51 Facilitate
+T171	Argument 41871 41972	eine theils in der Natur fixierte, theils nur in den Kartenwerken durchgeführte räumliche Eintheilung
+T172	Argument 41844 41855;41973 41982	den Betrieb zu regeln
+T173	Consequence 42108 42113	durch
+E52	Consequence:T173 Cause:T174 Effect:T175 Affected:T176
+A65	Degree E52 Facilitate
+T174	Argument 42114 42127	Gestelllinien
+T175	Argument 42128 42140;42196 42203	in Ordnungen zerlegt
+T176	Argument 42102 42107	diese
+T177	Purpose 47188 47195	erfolgt
+E53	Purpose:T177 Trigger:T178 Effect:T179 Cause:T180
+T178	Argument 47196 47201	durch
+T179	Argument 47202 47244	das Schneißen- und Wirtschaftsstreifennetz
+T180	Argument 47142 47187	Die Abgrenzung der Hiebszüge und Abtheilungen
+T181	Argument 47247 47274	die „räumliche Eintheilung“
+R13	Coref Arg1:T179 Arg2:T181	
+T182	Argument 42358 42414	die Schaffung eines zweckmäßigen Rahmens für den Betrieb
+T183	Argument 42347 42353;42427 42438	diesen Anordnungen
+T184	Purpose 42415 42426	abzielenden
+E54	Purpose:T184 Effect:T183 Cause:T182
+A66	Degree E54 Facilitate
+T185	NonCausal 42665 42670	durch
+E55	NonCausal:T185 
+T186	Argument 42875 42910	günstige Lagerung der Altersclassen
+T187	Consequence 42911 42926	zu bemerken ist
+E56	Consequence:T187 Cause:T189 Trigger:T188 Effect:T186
+A67	Degree E56 Facilitate
+T188	Argument 42860 42874	zurückführende
+T189	Argument 42850 42859	dieselben
+T194	Argument 42451 42469	diese Vorschriften
+T195	Argument 47933 47977	Behandlung und Lösung aller wichtigen Fragen
+T196	Argument 47979 48138	der künftigen Wirtschaftsführung die Wege zu weisen und alle jene Momente in den Kreis ihrer Betrachtungen zu ziehen, welche geeignet sind, den Ertrag zu heben
+T197	Motivation 47927 47932	durch
+E58	Motivation:T197 Cause:T195 Effect:T196 Actor:T703
+A69	Degree E58 Facilitate
+T198	Purpose 51476 51495	zur Aufgabe stellte
+E59	Purpose:T198 Effect:T201 Cause:T199 Trigger:T200 Actor:T202
+A70	Degree E59 Facilitate
+T199	Argument 51248 51475	eine rationelle Ausnützung der Schlagergebnisse, sorgfältige, den Bedürfnissen der Consumenten Rechnung tragende Ausformung des Materials, ein auf die Erschließung weiter Absatzgebiete abzielendes Bringungs- und Transportswesen
+T200	Argument 51242 51247	durch
+T201	Argument 51215 51241	die Hebung der Forstrenten
+T202	Argument 51203 51209	welche
+T203	Argument 53842 53875	die Schaffung zahlreicher Anhiebe
+T204	Argument 53876 53908	die Beweglichkeit der Wirtschaft
+T205	Argument 53836 53841	durch
+T206	Purpose 53909 53915	erhöht
+E60	Purpose:T206 Actor:T209 Trigger:T205 Effect:T203 Cause:T204
+A71	Degree E60 Facilitate
+T207	Purpose 53976 53986	ermöglicht
+E61	Purpose:T207 Actor:T209 Trigger:T205 Cause:T208 Effect:T203
+A72	Degree E61 Facilitate
+T208	Argument 53920 53975	die Vertheilung der Jahresschlagfläche auf mehrere Orte
+T209	Argument 53832 53835	sie
+T210	Argument 53792 53815	die Betriebseinrichtung
+T211	Argument 53763 53780	Diesem Grundsatze
+T212	Motivation 53781 53786;53816 53824	trägt Rechnung
+E62	Motivation:T212 Cause:T211 Effect:T210
+A73	Degree E62 Facilitate
+R15	Coref Arg1:T209 Arg2:T210	
+T214	Argument 56790 56798	das Holz
+T218	Argument 56799 56814	durch die Trift
+T219	Argument 56820 56857	im gebundenen Zustande, durch Flößung
+T220	Argument 56859 56881	seinem Bestimmungsorte
+T223	Argument 56915 56941	viele Übelstände verbunden
+T224	Argument 56948 57053	die dieser Transportsart früher nachgerühmten Vortheile bei den heutigen Verhältnissen illusorisch werden
+T228	Argument 57091 57142	die Abhängigkeit von den Niederschlagsverhältnissen
+T229	Argument 57214 57270	die Gefährdung der am Triftflusse liegenden Culturgründe
+T230	Argument 57276 57327	die qualitativen und quantitativen Materialverluste
+T231	Argument 57341 57357;57369 57454	die Beschränkung , die dem Wassertransporte durch forst- und wasserpolizeiliche Vorschriften erwachsen
+T232	Argument 57147 57208	die damit verbundene Unzuverlässigkeit der Productenlieferung
+T225	Argument 57069 57085	dies zu erhärten
+T226	Purpose 57066 57068	um
+E68	Purpose:T226 Support:T228 Support2:T232 Support3:T229 Support4:T230 Support5:T231 Effect:T233 Cause:T225 Trigger:T844
+T227	Argument 57069 57073	dies
+A79	Degree E68 Facilitate
+T233	Argument 57358 57369	hinzuweisen
+T234	Argument 57402 57444	forst- und wasserpolizeiliche Vorschriften
+T235	Argument 57341 57357	die Beschränkung
+T236	Consequence 57445 57454	erwachsen
+E66	Consequence:T236 Effect:T235 Affected:T237 Trigger:T238 Cause:T234
+A77	Degree E66 Facilitate
+T237	Argument 57375 57395	dem Wassertransporte
+T238	Argument 57396 57401	durch
+T239	Consequence 57726 57736	verhindert
+E67	Consequence:T239 Cause:T241 Trigger:T240 Effect:T242 Effect2:T243
+A78	Degree E67 Inhibit
+T240	Argument 57570 57584	infolge dessen
+T241	Argument 57495 57565	dass der Triftbetrieb sich für den Transport von Nutzholz wenig eignet
+T242	Argument 57585 57637	eine weitere Ausgestaltung der Sortimentsausformung,
+T243	Argument 57638 57725	sowie die Erzielung besserer Preise durch Abgabe eines unbeschädigten Verkaufsproductes
+T244	Argument 57644 57673	die Erzielung besserer Preise
+T245	Consequence 57674 57679	durch
+E69	Consequence:T245 Effect:T244 Cause:T246
+A80	Degree E69 Facilitate
+T246	Argument 57680 57725	Abgabe eines unbeschädigten Verkaufsproductes
+T247	Argument 57883 57930	den baldmöglichsten Übergang zum Landtransporte
+T248	Argument 57805 57876	die Emancipation der Wirtschaft von dem Einflusse des Wassertransportes
+T249	Argument 57768 57800	Staats- und Fondsgüterverwaltung
+T250	Purpose 57877 57882	durch
+E70	Purpose:T250 Cause:T247 Effect:T248 Actor:T249 Trigger:T251
+T251	Argument 57750 57763	das Bestreben
+A81	Degree E70 Facilitate
+T252	Argument 60437 60448	Faconnieren
+T253	Argument 60449 60472	transportfähiger machen
+T254	Argument 60416 60430	das Rohproduct
+T255	Argument 60390 60415	die bestehenden Sägewerke
+T256	Purpose 60431 60436	durch
+E71	Purpose:T256 Affected:T254 Actor:T255 Effect:T252 Cause:T253
+A82	Degree E71 Facilitate
+T258	Argument 60710 60750	Besitz des Ärars, beziehungsweise Fondes
+T259	Argument 60672 60702	Ablauf der Abstockungsverträge
+T260	Consequence 60659 60666;60752 60756	giengen über
+E73	Consequence:T260 Cause:T259 Effect:T258
+A83	Degree E73 Facilitate
+A84	Temporal E73
+T261	Argument 61339 61374	die bessere Erschließung der Forste
+T262	Argument 61381 61412	die Zunahme von Communicationen
+T263	Consequence 61375 61380	durch
+E74	Consequence:T263 Cause:T262 Effect:T261
+A85	Degree E74 Facilitate
+T264	Argument 61429 61490	gebotene Möglichkeit, das Holz anderweitig absetzen zu können
+T265	Consequence 61421 61428	dadurch
+E75	Consequence:T265 Cause:T261 Effect:T264
+A86	Degree E75 Facilitate
+T266	Purpose 61939 61961	erforderlich sein wird
+E76	Purpose:T266 Effect:T267 Controlling:T268
+A87	Degree E76 Facilitate
+A88	Temporal E76
+T267	Argument 61874 61921	durchgreifenden Umgestaltung der Holzverwertung
+T268	Argument 61927 61938	einige Zeit
+T269	Argument 62181 62202	rentable Verarbeitung
+T270	Argument 62203 62226	des schwachen Materials
+T271	Motivation 62142 62152	ermöglicht
+E77	Motivation:T271 Actor:T273 Trigger:T272 Cause:T269 Affected:T270 Effect:T274
+A89	Degree E77 Facilitate
+T272	Argument 62175 62180	durch
+T273	Argument 62162 62174	die Köhlerei
+T274	Argument 62227 62271	die Durchführung des Durchforstungsbetriebes
+T275	Consequence 62392 62411	unterbleiben musste
+E78	Consequence:T275 Cause:T277 Trigger:T278 Effect:T276
+A90	Degree E78 Inhibit
+T276	Argument 62288 62293	diese
+T277	Argument 62360 62370	der Kosten
+T278	Argument 62354 62359	wegen
+T279	Consequence 62433 62466	in beschränktem Maße durchgeführt
+E79	Consequence:T279 Effect:T276 Trigger:T278 Cause:T277
+A91	Degree E79 Inhibit
+R16	Coref Arg1:T276 Arg2:T274	
+T281	Argument 63694 63726	die Schönheiten der Gebirgsnatur
+T280	Consequence 63688 63693	durch
+E80	Consequence:T280 Cause:T281 Effect:T282
+A92	Degree E80 Facilitate
+T282	Argument 63681 63687	erhöht
+T283	Motivation 66676 66681	durch
+E81	Motivation:T283 Effect:T909 Actor:T910
+E82	Motivation:T343 Cause:T285 Effect:T286 Trigger:T1000
+A93	Degree E82 Facilitate
+T285	Argument 74083 74089	Alldem
+T286	Argument 74130 74178	die sorgfältigste Anzucht des Pflanzenmateriales
+T287	Argument 74285 74381	die Art und Weise der Ausführung der Culturen, sowie die Vorkehrungen gegen deren Beschädigungen
+E83	Motivation:T343 Cause:T285 Effect:T287 Trigger:T1003
+A94	Degree E83 Facilitate
+T288	Argument 73434 73453	wetterhart und zähe
+T289	Argument 73454 73467	diese Holzart
+T290	Consequence 73473 73477	wird
+E84	Consequence:T290 Trigger:T291 Cause:T292 Affected:T289 Effect:T288
+A95	Degree E84 Facilitate
+T291	Argument 73479 73483	wenn
+T292	Argument 73479 73546	wenn sie einmal eingewachsen ist und eine gewisse Höhe erreicht hat
+T293	Argument 73662 73680	Wild und Weidevieh
+T294	Argument 73647 73655	Verbisse
+T295	Motivation 73656 73661	durch
+E85	Motivation:T295 Cause:T293 Effect:T294
+A96	Degree E85 Facilitate
+T296	Argument 77444 77447	Zur
+T297	Argument 77448 77497	Feststellung der jeweiligen Durchforstungsaufgabe
+T298	Purpose 77498 77504;77585 77603	sollen aufgestellt werden
+E86	Purpose:T298 Trigger:T296 Effect:T299 Cause:T297
+A97	Degree E86 Facilitate
+T299	Argument 77555 77584	besondere Durchforstungspläne
+T302	Argument 77633 77689	die in den Einrichtungsoperaten enthaltenen Bestimmungen
+T303	Consequence 78559 78571	bedingt sind
+E88	Consequence:T303 Effect:T307 Cause:T304 Cause2:T305 Trigger:T308 Controlling:T306
+A99	Degree E88 Facilitate
+T304	Argument 78484 78514	schwierige Terrainverhältnisse
+T305	Argument 78519 78558	den sehr complicierten Transportbetrieb
+T306	Argument 78463 78477	im Hochgebirge
+T307	Argument 78328 78345	die Anforderungen
+T308	Argument 78478 78483	durch
+T309	Consequence 78677 78693	zur Folge gehabt
+E89	Consequence:T309 Effect:T312 Controlling:T311 Cause:T310
+A100	Degree E89 Facilitate
+T310	Argument 78609 78631	Umstände localer Natur
+T311	Argument 78579 78599	in gewissen Gegenden
+T312	Argument 78642 78676	eine weitergehende Differenzierung
+T313	Purpose 79379 79389;79441 79454	bemüht war heranzuziehen
+E90	Purpose:T313 Trigger:T315 Actor:T318 Effect:T316 Cause:T317
+T315	Argument 79391 79396	durch
+T316	Argument 79397 79407	Ansiedlung
+T317	Argument 79408 79440	die erforderlichen Arbeitskräfte
+T314	Purpose 79379 79389;79459 79478	bemüht war dauernd zu erhalten
+E91	Purpose:T314 Trigger:T315 Actor:T318 Effect:T316 Cause:T317
+A102	Degree E91 Facilitate
+A101	Degree E90 Facilitate
+T318	Argument 79364 79367	man
+T319	Argument 81255 81289	Aufnahme von interimalen Arbeitern
+T320	Purpose 81413 81430	zu beheben suchte
+E92	Purpose:T320 Actor:T323 Trigger:T322 Cause:T321 Effect:T319
+A103	Degree E92 Inhibit
+T321	Argument 81221 81230	Misstände
+T322	Argument 81249 81254	durch
+T323	Argument 81245 81248	man
+T324	NonCausal 84050 84055	durch
+E93	NonCausal:T324 
+T325	NonCausal 84197 84202	durch
+E94	NonCausal:T325 
+T326	Consequence 85686 85690;86075 86086	wird beeinflusst
+E95	Consequence:T326 Effect:T327 Cause:T328 Cause2:T329 Cause3:T330 Cause4:T331 Cause5:T332
+A104	Degree E95 Facilitate
+T327	Argument 85676 85685	Ihre Höhe
+T328	Argument 85708 85770	durch die Holzarten und die Wachsthumnsleistungen der Bestände
+T329	Argument 85772 85829	durch die schwierigere oder leichtere Bringung des Holzes
+T330	Argument 85847 85911	in sehr weitgehendem Maße durch die äußeren Communicationsmittel
+T331	Argument 85913 86011	durch die industrielle Entwicklung der betreffenden Gegenden und die erreichbaren Exportrichtungen
+T332	Argument 86026 86073	durch gewisse innerforstliche Rechtsverhältniss
+T336	Argument 88451 88531	weder mit Geld, noch durch Abtretung von Grund und Boden abgelöst werden konnten
+T337	Argument 88420 88450	Nichteinwilligung der Parteien
+T338	Argument 93322 93361	Die Ursache der bedeutenden Differenzen
+T339	Consequence 93422 93426;93582 93589	sind bedingt
+E96	Consequence:T339 Cause:T341 Effect:T338 Cause2:T340
+A105	Degree E96 Facilitate
+T340	Argument 93427 93480	nebst der zuvor besprochenen Belastung mit Servituten
+T341	Argument 93481 93581	theils durch die standörtlichen, theils durch die allgemeinen Communicationsverhältnisse Österreichs
+T343	Motivation 74090 74112	wird Rechnung getragen
+T221	Consequence 56912 56914;56943 56947	so dass
+E65	Consequence:T221 Cause:T223 Effect:T224
+A76	Degree E65 Facilitate
+E63	Motivation:T820 Cause:T220 Effect:T218 Affected:T214
+A74	Degree E63 Facilitate
+E64	Motivation:T820 Cause:T220 Effect:T219 Affected:T214
+A75	Degree E64 Facilitate
+T215	Motivation 37054 37066	Veranlassung
+E98	Motivation:T215 Support:T216 Effect:T284 Cause:T217 Cause2:T222
+A107	Degree E98 Facilitate
+T216	Argument 37092 37095	gab
+T217	Argument 37114 37235	theils die Nothwendigkeit, den sich immer erneuernden Grenzübergriffen und Besitzaneignungen der Anrainer Einhalt zu thun
+T222	Argument 37237 37535	theils die Sorge um die Sicherstellung des Holzbedarfes im allgemeinen und im besonderen für die staatlichen Montan- und Salinenwerke, deren gedeihliche Entwicklung damals in viel größerem Maße von dem Vorhandensein des in nächster Nähe beziehbaren Brenn- und Bauholzes abhängig war, als heutzutage
+T284	Argument 37067 37091	zu bezüglichen Maßnahmen
+T344	Motivation 43522 43532	aus Anlass
+E99	Motivation:T344 Cause:T345 Effect:T346
+T345	Argument 43533 43577	der Reorganisation der Staatsgüterverwaltung
+T346	Argument 43592 43660	Maßnahmen für eine durchgreifende Reform des Forsteinrichtungswesens
+T348	Consequence 30711 30718	ergeben
+E100	Consequence:T348 Effect:T350 Cause:T349 Trigger:T351 Controlling:T536
+A108	Degree E100 Facilitate
+T349	Argument 30608 30691	der bedeutenden Ausdehnung der Verwaltungsbezirke und des noch extensiven Betriebes
+T350	Argument 30692 30710;30720 30848;30944 31033	die Nothwendigkeit die den Förstern zugewiesenen sogenannten Manipulationsbezirke in einzelne Schutzbezirke zu untertheilen und in diesen letzteren für die Besorgung des reinen Forstschutzdienstes eigene Waldaufseher (Heger) zu bestellen
+T352	Consequence 94654 94661	erzielt
+E103	Consequence:T352 Cause:T353 Trigger:T355 Effect:T354
+T353	Argument 94635 94641	dessen
+T354	Argument 94642 94653;94668 94745	Reinerträge , die jenen anderer Forsthaushalte würdig an die Seite gestellt werden können
+T355	Argument 94627 94634	infolge
+T356	Argument 75120 75177	er Vermehrung der Holzschleifereien und Cellulosefabriken
+T357	Consequence 75111 75118	infolge
+E104	Consequence:T357 Effect:T358 Cause:T356
+A111	Degree E104 Facilitate
+T358	Argument 75068 75110;75178 75210	die Nachfrage nach schwächeren Sortimenten nicht unwesentlich gestiegen ist
+T359	Consequence 58361 58368	infolge
+E105	Consequence:T359 Cause:T360 Effect:T361
+A112	Degree E105 Facilitate
+T360	Argument 58369 58375	dessen
+T361	Argument 58381 58425	eine immer noch wachsende Anwendung erfahren
+T362	Argument 58316 58356	in den Salzkammergutforsten sehr bewährt
+R17	Coref Arg1:T360 Arg2:T362	
+T363	Consequence 9984 9994	mitbedingt
+E106	Consequence:T363 Cause:T365 Effect:T364 Support:T453
+A113	Degree E106 Facilitate
+T364	Argument 9920 9983	das vorwiegende Vorkommen einer gewissen Baum- und Strauchflora
+T365	Argument 9881 9896	deren Auftreten
+T366	Argument 9848 9870	typische Gesteinsarten
+R18	Coref Arg1:T365 Arg2:T366	
+T367	Consequence 10916 10923	bedingt
+E107	Consequence:T367 Cause:T370 Cause2:T369 Affected:T368
+A114	Degree E107 Facilitate
+T368	Argument 10924 10994	für die in allen Theilen derselben zerstreuten Staats- und Fondsforste
+T369	Argument 11000 11054	einen großen Artenreichthum der Baum- und Strauchflora
+T370	Argument 10773 10866	Die große Manniefaltigkeit der klimatischen, orographischen und petrographischen Verhältnisse
+T371	Consequence 11400 11407	vermöge
+E108	Consequence:T371 Cause:T372 Effect:T373
+A115	Degree E108 Facilitate
+T372	Argument 11400 11482	vermöge ihres großen Verbreitungsgebietes, als auch der Eigenschaften ihres Holzes
+T373	Argument 11483 11545	unter den Forstgewächsen Österreichs den ersten Platz einnimmt
+T374	Consequence 11607 11615	stellend
+E109	Consequence:T374 Cause:T375 Effect:T376
+A116	Degree E109 Facilitate
+T375	Argument 11547 11606	Wenige Ansprüche an eine gewisse Zusammensetzung des Bodens
+T376	Argument 11617 11713	gedeiht sie überall dort vorzüglich, wo die Luft den ihr zusagenden Grad an Feuchtigkeit besitzt
+T377	Consequence 12218 12227	ertragend
+E110	Consequence:T377 Effect:T379 Cause:T378
+A117	Degree E110 Facilitate
+T378	Argument 12152 12217	In der Jugend besonders schutzbedürftig und immer gut Beschattung
+T379	Argument 12229 12265	bildet sie nur selten reine Bestände
+T380	Argument 13259 13344	der Güte ihres Holzes und der Eigenschaft, sich nicht sobald wie diese lichtzustellen
+T381	Argument 13248 13252;13346 13363	hier gerne gesehen ist
+T382	Argument 13241 13247	welche
+T383	Argument 13219 13235	die Schwarzföhre
+T384	Consequence 13253 13258	wegen
+E111	Consequence:T384 Cause:T380 Effect:T381 Affected:T382
+A118	Degree E111 Facilitate
+R19	Coref Arg1:T382 Arg2:T383	
+T385	Consequence 13423 13428	wegen
+E112	Consequence:T385 Cause:T386 Effect:T388
+A119	Degree E112 Facilitate
+T386	Argument 13429 13469	der geringen Rentabilität dieser Nutzung
+T388	Argument 13365 13422;13470 13489	Die seinerzeit an ihr betriebene Harzung wird gegenwärtig nicht mehr ausgeübt
+T387	Consequence 13745 13750	wegen
+E113	Consequence:T387 Effect:T390 Cause:T389
+A120	Degree E113 Facilitate
+T389	Argument 13751 13784	ihrer spärlichen Bodenbeschattung
+T390	Argument 13725 13744;13785 13799	In reinen Beständen nicht geduldet
+T391	Consequence 13986 13993	infolge
+E114	Consequence:T391 Cause:T392 Cause2:T393
+A121	Degree E114 Facilitate
+T392	Argument 13994 14015	langsamen Wachsthumes
+T393	Argument 14016 14035	engringig erwachsen
+T394	Argument 14108 14157	ein hoher Grad von Dauerhaftigkeit und Festigkeit
+T395	Motivation 14158 14170	erforderlich
+E115	Motivation:T395 Cause:T394 Effect:T396
+T396	Argument 14072 14103	als Bau- und Werkholz verwendet
+A122	Degree E115 Facilitate
+T397	Consequence 14358 14363	wegen
+E116	Consequence:T397 Cause:T398 Effect:T399
+A123	Degree E116 Facilitate
+T398	Argument 14364 14394	Ihrer besonderen Eigenschaften
+T399	Argument 14303 14357;14395 14430	Außer diesen verdient noch die Zirbe (Pinus Cembra L.) genannt und hervorgehoben zu werden
+T400	Purpose 15001 15003;15072 15082	um zu sichern
+E117	Purpose:T400 Cause:T403 Effect:T402 Actor:T401
+A124	Degree E117 Facilitate
+T401	Argument 14874 14899	Die Staatsforstverwaltung
+T402	Argument 14936 14999	die Zirbe auf den ihr zusagenden Standorten wieder einzubürgern
+T403	Argument 15012 15071	der Hausindustrie vieler Alpenthäler ein kostbares Material
+T404	Purpose 15001 15003;15135 15149	um zu verschaffen
+E118	Purpose:T404 Cause:T405 Effect:T402 Actor:T401
+A125	Degree E118 Facilitate
+T405	Argument 15084 15134	den Hochlagen aber einen dauernden Bestandesschutz
+T406	Consequence 15208 15215	vermöge
+E119	Consequence:T406 Cause:T407 Effect:T408
+A126	Degree E119 Facilitate
+T407	Argument 15216 15233	ihrer Verbreitung
+T408	Argument 15201 15207;15234 15654	treten die Roth- und Weißbuche (Fagus silvatica L., Carpinus Betulus L.), dann die Stiel-, Trauben- und Zerreiche (Quercus pedunculata Ehrhart, Q. sessiliflora Smith, Q. Cerris L.) und die Edelkastanie (Castanea vesca Gaertner), endlich die Esche (Fraxinus excelsior L.), der Spitz- und Bergahorn (Acer platanoides L., A. Pseudoplatanus L.) und die Berg- und Feldulme (Ulmus montana Smith, U. campestris L.) in den Vordergrund.
+T409	Consequence 15782 15786	nach
+E120	Consequence:T409 Effect:T411 Cause:T410 Affected:T414
+A127	Degree E120 Facilitate
+T410	Argument 15787 15793	diesen
+T411	Argument 15794 15816	das Buchenland benannt
+T412	Argument 15680 15693	die Rothbuche
+T413	Argument 15750 15773	Die Forste der Bukowina
+T414	Argument 15775 15781	welche
+R20	Coref Arg1:T414 Arg2:T413	
+R21	Coref Arg1:T410 Arg2:T412	
+T415	Consequence 16320 16325	wegen
+E121	Consequence:T415 Affected:T418 Cause:T416 Effect:T417
+A128	Degree E121 Facilitate
+T416	Argument 16326 16366	der Concurrenz des fossilen Brennstoffes
+T417	Argument 16367 16407	die frühere Bedeutung nicht mehr besitzt
+T418	Argument 16228 16235	welches
+T419	Argument 16094 16102	Ihr Holz
+R22	Coref Arg1:T418 Arg2:T419	
+T420	Motivation 17559 17568;17599 17610	Bestreben zu erziehen
+E122	Motivation:T420 Actor:T421 Cause:T422
+A129	Degree E122 Facilitate
+T421	Argument 17569 17583	der Forstwirte
+T422	Argument 17585 17598	Mischbestände
+T423	Consequence 17505 17510	wegen
+E123	Consequence:T423 Cause:T424 Effect:T425
+A130	Degree E123 Facilitate
+T424	Argument 17511 17532	des wertvollen Holzes
+T425	Argument 17612 17637	überall gern gesehen sind
+T426	Consequence 17812 17819	bedingt
+E124	Consequence:T426 Cause:T427 Effect:T428 Affected:T429
+A131	Degree E124 Facilitate
+T427	Argument 17759 17773	ihr Verbleiben
+T428	Argument 17774 17788	keinen Schaden
+T429	Argument 17789 17811	für die Hauptholzarten
+T123	Consequence 20125 20133	bedeutet
+E37	Consequence:T123 Effect:T431 Cause:T430
+A52	Degree E37 Facilitate
+T430	Argument 20078 20083	Diese
+T431	Argument 20134 20212	einen Wendepunkt in der Entwicklung der österreichischen Staatsforstverwaltung
+T432	Argument 20041 20065	neuen Dienstorganisation
+R23	Coref Arg1:T430 Arg2:T432	
+T433	Consequence 20297 20306	und damit
+E125	Consequence:T433 Cause:T434 Effect:T435
+A132	Degree E125 Facilitate
+A133	Correlation E125
+T434	Argument 20214 20296	Der neuen Diensteinrichtung wurde das sogenannte Oberförstersystem zugrunde gelegt
+T435	Argument 20307 20379	das Schwergewicht der Wirtschaftsführung in die Verwaltungsämter verlegt
+T436	Argument 1509 1521	in den Alpen
+T437	Argument 2348 2354	welche
+T438	Argument 2440 2455	zum Stillstande
+R24	Coref Arg1:T437 Arg2:T29	
+T439	Argument 2952 2954	es
+R25	Coref Arg1:T439 Arg2:T40	
+T440	Argument 3126 3185	den Anschein einer gewissen Berechtigung und Zweckmäßigkeit
+A11	Context E11
+T442	Argument 3767 3808	an die Berechtigten zur Abtretung gelangt
+T443	Argument 3744 3766	der Servitutenablösung
+T446	Argument 3682 3735	eine nicht unbedeutende Fläche an Wald- und Weideland
+T441	Consequence 3736 3743	im Wege
+E126	Consequence:T441 Cause:T443 Effect:T442 Affected:T446
+A20	Degree E126 Facilitate
+T58	Consequence 4115 4117	da
+E20	Consequence:T58 Cause:T60 Support:T57 Effect:T59
+A33	Degree E20 Facilitate
+T60	Argument 4245 4275	die Erkenntnis Oberhand gewann
+T444	Consequence 4473 4478;4549 4558	durch erscheint
+E127	Consequence:T444 Effect:T447 Effect2:T445
+A34	Degree E127 Facilitate
+A134	Hypothetical E127
+T445	Argument 4479 4503	deren Beruf und Eigenart
+T447	Argument 4504 4548	die Erhaltung der Waldsubstanz gewährleistet
+T448	Purpose 4597 4600;4611 4619;4647 4650	war bestrebt zur
+E128	Purpose:T448 Actor:T451 Effect:T449 Cause:T450
+A135	Degree E128 Facilitate
+T449	Argument 4621 4646;4682 4693	jede günstige Gelegenheit auszunützen
+T450	Argument 4651 4681	Vergrößerung des Besitzstandes
+T451	Argument 4564 4596	österreichische Staatsverwaltung
+T452	Consequence 6404 6409	indem
+E129	Consequence:T452 Effect:T63 Cause:T62 Controlling:T64
+A136	Degree E129 Facilitate
+T63	Argument 6289 6299;6352 6402	Sie folgen den die Monarchie durchquerenden Hochgebirgsrücken
+T64	Argument 6301 6350	wenn man von den wenigen Flachlandforsten absieht
+T65	Consequence 6810 6815	indem
+E21	Consequence:T65 Cause:T66 Effect:T67
+A35	Degree E21 Facilitate
+T67	Argument 6750 6808	Die Mehrzahl der Forste gehört denmach dem Gebirgslande an
+T68	Argument 8384 8418	der großen Menge der Niederschläge
+T70	Argument 8423 8456	der Heftigkeit der Windströmungen
+T453	Argument 9897 9919	neben anderen Factoren
+T454	Purpose 21389 21395	hiefür
+E22	Purpose:T454 Cause:T455 Effect:T456
+A36	Degree E22 Facilitate
+T455	Argument 21275 21375	der Vertrieb und die Verrechnung sämmtlicher in seiner Verwaltung stehenden Producte und Materialien
+T456	Argument 21396 21420	erlassenen Instructionen
+T457	Purpose 21462 21467	hiezu
+E24	Purpose:T457 Cause:T458 Effect:T138
+A137	Degree E24 Facilitate
+T458	Argument 21422 21443;21496 21505	Die Geldgebarung wird vollzogen
+T138	Argument 21468 21495	bestellten Cassen und Ämter
+T459	Argument 21615 21628	die Direction
+T460	Argument 21629 21641;21648 21658	ausdrücklich ermächtigt
+T461	Argument 21530 21584	darf sich mit derselben nur dann und insoweit befassen
+T462	Argument 21594 21614	in bestimmten Fällen
+T463	Motivation 21648 21658	ermächtigt
+E40	Motivation:T463 Affected:T464 Controlling:T462 Actor:T459 Cause:T460 Effect:T466 Trigger:T467
+A138	Degree E40 Facilitate
+T464	Argument 21590 21593	ihn
+T465	Argument 21511 21529	der Forstverwalter
+R26	Coref Arg1:T464 Arg2:T465	
+T466	Argument 21642 21647	hiezu
+R27	Coref Arg1:T466 Arg2:T461	
+T467	Argument 21586 21589	als
+T468	Purpose 21660 21663	Für
+E130	Purpose:T468 Cause:T469 Effect:T470 Affected:T474
+A139	Degree E130 Facilitate
+T469	Argument 21664 21684	die Schreibgeschäfte
+T470	Argument 21685 21688;21703 21719;21817 21827	ist ein Forstgehilfe beigegeben
+T471	Purpose 21721 21724	zur
+E131	Purpose:T471 Cause:T472 Effect:T473 Affected:T474
+A140	Degree E131 Facilitate
+T472	Argument 21725 21755	Besorgung des äußeren Dienstes
+T473	Argument 21685 21688;21756 21816;21817 21827	ist das erforderliche Forstschutz- und technische Hilfspersonale beigegeben
+T474	Argument 21689 21702	dem Verwalter
+T475	Consequence 22203 22212	vorrücken
+E132	Consequence:T475 Cause:T476 Controlling:T477 Effect:T478
+A141	Degree E132 Facilitate
+T476	Argument 22148 22155	hierauf
+T477	Argument 22156 22190	nach Maßgabe frei werdender Posten
+T478	Argument 22191 22202	zu Förstern
+T479	Argument 22032 22143	nach absolvierter Försterschule ihre Laufbahn als Forstgehilfen bei den Forst- und Domänenverwaltungen beginnen
+R28	Coref Arg1:T476 Arg2:T479	
+T480	Motivation 22354 22360	Bedarf
+E133	Motivation:T480 Cause:T481 Effect:T482 Affected:T483
+A142	Degree E133 Facilitate
+T481	Argument 22349 22360	nach Bedarf
+T482	Argument 22361 22398	ohne förmliche Anstellung aufgenommen
+T483	Argument 22214 22230	Die Waldaufseher
+T484	Purpose 23125 23128	zur
+E134	Purpose:T484 Effect:T486 Cause:T485
+A143	Degree E134 Facilitate
+T485	Argument 23129 23138	Besorgung
+T486	Argument 23099 23124;23139 23149	eigenen Perceptionsämtern überwiesen
+T139	Purpose 23732 23737	durch
+E41	Purpose:T139 Cause:T141 Effect:T140
+A55	Degree E41 Facilitate
+T143	Purpose 23898 23903	durch
+E42	Purpose:T143 Cause:T144 Effect:T142
+A56	Degree E42 Facilitate
+T487	Purpose 24832 24835	Zur
+E135	Purpose:T487 Effect:T490 Cause:T488 Affected:T489
+A144	Degree E135 Facilitate
+T488	Argument 24836 24908	Durchführung der in den Wirkungskreis der Directionen fallenden Arbeiten
+T489	Argument 24915 24938	dem Directionsvorstande
+T490	Argument 24909 24914;24939 24976	steht das nöthige Beamtenpersonal zur Seite
+T491	Purpose 25043 25045;25053 25059	zu Behufe
+E136	Purpose:T491 Cause:T493 Effect:T492
+A145	Degree E136 Facilitate
+T492	Argument 25060 25131	zu Inspectionsbezirken zusammengefassten Forst- und Domänenverwaltungen
+T493	Argument 25046 25052	diesem
+T494	Argument 24978 25035	Die locale Überwachung des gesammten Wirtschaftsbetriebes
+R29	Coref Arg1:T493 Arg2:T494	
+T495	Consequence 25484 25491	vermöge
+E137	Consequence:T495 Cause:T496 Effect:T497 Affected:T498
+A146	Degree E137 Facilitate
+T496	Argument 25492 25525	ihres rein juridischen Charakters
+T497	Argument 25532 25572	zur ausschließlichen Behandlung zufallen
+T498	Argument 25526 25531	ihnen
+T499	Argument 25346 25421	die zugetheilten Administrationsräthe, Secretäre, Adjuncten und Concipisten
+R30	Coref Arg1:T498 Arg2:T499	
+T500	Purpose 25704 25707	Für
+E138	Purpose:T500 Cause:T501 Effect:T502
+A147	Degree E138 Facilitate
+T501	Argument 25708 25757	die Durchführung der Betriebseinrichtungsarbeiten
+T502	Argument 25762 25793	eine eigene Abtheilung bestellt
+T503	Argument 26381 26481	Diese letztere in der Instruction enthaltene Bestimmung verliert gegenwärtig immer mehr an Bedeutung
+T504	Argument 26491 26555	den Directionen dermal auch bautechnische Organe zugewiesen sind
+T505	Consequence 26483 26490	nachdem
+E139	Consequence:T505 Cause:T504 Effect:T503
+A148	Degree E139 Facilitate
+T506	Motivation 27874 27882	erfolgte
+E140	Motivation:T506 Cause:T507 Effect:T508 Controlling:T509
+A149	Degree E140 Facilitate
+T507	Argument 27850 27873	Nach diesen Grundsätzen
+T508	Argument 27920 28065	die Eintheilung des gesammten Staats- und Fondsbesitzes in einzelne Wirtschaftsbezirke, sowie die Zusammenfassung derselben im Directionsbereiche
+T509	Argument 27883 27919	bei der Reorganisation im Jahre 1575
+T510	Consequence 28572 28585	in Anbetracht
+E141	Consequence:T510 Cause:T512 Effect:T511
+A150	Degree E141 Facilitate
+T511	Argument 28488 28505;28711 28731	Letztere zerfällt in fünf Departements
+T512	Argument 28586 28710	des bedeutenden Domänenbesitzes und der exceptionellen Stellung, welche der griechisch-orientalische Religionsfond einnimmt,
+T514	Argument 28876 28922	jenen in Tirol, Salzburg und im Salzkammergute
+T515	Argument 28923 28985	Directionen in Innsbruck, Salzburg, beziehungsweise in Gmunden
+E143	Motivation:T520 Trigger:T517 Cause:T518 Effect:T519
+A152	Degree E143 Facilitate
+T513	Argument 28872 28875	für
+T517	Argument 28987 28990	für
+T518	Argument 28991 28999	Galizien
+T519	Argument 29000 29103	eine solche mit je einer Abtheilung für die Forste der westlichen und östlichen Landeshälfte in Lemberg
+E142	Motivation:T520 Cause:T514 Effect:T515 Trigger:T513
+A151	Degree E142 Facilitate
+T520	Motivation 29104 29113	errichtet
+T521	Argument 29809 29875	zwischen 559 ha (Bohutin in Böhmen) und 49.539 ha (Telfs in Tirol)
+T522	Argument 29764 29807	der isolierten Lage einzelner Forstcomplexe
+T524	Argument 29650 29748	der Intensität des Betriebes und des Antheiles, den die productive Fläche an der Gesammtarea nimmt
+T525	Argument 29638 29641	die
+T526	Argument 29580 29636	die Flächen der einzelnen Forst- und Domänenverwaltungen
+R31	Coref Arg1:T525 Arg2:T526	
+T523	Argument 29642 29649	je nach
+T516	Argument 29756 29763	infolge
+T527	Consequence 29876 29885	schwanken
+E144	Consequence:T527 Effect:T521 Cause:T524 Cause2:T522 Trigger:T523 Trigger2:T516 Affected:T525
+A153	Degree E144 Facilitate
+T528	Argument 29887 29941	Werden nur die productiven Flächen in Betracht gezogen
+T529	Consequence 29946 29956	resultiert
+E145	Consequence:T529 Trigger:T530 Cause:T528 Affected:T531 Effect:T532
+A154	Degree E145 Facilitate
+T530	Argument 29943 29945	so
+T531	Argument 29957 29992	für den kleinsten Wirtschaftsbezirk
+T532	Argument 29993 30022	eine Fläche von 559 (Bohutin)
+T533	Argument 30024 30039	für den größten
+T534	Argument 30040 30097	eine solche von 25.904 (Watra-Moldawitza in der Bukowina)
+E146	Consequence:T529 Trigger:T530 Cause:T528 Affected:T533 Effect:T534
+A155	Degree E146 Facilitate
+T351	Argument 30600 30607	infolge
+T536	Argument 30850 30942	mit Ausschluss eines solchen, wo der jeweilige Förster auch als Schutzorgan zu fungieren hat
+T537	Purpose 31024 31033	bestellen
+E101	Purpose:T537 Effect:T540 Cause:T539 Trigger:T538
+A109	Degree E101 Facilitate
+T538	Argument 30944 30947	für
+T539	Argument 30948 30992	die Besorgung des reinen Forstschutzdienstes
+T540	Argument 30993 31020	eigene Waldaufseher (Heger)
+T535	Consequence 31773 31785;31792 31796	richtet sich nach
+E147	Consequence:T535 Effect:T542 Cause:T541
+A156	Degree E147 Facilitate
+T541	Argument 31797 31849	den Bezügen der betreffenden allgemeinen Rangsclasse
+T542	Argument 31786 31791	diese
+T543	Argument 31733 31758	die Besoldung der Beamten
+R32	Coref Arg1:T542 Arg2:T543	
+T544	Consequence 31949 31956	gebüren
+E148	Consequence:T544 Effect:T547 Affected:T546 Cause:T545
+A157	Degree E148 Facilitate
+T545	Argument 31972 32020	welche bestimmt sind, äußeren Dienst zu versehen
+T546	Argument 31957 31970	jenen Beamten
+T547	Argument 32022 32055	Reisediäten oder Reisepauschalien
+T548	Consequence 32318 32323;32566 32569	tritt ein
+E149	Consequence:T548 Affected:T550 Trigger:T549 Cause:T551 Effect:T552 Trigger2:T553 Cause2:T554 Effect2:T555
+A158	Degree E149 Facilitate
+A159	Temporal E149
+T549	Argument 32341 32345	nach
+T550	Argument 32324 32340	bei den Förstern
+T551	Argument 32346 32411	den im Civilstaatsdienste zurückgelegten ersten fünf Dienstjahren
+T552	Argument 32412 32507	eine bei der Bemessung der Ruhegenüsse einrechenbare Dienstalterszulage von 100 Kronen jährlich
+T553	Argument 32509 32513	nach
+T554	Argument 32514 32538	den nächsten fünf Jahren
+T555	Argument 32539 32565	eine zweite von 100 Kronen
+T556	Consequence 33321 33324;33367 33376	ist zu danken
+E150	Consequence:T556 Cause:T558 Effect:T557
+A160	Degree E150 Facilitate
+T557	Argument 33318 33320	es
+T558	Argument 33330 33366	den Bestrebungen der letzten Periode
+T559	Argument 33378 33619	dass nunmehr mit geringen Ausnahmen das gesammte, den Verwaltungsdienst versehende Forstpersonal in eigenen Gebäuden in einer Weise bequartiert ist, die sowohl den Anforderungen des Dienstes, als auch den Bedürfnissen der Bewohner entspricht
+R33	Coref Arg1:T557 Arg2:T559	
+T560	Purpose 34283 34287;34476 34485	wird gefordert
+E151	Purpose:T560 Trigger:T561 Cause:T562 Effect:T563
+A161	Degree E151 Facilitate
+T561	Argument 34253 34256	Für
+T562	Argument 34257 34282	die definitive Anstellung
+T563	Argument 34297 34475	die Ablegung der „Prüfung für den forsttechnischen Staatsdienst“ nach zweijähriger praktischer Verwendung im Staatsdienste als Forsteleve oder in lehrreichen Forsten von Privaten
+T564	Consequence 34984 35000	unerlässlich ist
+E152	Consequence:T564 Trigger:T566 Cause:T565 Effect:T567
+A162	Degree E152 Facilitate
+T565	Argument 34936 34983	Führung der Geschäfte als selbständiger Beamter
+T566	Argument 34932 34935	zur
+T567	Argument 34924 34931	welches
+T568	Argument 34860 34914	jenes Maß von praktischer und theoretischer Vorbildung
+R34	Coref Arg1:T567 Arg2:T568	
+T569	Argument 35069 35101	die Aufnahme in den Staatsdienst
+T572	Argument 35105 35124	gewisse Bedingungen
+T573	Consequence 35102 35104;35125 35133	an geknüpft
+E154	Consequence:T573 Cause:T569 Effect:T572 Trigger:T570
+A164	Degree E154 Facilitate
+T570	Argument 35113 35124	Bedingungen
+T571	Argument 35207 35262	die Sorge um die Ausbildung des betreffenden Personales
+T574	Purpose 35286 35288;35296 35302	Zu Behufe
+E153	Purpose:T574 Cause:T575 Effect:T576
+A163	Degree E153 Facilitate
+T575	Argument 35289 35295	diesem
+T576	Argument 35310 35458	bei den Forst- und Domänenverwaltungen in Gusswerk (Steiermark), Hall (Tirol), Idria (Krain) und Bolechöw (Galizien) je eine Försterschule errichtet
+R35	Coref Arg1:T575 Arg2:T571	
+T577	Consequence 35812 35821	erfordert
+E155	Consequence:T577 Cause:T578 Effect:T579
+A165	Degree E155 Facilitate
+T578	Argument 35774 35811	der spätere Beruf eines Schutzorganes
+T579	Argument 35695 35764	sowohl praktischen als auch theoretischen Unterricht in einem Ausmaße
+T580	Argument 35855 35888	den Bedarf der eigenen Verwaltung
+T581	Argument 35896 35955	die vorhandenen Einrichtungen der Schule und des Internates
+T582	Argument 35957 35965	in Idria
+T583	Argument 35823 35836;35966 35975	Ihre Zahl ist auf sechs
+T584	Argument 35977 36007	bei den drei anderen Anstalten
+T585	Argument 35823 35836;36008 36020	Ihre Zahl ist auf je zwölf
+T586	Motivation 36021 36032	festgesetzt
+E156	Motivation:T586 Trigger:T587 Cause:T580 Cause2:T581 Controlling:T582 Effect:T583 Controlling2:T584 Effect2:T585
+A166	Degree E156 Facilitate
+T587	Argument 35837 35854	mit Rücksicht auf
+T588	Consequence 36257 36265	erhalten
+E157	Consequence:T588 Cause:T589 Effect:T590
+A167	Degree E157 Facilitate
+T589	Argument 36182 36256	würdige und unterstützungsbedürftige Söhne von Förstern und Forstarbeitern
+T590	Argument 36266 36313	Stipendien in der Höhe von 110, 165 und 275 fl.
+T591	Argument 36314 36317	Für
+T592	Consequence 36566 36574	umfassen
+E158	Consequence:T592 Cause:T595 Effect:T594 Controlling:T593
+A168	Degree E158 Facilitate
+T593	Argument 36575 36586	gegenwärtig
+T594	Argument 36587 36619	eine Lehrzeit von sieben Monaten
+T595	Argument 36473 36482	Dieselben
+T596	Argument 36442 36460	Waldaufsehercursen
+R36	Coref Arg1:T595 Arg2:T596	
+T597	Consequence 37507 37519	abhängig war
+E159	Consequence:T597 Cause:T600 Controlling:T599 Effect:T598 Affected:T601
+A169	Degree E159 Facilitate
+T598	Argument 37378 37401	gedeihliche Entwicklung
+T599	Argument 37402 37408	damals
+T600	Argument 37409 37506	in viel größerem Maße von dem Vorhandensein des in nächster Nähe beziehbaren Brenn- und Bauholzes
+T601	Argument 37372 37377	deren
+T602	Argument 37330 37370	die staatlichen Montan- und Salinenwerke
+R37	Coref Arg1:T601 Arg2:T602	
+T603	Motivation 37220 37235	Einhalt zu thun
+E160	Motivation:T603 Effect:T604 Affected:T605
+A170	Degree E160 Inhibit
+T604	Argument 37141 37206	den sich immer erneuernden Grenzübergriffen und Besitzaneignungen
+T605	Argument 37207 37219	der Anrainer
+T606	Purpose 37603 37614	gerichteten
+E161	Purpose:T606 Cause:T607 Effect:T609 Trigger:T608
+A171	Degree E161 Facilitate
+T607	Argument 37576 37602	die Erhaltung der Substanz
+T608	Argument 37572 37575	auf
+T609	Argument 37541 37547;37615 37632	diesen Betriebsmaßnahmen
+T610	Argument 37651 37669	erst nach und nach
+T611	Argument 37670 37687	jene Verhältnisse
+T612	Consequence 37633 37650	entwickelten sich
+E162	Consequence:T612 Effect:T611 Controlling:T610 Trigger:T615 Cause:T609
+A172	Degree E162 Facilitate
+T613	Motivation 37733 37759	zum Ausgangspunkte dienten
+E163	Motivation:T613 Effect:T614 Cause:T611
+A173	Degree E163 Facilitate
+T614	Argument 37693 37732	den jetzigen Forstbetriebseinrichtungen
+T615	Argument 37537 37540	Aus
+T616	Argument 38413 38492	Nachdem hierauf das Gebiet im Jahre 1819 durch den Cataster genau vermessen war
+T617	Motivation 38494 38502	erfolgte
+E164	Motivation:T617 Cause:T616 Actor:T618 Effect:T619
+A174	Degree E164 Facilitate
+T618	Argument 38531 38565	unter Forstdirecetor von Hausegger
+T619	Argument 38566 38641	die erste, ein Vermessungs- und Taxationsoperat umfassende Forsteinrichtung
+T620	Consequence 38988 38993	zwang
+E165	Consequence:T620 Cause:T621 Effect:T622
+A175	Degree E165 Facilitate
+T621	Argument 38844 38862	der Salinenbetrieb
+T622	Argument 38868 38987	zur Sicherung des eigenen Holzbedarfes und hiemit zur Anbahnung einer gewissen Nachhaltigkeit der forstlichen Nutzungen
+A176	Temporal E164
+T623	Motivation 39258 39266	erfolgte
+E166	Motivation:T623 Cause:T624 Effect:T625
+A177	Degree E166 Facilitate
+A178	Temporal E166
+T624	Argument 39144 39256	Nachdem in den Jahren 1630 bis 1634, dann 1763 und 1782 die ersten Schätzungen dieser Forste durchgeführt wurden
+T625	Argument 39267 39342	in den Jahren 1794 und 1804 eine genaue Vermessung und Kartierung derselben
+T626	Motivation 39704 39713;39724 39727	Begründer war
+E167	Motivation:T626 Effect:T627 Actor:T628
+A179	Degree E167 Facilitate
+A180	Creation-termination E167
+T627	Argument 39714 39723	derselben
+T628	Argument 39728 39757	Forstrath von Wunderbaldinger
+T629	Argument 39767 39831	eine umfassende Instruction für die Durchführung dieser Arbeiten
+T630	Motivation 39832 39841	verdanken
+E168	Motivation:T630 Actor:T631 Effect:T629
+A181	Degree E168 Facilitate
+T631	Argument 39759 39762	dem
+R38	Coref Arg1:T631 Arg2:T628	
+T632	Argument 39629 39661	eine neuerliche Forsteinrichtung
+R39	Coref Arg1:T627 Arg2:T632	
+T633	Motivation 40003 40022	in Angriff genommen
+E169	Motivation:T633 Effect:T637 Cause:T634 Trigger:T635 Controlling:T636
+A182	Degree E169 Facilitate
+T634	Argument 39848 39866	seinen Intentionen
+T635	Argument 39843 39847	Nach
+T636	Argument 39871 39891	unter seiner Leitung
+T637	Argument 39899 40002	zuerst die Forste des steiermärkischen Antheiles, hierauf im Jahre 1845 die in Oberösterreich gelegenen
+T638	Motivation 40792 40800	erfolgte
+E170	Motivation:T638 Cause:T639 Controlling:T640 Effect:T641
+A183	Degree E170 Facilitate
+T639	Argument 40772 40791	Die Etatsermittlung
+T640	Argument 40801 40833	in den Kahlschlagbetriebsclassen
+T641	Argument 40834 40864	nach der Maßenfachwerksmethode
+T642	Argument 40866 40886	beim Plenterbetriebe
+T643	Argument 40887 40930	nach dem Hundeshagen’schen Nutzungsprocente
+E171	Motivation:T638 Cause:T639 Controlling:T642 Effect:T643
+A184	Degree E171 Facilitate
+T644	Purpose 40932 40934;41000 41002	Um zu
+E172	Purpose:T644 Cause:T645 Effect:T646
+A185	Degree E172 Facilitate
+T645	Argument 40935 40999;41003 41010	den Wert und die Brauchbarkeit der Operate für längere Zeiträume sichern
+T646	Argument 41012 41055	waren zehnjährige Revisionen vorgeschrieben
+T647	Motivation 41139 41141;41176 41180	so dass
+E173	Motivation:T647 Cause:T648 Actor:T649 Effect:T650
+A186	Degree E173 Facilitate
+T648	Argument 41142 41174	doch in einer Weise durchgeführt
+T649	Argument 41181 41184	man
+T650	Argument 41185 41373	das von Wunderbaldinger geschaffene Werk bei den späteren Betriebseinrichtungen mit Vortheil als Grundlage benützen und dessen Kartenwerke nach geringfügigen Ergänzungen beibehalten konnte
+T651	Argument 41498 41559	hier die Regelung des Betriebes gleichfalls weit zurückgreift
+T652	Argument 41588 41655	hier ein von dem gewöhnlichen abweichender Vorgang beobachtet wurde
+T653	Argument 41395 41481	verdienen noch die Forste Galiziens und der Bukowina besonders hervorgehoben zu werden
+T654	Consequence 41493 41497	weil
+E174	Consequence:T654 Cause:T651 Effect:T653
+A187	Degree E174 Facilitate
+T655	Consequence 41583 41587	weil
+E175	Consequence:T655 Trigger:T656 Effect:T653 Cause:T652
+A188	Degree E175 Facilitate
+T656	Argument 41574 41581	deshalb
+T657	Argument 42082 42092	Districten
+R40	Coref Arg1:T176 Arg2:T657	
+R14	Coref Arg1:T189 Arg2:T194	
+T190	Consequence 42733 42742;42772 42775	insoferne als
+E57	Consequence:T190 Effect:T191 Cause:T186 Controlling:T192
+A68	Degree E57 Facilitate
+T191	Argument 42743 42770	einen dauernden Wert gehabt
+T192	Argument 42787 42840	in den Forsten des galizischen Flach- und Hügellandes
+A189	Degree E99 Facilitate
+T193	Purpose 43969 43979	erheischte
+E176	Purpose:T193 Cause:T658 Effect:T659
+A190	Degree E176 Facilitate
+T658	Argument 43919 43968	die wünschenswerte Einheitlichkeit des Verfahrens
+T659	Argument 43914 43918	dies
+T660	Argument 43871 43908	in Einzelheiten nur insoferne einließ
+R41	Coref Arg1:T659 Arg2:T660	
+T661	Argument 44393 44396	für
+T662	Motivation 44331 44343;44461 44473	ist bestrebt herzustellen
+E177	Motivation:T662 Effect:T665 Cause:T663 Trigger:T661 Controlling:T664
+A191	Degree E177 Facilitate
+T663	Argument 44397 44419	die Wirtschaftsführung
+T664	Argument 44345 44392	unter Berücksichtigung der localen Verhältnisse
+T665	Argument 44420 44460	eine möglichst solide und dauernde Basis
+T666	Consequence 44584 44600	unerlässlich ist
+E178	Consequence:T666 Effect:T667 Trigger:T668 Cause:T670
+A192	Degree E178 Facilitate
+T667	Argument 44536 44583	eine fortschrittliche Entwicklung des Betriebes
+T668	Argument 44532 44535	für
+T669	Argument 44491 44509	jene Beweglichkeit
+T670	Argument 44525 44531	welche
+R42	Coref Arg1:T670 Arg2:T669	
+T671	Purpose 44768 44779	erwünschten
+E179	Purpose:T671 Cause:T672 Controlling:T673 Trigger:T678 Effect:T674
+A193	Degree E179 Facilitate
+T672	Argument 44780 44796	Genauigkeitsgrad
+T673	Argument 44749 44767	im concreten Falle
+T674	Argument 44705 44730	die Anpassung der Methode
+T675	Motivation 44836 44840	nach
+E180	Motivation:T675 Cause:T676 Effect:T677
+A194	Degree E180 Facilitate
+T676	Argument 44841 44865	den Terrainverhältnissen
+T677	Argument 44809 44835	die Modification desselben
+T678	Argument 44742 44744	an
+T679	Consequence 45111 45119	gewähren
+E181	Consequence:T679 Cause:T680 Effect:T681
+A195	Degree E181 Facilitate
+T680	Argument 45022 45110	Die Beilagen der drei zur Exposition gebrachten Forsteinrichtungs- und Revisions-Operate
+T681	Argument 45120 45247	einen Einblick in die Art und Weise und den Umfang der Forstvermessungen, sowie in die zeichnerische Ausführung der Kartenwerke
+T682	Consequence 45414 45429	Aufschluss gibt
+E182	Consequence:T682 Cause:T684 Effect:T683
+A196	Degree E182 Facilitate
+T683	Argument 45343 45413	über die Herstellung und Vervielfältigung der forstlichen Gerippkarten
+T684	Argument 45257 45342	eine Mappe mit den Erzeugnissen der lithographischen Anstalt des Ackerbauministeriums
+T685	Argument 45872 46049	die erreichbar höchste Vollkommenheit des Bodenschutzes und der Bodenpflege, der Ordnung und der Güte des Holzbestandes, wie der Größe und des Wertes aller Erträge erzielt werde
+T687	Argument 45863 45871	hiedurch
+T689	Argument 45765 45839	mit Rücksicht auf die inneren und äußeren Forstverhältnisse des Waldlandes
+T686	Purpose 45847 45856	zu regeln
+E183	Purpose:T686 Trigger:T688 Trigger2:T690 Trigger3:T687 Controlling:T689 Cause:T685 Effect:T691
+A197	Degree E183 Facilitate
+T688	Argument 45840 45846	derart
+T690	Argument 45858 45862	dass
+T691	Argument 45616 45764	den Wirtschaftsgang aller Wälder in Beziehung auf deren Benützung und Wiederbegründung, sowie auf die dabei in Frage kommenden Flächen und Zeiträume
+T692	Argument 46067 46091	Erreichung dieses Zieles
+T693	Argument 46097 46156	vor allem eine rationelle Eintheilung der Forste bezeichnet
+T694	Purpose 46056 46062	Mittel
+E184	Purpose:T694 Trigger:T695 Cause:T692 Effect:T693
+A198	Degree E184 Facilitate
+T695	Argument 46063 46066	zur
+A199	Degree E53 Facilitate
+T696	Argument 47286 47313	besonders in Gebirgsforsten
+T697	Argument 47314 47438	den in der Natur vorhandenen natürlichen Terrainlinien, wie Bergrücken, Gräben, Bächen, Flüssen, Straßenzügen etc. möglichst
+T698	Motivation 47439 47456	anzuschließen hat
+E185	Motivation:T698 Cause:T697 Effect:T181 Controlling:T696
+A200	Degree E185 Facilitate
+T699	Purpose 47458 47467;47504 47510	Als Basis dienen
+E186	Purpose:T699 Trigger:T700 Cause:T701 Effect:T702
+A201	Degree E186 Facilitate
+T700	Argument 47468 47471	für
+T701	Argument 47472 47503	die künftige Wirtschaftsführung
+T702	Argument 47511 47527	Wirtschaftspläne
+R43	Coref Arg1:T118 Arg2:T702	
+T703	Argument 47913 47926	die letzteren
+T704	Motivation 48144 48151	liefern
+E187	Motivation:T704 Effect:T706 Actor:T705
+A202	Degree E187 Facilitate
+T705	Argument 48140 48143	sie
+T706	Argument 48159 48216	die Grundlagen für die Ermittlung des Haubarkeitsertrages
+R44	Coref Arg1:T705 Arg2:T703	
+T707	Argument 47593 47647	vom Ackerbauministerium genehmigten Betriebsvorschläge
+R45	Coref Arg1:T703 Arg2:T707	
+T708	Purpose 48104 48117	geeignet sind
+E188	Purpose:T708 Cause:T710 Effect:T709
+A203	Degree E188 Facilitate
+T709	Argument 48035 48095	alle jene Momente in den Kreis ihrer Betrachtungen zu ziehen
+T710	Argument 48119 48138	den Ertrag zu heben
+T711	Purpose 48218 48223	indem
+E189	Purpose:T711 Actor:T714 Cause:T706 Effect:T712 Effect2:T713
+A204	Degree E189 Facilitate
+T712	Argument 48228 48315	einerseits in der Altersclassentabelle das Bild der jetzigen Bestandeslagerung fixieren
+T713	Argument 48317 48408	anderseits im allgemeinen Einrichtungsplane das künftig anzustrebende ideale Bild entwerfen
+T714	Argument 48224 48227	sie
+T715	Consequence 48410 48421	An der Hand
+E190	Consequence:T715 Cause:T716 Effect:T717
+A205	Degree E190 Facilitate
+T716	Argument 48422 48438	dieses letzteren
+T717	Argument 48439 48490	werden dann die decennalen Schlagflächen ausgewählt
+T718	Consequence 48536 48544	ausmacht
+E191	Consequence:T718 Cause:T719 Effect:T720
+A206	Degree E191 Facilitate
+T719	Argument 48492 48510	deren Maßenvorrath
+T720	Argument 48511 48535	den decennalen Hiebssatz
+T722	Argument 48774 48801	der geänderten Verhältnisse
+T723	Argument 48729 48753	Die provisorischen Werke
+T724	Argument 48802 48874	bei Durchführung einer der nächsten Revisionen oder auch erst allmählich
+T725	Consequence 48754 48760;48913 48922	werden überführt
+E193	Consequence:T725 Affected:T723 Trigger:T721 Cause:T722 Controlling:T724 Effect:T726
+A208	Degree E193 Facilitate
+T721	Argument 48761 48773	nach Maßgabe
+T726	Argument 48875 48912	in die Form definitiver Einrichtungen
+T727	Argument 48924 48970	Die Anordnung einer provisorischen Einrichtung
+T728	Purpose 49602 49615	bestimmt sind
+E192	Purpose:T728 Cause:T729 Effect:T730
+A207	Degree E192 Facilitate
+T729	Argument 49520 49601	den Wert und die Brauchbarkeit der Einrichtungswerke für längere Zeit zu erhalten
+T730	Argument 49516 49519	die
+T731	Argument 49630 49694	die jährlichen Nachtragsarbeiten und die periodischen Revisionen
+R46	Coref Arg1:T730 Arg2:T731	
+T732	Purpose 49704 49715	bestehen in
+E194	Purpose:T732 Cause:T733 Effect:T734 Effect2:T735 Effect3:T736
+A209	Degree E194 Facilitate
+T733	Argument 49696 49703	Erstere
+T734	Argument 49716 49750	der Evidenthaltung der Kartenwerke
+T735	Argument 49752 49786	der Hiebs- und Culturnachweisungen
+T736	Argument 49793 49838	der Führung der Gedenk- und Wirtschaftsbücher
+T737	Argument 49630 49662	die jährlichen Nachtragsarbeiten
+R47	Coref Arg1:T733 Arg2:T737	
+T738	Purpose 49849 49868	verfolgen den Zweck
+E195	Purpose:T738 Effect:T741 Cause:T739
+A210	Degree E195 Facilitate
+T739	Argument 49870 50129	die Wirtschaftsführung seit der Aufstellung des Einrichtungs-, beziehungsweise letzten Revisionsoperates einer eingehenden Prüfung und Controle zu unterziehen und für die kommende, meist zehnjährige Wirtschaftsperiode neue Vorschriften und Pläne auszuarbeiten
+T740	Argument 49821 49838	Wirtschaftsbücher
+T741	Argument 49840 49848	letztere
+R48	Coref Arg1:T741 Arg2:T740	
+T742	Consequence 50647 50651	nach
+E196	Consequence:T742 Effect:T744 Cause:T743
+A211	Degree E196 Facilitate
+T743	Argument 50652 50691	der Instruction für die Karpathenwälder
+T744	Argument 50636 50646;50738 50757	377.718 ha eingerichtet wurden
+T746	Consequence 50707 50711	nach
+E197	Consequence:T746 Cause:T747 Effect:T745
+A212	Degree E197 Facilitate
+T747	Argument 50712 50737	dem definitiven Verfahren
+T745	Argument 50696 50706;50738 50757	617.942 ha eingerichtet wurden
+T347	Consequence 50509 50521	beziffernden
+E102	Consequence:T347 Trigger:T748 Cause:T749 Effect:T750
+A110	Degree E102 Facilitate
+T748	Argument 50456 50466	Ergebnisse
+T749	Argument 50467 50486	der Forstvermessung
+T750	Argument 50492 50508	auf 1,030.318 ha
+T751	Motivation 52457 52476	Beachtung geschenkt
+E198	Motivation:T751 Cause:T753 Trigger:T752 Effect:T754 Effect2:T755 Effect3:T757 Effect4:T756
+A213	Degree E198 Facilitate
+T752	Argument 52478 52483	indem
+T753	Argument 52400 52446	der Bestimmung der zweckmäßigsten Umtriebszeit
+T754	Argument 52491 52529;52703 52738	sowohl die Momente waldbaulicher Natur reiflich in Erwägung gezogen werden
+T755	Argument 52531 52581;52703 52738	als auch die Bringungs- und Transportsverhältnisse reiflich in Erwägung gezogen werden
+T756	Argument 52583 52626;52703 52738	die bestehenden rechtlichen Verpflichtungen reiflich in Erwägung gezogen werden
+T757	Argument 52628 52702;52703 52738	sowie endlich die finanzielle Seite dieser Frage in jedem speciellen Falle reiflich in Erwägung gezogen werden
+T758	Motivation 52032 52050	entscheidend waren
+E199	Motivation:T758 Cause:T761 Effect:T760 Controlling:T759
+A214	Degree E199 Facilitate
+T759	Argument 51964 51970	früher
+T760	Argument 51971 51977	hiefür
+T761	Argument 51983 52031	der momentane Vortheil und der allgemeine Brauch
+T762	Argument 51872 51899	die Wahl der Betriebsformen
+R49	Coref Arg1:T760 Arg2:T762	
+T763	Motivation 52347 52354	erfolgt
+E200	Motivation:T763 Cause:T766 Trigger:T119 Effect:T764 Cause2:T765
+T119	Argument 52076 52085	auf Grund
+T764	Argument 52071 52075	dies
+T765	Argument 52060 52070	heutzutage
+T766	Argument 52086 52346	eingehender Erhebungen, unter Berücksichtigung der individuellen Eigenschaften der Holzarten und ihres localen Verhaltens, der Bringungsverhältnisse und nicht zum mindesten auch mit Rücksicht auf die Geschicklichkeit der zur Verfügung stehenden Holzhauerschaft
+R50	Coref Arg1:T764 Arg2:T762	
+T767	Consequence 54088 54104	damit verbundene
+E35	Consequence:T767 Cause:T769 Effect:T770
+A50	Degree E35 Facilitate
+T768	Argument 54012 54032	beim Plenterbetriebe
+T769	Argument 54033 54079	die Ausdehnung der Schläge auf größere Flächen
+T770	Argument 54084 54087;54105 54135	die häufigere Wiederkehr der Hiebe
+T771	Motivation 54007 54011;54293 54303	wird angestrebt
+E201	Motivation:T771 Cause:T768 Effect:T769 Controlling:T772
+A215	Degree E201 Facilitate
+T772	Argument 54137 54291	soweit dies der plenterwaldartige Charakter der Bestände, sowie deren Lagerung, beziehungsweise die Möglichkeit, das gefällte Holz auszubringen, gestatten
+T773	Consequence 54305 54310;54434 54442	Haben Einfluss
+E202	Consequence:T773 Affected:T776 Actor:T774 Effect:T775
+A216	Degree E202 Facilitate
+T774	Argument 54338 54418	die bestehenden Vorschriften der Einrichtungs-, beziehungsweise Revisionsoperate
+T775	Argument 54419 54433	entscheidenden
+T776	Argument 54311 54327	auf diese Fragen
+T777	Motivation 54447 54452;54531 54540	liegt in Händen
+E203	Motivation:T777 Effect:T779 Actor:T778
+A217	Degree E203 Facilitate
+T778	Argument 54541 54563	der Verwaltungsbeamten
+T779	Argument 54459 54530	die Regelung und Durchführung des Wirtschaftsbetriebes im engeren Sinne
+T781	Argument 55066 55072	dessen
+T782	Consequence 54996 55008	Einfluss auf
+E204	Consequence:T782 Cause:T783 Effect:T784
+A218	Degree E204 Facilitate
+T783	Argument 54942 54979	der Nutzholz- und Brennholzsortierung
+T784	Argument 55009 55048	das finanzielle Ergebnis der Wirtschaft
+T785	Argument 55088 55160	zahlreiche Vorschriften seitens der Oberbehörden an die Verwaltungsämter
+T780	Motivation 55053 55065	In Würdigung
+E205	Motivation:T780 Cause:T781 Effect:T785 Trigger:T786
+A219	Degree E205 Facilitate
+T786	Argument 55078 55082	denn
+T787	Motivation 55313 55333	zum Gegenstand haben
+E206	Motivation:T787 Effect:T790 Cause:T788
+A220	Degree E206 Facilitate
+T788	Argument 55171 55174	die
+E207	Motivation:T787 Effect:T789 Cause:T788
+A221	Degree E207 Facilitate
+T789	Argument 55186 55234	die Aufstellung entsprechender Sortimentenscalen
+T790	Argument 55247 55312	die Anwendung derselben bei der Aufarbeitung der Schlagergebnisse
+R51	Coref Arg1:T788 Arg2:T785	
+T791	Argument 55734 55780	Einer weiteren Steigerung der Nutzholzausbeute
+T792	Argument 55802 55828	die Transportsverhältnisse
+T793	Argument 55788 55801	zur Zeit noch
+T794	Consequence 55781 55787;55829 55836	stehen im Wege
+E208	Consequence:T794 Cause:T792 Effect:T791 Trigger:T793
+A222	Degree E208 Inhibit
+T795	Motivation 55904 55911	gelangt
+E209	Motivation:T795 Affected:T798 Cause:T796 Controlling:T799 Effect:T797
+A223	Degree E209 Facilitate
+T796	Argument 56010 56031	auf mannigfache Weise
+T797	Argument 56032 56140	bis zu jenen Transportsanstalten, auf denen es aus dem Walde den endlichen Absatzorten zugeführt werden soll
+T798	Argument 55838 55903	Das im Schlage gefällte und an Ort und Stelle aufgearbeitete Holz
+T799	Argument 55921 56009	je nach den Terrainverhältnissen, den vorhandenen Arbeitskräften und dem localen Brauche
+T802	Argument 56332 56335	mit
+T803	Argument 56336 56354	bedeutenden Kosten
+T800	Purpose 56355 56366	errichteten
+E210	Purpose:T800 Cause:T801 Effect:T803 Trigger:T802
+A224	Degree E210 Facilitate
+T801	Argument 56367 56387	Anstalten und Bauten
+T804	Argument 56461 56489	der Ausdehnung und Bedeutung
+T805	Consequence 56444 56460	sind ein Zeichen
+E211	Consequence:T805 Cause:T801 Effect:T804
+A225	Degree E211 Facilitate
+T806	Motivation 48971 48977;48993 48998	findet statt
+E212	Motivation:T806 Trigger:T808 Cause:T807 Effect:T727
+A226	Degree E212 Facilitate
+T807	Argument 49003 49093	eine übermäßige Belastung mit Servituten den Aufwand bedeutender Kosten nicht rechtfertigt
+T808	Argument 48988 48992;49000 49002	dort wo
+T809	Argument 49100 49108	dort, wo
+T810	Argument 49109 49210	vertragsmäßige Verpflichtungen (Holzverkäufe) eine beschleunigte Durchführung der Arbeiten erheischen
+T811	Argument 49220 49448	in Gegenden, die, wie die Gebiete Galiziens und der Bukowina, in Anbetracht der noch wenig entwickelten wirtschaftlichen Zustände und ungünstiger Ertragsverhältnisse nur ein rasch zum Ziele führendes, billiges Verfahren zulassen
+T812	Motivation 48971 48977;48993 48998	findet statt
+E213	Motivation:T812 Effect:T727 Cause:T811
+A227	Degree E213 Facilitate
+E214	Motivation:T812 Effect:T727 Trigger:T809 Cause:T810
+A228	Degree E214 Facilitate
+T814	Argument 49155 49199	eine beschleunigte Durchführung der Arbeiten
+T815	Motivation 49200 49210	erheischen
+E216	Motivation:T815 Cause:T813 Effect:T814
+A230	Degree E216 Facilitate
+T813	Argument 49109 49154	vertragsmäßige Verpflichtungen (Holzverkäufe)
+T816	Consequence 49440 49448	zulassen
+E215	Consequence:T816 Trigger:T819 Cause:T818 Effect:T817
+A229	Degree E215 Facilitate
+T817	Argument 49386 49439	nur ein rasch zum Ziele führendes, billiges Verfahren
+T818	Argument 49296 49385	der noch wenig entwickelten wirtschaftlichen Zustände und ungünstiger Ertragsverhältnisse
+T819	Argument 49282 49295	in Anbetracht
+T820	Motivation 56882 56896	zugeführt wird
+R52	Coref Arg1:T227 Arg2:T224	
+T213	Motivation 57077 57085	erhärten
+E217	Motivation:T213 Cause:T228 Cause2:T232 Cause3:T229 Cause4:T230 Cause5:T231 Effect:T227
+A231	Degree E217 Facilitate
+T821	Consequence 58035 58051	ist das Resultat
+E218	Consequence:T821 Cause:T823 Effect:T822
+A232	Degree E218 Facilitate
+T822	Argument 57942 58033	Die Anlage einer Anzahl von Ries- und Zugwegen, Waldwegen und Waldstraßen, sowie Rollbahnen
+T823	Argument 58052 58071	dieser Bestrebungen
+T824	Consequence 58204 58219	erhalten werden
+E219	Consequence:T824 Affected:T827 Effect:T825 Cause:T826
+A233	Degree E219 Facilitate
+T825	Argument 58084 58109	ihre volle Verwirklichung
+T826	Argument 58115 58203	mit Durchführung des aufgestellten Investitionsprogrammes (siehe „Ertragsverhältnisse‘“)
+T827	Argument 58073 58076	die
+R53	Coref Arg1:T827 Arg2:T823	
+T828	Consequence 58788 58796	behalten
+E220	Consequence:T828 Affected:T831 Trigger:T832 Cause:T829 Effect:T830
+A234	Degree E220 Facilitate
+T829	Argument 58740 58763	kürzeren Lieferstrecken
+T830	Argument 58764 58787	ihre volle Berechtigung
+T831	Argument 58714 58735	die Ries- und Zugwege
+T832	Argument 58736 58739	bei
+T833	Consequence 58801 58806	daher
+E221	Consequence:T833 Cause:T835 Effect:T834
+A235	Degree E221 Facilitate
+T834	Argument 58807 58878	zumeist nur den Anschluss an Communicationen höherer Ordnung herstellen
+T835	Argument 58718 58796	Ries- und Zugwege bei kürzeren Lieferstrecken ihre volle Berechtigung behalten
+T836	Purpose 59081 59083	um
+E222	Purpose:T836 Effect:T837 Cause:T838 Trigger:T843
+A236	Degree E222 Facilitate
+T837	Argument 59009 59079	ein ganzes System von Zugwegen, Waldwegen und Waldstraßen herzustellen
+T838	Argument 59084 59130	die betreffenden Forste wirksam zu erschließen
+T839	Purpose 59340 59343	zur
+E223	Purpose:T839 Cause:T840 Effect:T841 Affected:T842
+A237	Degree E223 Facilitate
+T840	Argument 59344 59362	Ausfuhr des Holzes
+T841	Argument 59363 59441	ein ganzes Netz von Communicationen entworfen und im Laufe der Jahre ausgebaut
+T842	Argument 59309 59329	im Ternovaner Forste
+T843	Argument 59116 59118	zu
+T844	Argument 57074 57076	zu
+T845	Argument 60584 60647	die Ersteher der mehrjährigen Nutzungsergebnisse eines Bezirkes
+T846	Argument 60531 60551	Diese Etablissements
+T847	Motivation 60552 60558;60648 60654	wurden erbaut
+E224	Motivation:T847 Effect:T846 Trigger:T257 Actor:T845
+A239	Degree E224 Facilitate
+T257	Argument 60578 60583	durch
+T848	Consequence 60770 60777	erfolgt
+E72	Consequence:T848 Trigger:T849 Effect:T850 Cause:T851
+A238	Degree E72 Facilitate
+T849	Argument 60778 60785	in Wege
+T850	Argument 60758 60769	Ihr Betrieb
+T851	Argument 60786 60832	der Überlassung an die Käufer der Sägeproducte
+T852	Argument 60885 60908	die Benützung der Werke
+T853	Argument 60909 60965	den Preis des Rohproductes entsprechend zu erhöhen haben
+T854	Purpose 60881 60884	für
+E225	Purpose:T854 Cause:T852 Effect:T853 Actor:T855
+A240	Degree E225 Facilitate
+T855	Argument 60834 60837	die
+T856	Consequence 61492 61498;61535 61545	hatten im Gefolge
+E226	Consequence:T856 Effect:T857 Cause:T858 Cause2:T859 Cause3:T261 Cause4:T264
+A241	Degree E226 Facilitate
+T857	Argument 61499 61534	auch hier eine Wendung zum Besseren
+T858	Argument 61233 61264	Der Rückgang der Eisenindustrie
+T859	Argument 61266 61332	die Umgestaltung der Feuerungsanlagen für mineralische Brennstoffe
+T860	Purpose 61304 61307	für
+E227	Purpose:T860 Cause:T861 Effect:T862
+A242	Degree E227 Facilitate
+T861	Argument 61308 61332	mineralische Brennstoffe
+T862	Argument 61266 61303	die Umgestaltung der Feuerungsanlagen
+T863	Consequence 62000 62018	constatiert werden
+E228	Consequence:T863 Effect:T866 Trigger:T864 Cause:T865
+A243	Degree E228 Facilitate
+T864	Argument 62020 62024	dass
+T865	Argument 62025 62123	heutzutage allenthalben nur mehr die minderwertigen Holzsortimente der Verkohlung zugeführt werden
+T866	Argument 61987 61999	Befriedigung
+T867	Purpose 62565 62584	herangezogen werden
+E229	Purpose:T867 Cause:T870 Effect:T869 Trigger:T868
+A244	Degree E229 Facilitate
+A245	Correlation E229
+T868	Argument 62543 62545	zu
+T869	Argument 62486 62524	den forstlichen Nebennutzungsbetrieben
+T870	Argument 62546 62564	Hebung der Erträge
+T871	Argument 62771 62819	in den österreichischen Staats- und Fondsforsten
+T872	Consequence 63581 63587	bildet
+E230	Consequence:T872 Cause:T873 Cause2:T875 Affected:T876 Effect:T874 Trigger:T878
+A246	Degree E230 Facilitate
+T873	Argument 63486 63520	zusagenden örtlichen Verhältnissen
+T874	Argument 63559 63580	bedeutende Wildstände
+T875	Argument 63525 63558	einer rationellen Hege und Pflege
+T876	Argument 63479 63481	es
+T877	Argument 63371 63383	Das Rothwild
+R54	Coref Arg1:T876 Arg2:T877	
+T878	Argument 63482 63485	bei
+T879	Consequence 63960 63976	in welchem Falle
+E231	Consequence:T879 Cause:T880 Affected:T881 Effect:T882
+A247	Degree E231 Facilitate
+T880	Argument 63901 63958	Die Ausübung der Jagd erfolgt zum Theile in eigener Regie
+T881	Argument 63977 64053	dem Forstverwalter, beziehungsweise dem von ihm hiezu ermächtigten Personale
+T882	Argument 64054 64078	der Wildabschuss zusteht
+T883	Motivation 65386 65400;65478 65484	den Gegenstand bilden
+E232	Motivation:T883 Effect:T885 Cause:T884
+A248	Degree E232 Facilitate
+T884	Argument 65149 65349	die Edelfische aus der Gattung der Salmoniden, wie die Bachforelle (Salmo fario L.), die Seeforelle (Salmo lacustris Alass.), der Saibling (Salmo salvelinus L.), der Lachs (Trutta Salar L.) und andere
+T885	Argument 65401 65477	einer sorgfältigen Hege und Pflege, sowie eines rationell betriebenen Fanges
+T886	Motivation 65616 65622;65695 65706	werden unterhalten
+E233	Motivation:T886 Effect:T889 Cause:T888 Trigger:T887
+A249	Degree E233 Facilitate
+T887	Argument 65591 65594	Für
+T888	Argument 65595 65615	die Regiefischwässer
+T889	Argument 65623 65694	künstliche Fischzuchtanstalten von der Staats- und Fondsforstverwaltung
+T890	Motivation 65731 65735;65823 65842	wird zur Pflicht gemacht
+E234	Motivation:T890 Trigger:T892 Cause:T891 Effect:T893 Affected:T894
+A250	Degree E234 Facilitate
+T891	Argument 65712 65725	Pachtrevieren
+T892	Argument 65708 65711	bei
+T893	Argument 65736 65795	die Errichtung und der rationelle Betrieb solcher Anstalten
+T894	Argument 65796 65808	den Pächtern
+T895	Argument 65850 65912	die Zahl und Gattung der alljährlich auszusetzenden Jungfische
+T896	Consequence 65913 65921	normiert
+E235	Consequence:T896 Cause:T891 Trigger:T892 Effect:T895
+A251	Degree E235 Facilitate
+A252	Obligation-permission E235
+A253	Obligation-permission E234
+T897	Motivation 66236 66245	bedurften
+E236	Motivation:T897 Cause:T898 Effect:T899
+A254	Degree E236 Facilitate
+T898	Argument 66172 66231	die alpinen Forste waren in dieser Hinsicht zurückgeblieben
+T899	Argument 66263 66294	eines thatkräftigen Eingreifens
+T900	Consequence 66358 66375	zu befürchten war
+E237	Consequence:T900 Effect:T901 Cause:T898 Support:T902
+A255	Degree E237 Facilitate
+T901	Argument 66300 66334	die Gefahr der Verödung des Bodens
+T902	Argument 66335 66357	hier mehr als anderswo
+T903	Consequence 66541 66557	hinterlassen hat
+E238	Consequence:T903 Cause:T905 Effect:T904
+A256	Degree E238 Facilitate
+T904	Argument 66377 66444	Ausgedehnte, oft ganze Thallehnen bedeckende Kahlschlagflächen, die
+T905	Argument 66482 66540	eine intensiv betriebene Kohlholz- und Brennholzwirtschaft
+T906	Consequence 66708 66724	vervollständigen
+E239	Consequence:T906 Effect:T911 Cause:T904 Cause2:T907 Cause3:T908
+A257	Degree E239 Facilitate
+T907	Argument 66559 66631	die Culturarbeiten beeinträchtigende Terrain- und Witterungsverhältnisse
+T908	Argument 66641 66707	die oft maßlose Ausübung der Weide durch die Servitutsberechtigten
+A258	Degree E81 Facilitate
+T909	Argument 66641 66675	die oft maßlose Ausübung der Weide
+T910	Argument 66682 66707	die Servitutsberechtigten
+T911	Argument 66725 66764	das Bild, welches diese Forste darboten
+T912	Purpose 66864 66869;66921 66931	waren nothwendig
+E240	Purpose:T912 Cause:T914 Effect:T913
+A259	Degree E240 Facilitate
+T913	Argument 66870 66920	ausgedehnte und kostspielige Entwässerungsarbeiten
+T914	Argument 66933 66995	bevor an die eigentliche Aufforstung geschritten werden konnte
+A260	Context E240
+T915	Consequence 68140 68150	gestattete
+E241	Consequence:T915 Cause:T917 Effect:T916
+A261	Degree E241 Facilitate
+T916	Argument 68088 68092	dies
+T917	Argument 68093 68139	die Rücksicht auf die Erhaltung der Bodenkraft
+T918	Argument 67981 67984;68034 68082	Man wartete nicht länger auf die natürliche Besamung
+R55	Coref Arg1:T916 Arg2:T918	
+T919	Argument 68152 68192	Ließ die natürliche Verjüngung im Stiche
+T920	Motivation 68199 68204;68288 68299	wurde geschritten
+E242	Motivation:T920 Cause:T919 Effect:T921
+A262	Degree E242 Facilitate
+T921	Argument 68205 68287	zum künstlichen Unterbaue, eventuell nach Räumung der Samenbäume zur Neubegründung
+T922	Consequence 68529 68536	sichern
+E243	Consequence:T922 Cause:T924 Effect:T923
+A263	Degree E243 Facilitate
+T923	Argument 68503 68528	ihren Erfolg im vorhinein
+T924	Argument 68463 68502	milde Lagen und kräftige, leichte Böden
+T925	Consequence 68454 68462	dort, wo
+E244	Consequence:T925 Cause:T926 Effect:T927
+A264	Degree E244 Facilitate
+T926	Argument 68463 68536	milde Lagen und kräftige, leichte Böden ihren Erfolg im vorhinein sichern
+T927	Argument 68437 68444	erstere
+T928	Argument 68395 68403	die Saat
+R56	Coref Arg1:T927 Arg2:T928	
+T929	Motivation 68809 68818	erheischt
+E245	Motivation:T929 Cause:T930 Effect:T931
+A265	Degree E245 Facilitate
+T930	Argument 68772 68808	umfangreiche Anwendung der Pflanzung
+T931	Argument 68819 68842	umfassende Vorkehrungen
+T932	Consequence 69099 69105	sobald
+E246	Consequence:T932 Cause:T933 Effect:T934
+A266	Degree E246 Facilitate
+A267	Temporal E246
+T933	Argument 69106 69161	das Culturgeschäft in der nächsten Umgebung beendet war
+T934	Argument 69079 69090	aufgelassen
+T935	Motivation 68896 68904	erfolgte
+E247	Motivation:T935 Cause:T937 Effect:T938 Controlling:T936
+A268	Degree E247 Facilitate
+T936	Argument 68905 68921	in früherer Zeit
+T937	Argument 68844 68895	Die Beschaffung des nothwendigen Pflanzenmateriales
+T938	Argument 68934 69026	in sogenannten fliegenden, auf den jeweiligen Schlagflächen gelegenen Saat- und Pflanzkämpen
+T939	Motivation 69318 69327	bewirkten
+E248	Motivation:T939 Effect:T942 Cause:T940 Support:T941
+A269	Degree E248 Facilitate
+T940	Argument 69163 69231	Misstände, die mit diesen provisorischen Forstgärten verbunden waren
+T941	Argument 69233 69316	vor allem die Schwierigkeit, sie entsprechend bedienen und beaufsichtigen zu können
+T942	Argument 69328 69371	den Übergang zu den ständigen Pflanzgärten,
+T944	Argument 69666 69675;69688 69692	derartige dass
+T945	Argument 69661 69686	eine derartige Ausdehnung
+T946	Argument 69693 69792	darin die Aussaat und das nachherige Verschulen des erforderlichen Pflanzenmateriales erfolgen kann
+T947	Purpose 69615 69623	erhalten
+E250	Purpose:T947 Effect:T945 Cause:T946 Trigger:T944
+A271	Degree E250 Facilitate
+T943	Consequence 69865 69871	regelt
+E249	Consequence:T943 Cause:T948 Effect:T949
+A270	Degree E249 Facilitate
+T948	Argument 69794 69864	Ein genaues, auf mehrere Jahre sich erstreckendes Pflanzgartenprogramm
+T949	Argument 69872 69898	den einzuhaltenden Betrieb
+T950	Motivation 70405 70410;70450 70469	wurde Beachtung geschenkt
+E251	Motivation:T950 Effect:T951 Trigger:T952 Cause:T953
+A272	Degree E251 Facilitate
+T951	Argument 70416 70449	anderen Gebieten des Culturwesens
+T952	Argument 70273 70280	Nachdem
+T953	Argument 70281 70403	die Culturrückstände in einem Maße bewältigt waren, dass deren Beseitigung in Bälde als gesichert betrachtet werden konnte
+A273	Temporal E251
+T954	Argument 70650 70659;70687 70725	dieselben gewannen jedoch erst dann an Bedeutung
+T955	Consequence 70727 70730	als
+E252	Consequence:T955 Effect:T954 Actor:T956 Affected:T957 Cause:T958
+A274	Degree E252 Facilitate
+T956	Argument 70731 70764	seitens der Staatsforstverwaltung
+T957	Argument 70765 70795	der Hochschule für Bodencultur
+T958	Argument 70838 70918	eine Waldfläche von 8,34 ha zur Anlage eines Forstgartens zur Verfügung gestellt
+T959	Purpose 71112 71125	erhoffen ließ
+E253	Purpose:T959 Cause:T961 Effect:T960
+A275	Degree E253 Facilitate
+T960	Argument 71061 71089	deren Verpflanzung ins Freie
+T961	Argument 71090 71111	einen sicheren Erfolg
+T962	Purpose 71127 71129;71184 71204	Um angedeihen zu lassen
+E254	Purpose:T962 Cause:T963 Effect:T965 Affected:T964 Affected2:T967
+A276	Degree E254 Facilitate
+T963	Argument 71154 71183	finanziell eine Unterstützung
+T964	Argument 71130 71148	diesem Unternehmen
+T965	Argument 71295 71331	eine fixe Jahressubvention bewilligt
+T967	Argument 71212 71294	der den Betrieb des Gartens besorgenden Lehrkanzel für forstliche Productionslehre
+T968	Argument 71339 71347	dieselbe
+R57	Coref Arg1:T968 Arg2:T967	
+T966	Motivation 71333 71338	wofür
+E255	Motivation:T966 Actor:T968 Cause:T965 Affected:T969 Effect:T970
+A277	Degree E255 Facilitate
+T969	Argument 71348 71376	an die Staatsforstverwaltung
+T970	Argument 71377 71430	alljährlich eine Anzahl von Pflanzen zu liefern hatte
+T971	Purpose 71908 71910	um
+E256	Purpose:T971 Actor:T973 Effect:T972 Cause:T974 Affected:T975
+A278	Degree E256 Facilitate
+T972	Argument 71848 71906	bemüssigt, die Exotenanzucht in eigene Regie zu übernehmen
+T973	Argument 71815 71840	die Staatsforstverwaltung
+T974	Argument 71935 72027	unter Verhältnissen erziehen zu können, die ihrem künftigen Standorte möglichst gleich kamen
+T976	Consequence 72076 72079;72165 72178	mit verbunden war
+E257	Consequence:T976 Cause:T977 Effect:T978
+A279	Degree E257 Facilitate
+T977	Argument 72086 72164	der Versandt aus einem Centralgarten nach den oft weit entfernten Verwaltungen
+T978	Argument 72040 72061	die Umständlichkeiten
+T979	Purpose 71908 71910;72062 72074	um zu vermeiden
+E258	Purpose:T979 Cause:T978 Effect:T972
+A280	Degree E258 Inhibit
+T975	Argument 71922 71934	die Pflanzen
+T981	Argument 72180 72200	Mit Rücksicht darauf
+T980	Motivation 72203 72204;72226 72235	r errichtet
+E259	Motivation:T980 Effect:T982 Cause:T981
+A281	Degree E259 Facilitate
+T982	Argument 72208 72225	acht Exotengärten
+T983	Consequence 72594 72599;72605 72624	haben den Beweis erbracht
+E260	Consequence:T983 Cause:T986 Effect:T985 Trigger:T984
+A282	Degree E260 Facilitate
+T984	Argument 72626 72630	dass
+T985	Argument 72631 72724	die Einbürgerung derselben trotz der sich darbietenden Schwierigkeiten durchführbar sein wird
+T986	Argument 72525 72592	Die Erfahrungen, welche bis jetzt mit den Ausländern gemacht wurden
+T988	Argument 72746 72764	der Kürze der Zeit
+T989	Argument 72777 72890	Schluss in Bezug auf den Wert dieser Pflanzungen im allgemeinen und im Vergleiche mit den einheimischen Holzarten
+T990	Consequence 72726 72732;72770 72776;72891 72893	lassen keinen zu
+E262	Consequence:T990 Trigger:T987 Effect:T989 Cause:T988
+A284	Degree E262 Inhibit
+T987	Argument 72740 72745	wegen
+T991	Motivation 73230 73240;73298 73309	verspricht zu gewähren
+E261	Motivation:T991 Actor:T996 Cause:T993 Affected:T997 Effect:T994
+A283	Degree E261 Facilitate
+T992	Argument 73177 73215	sie ein sehr gesuchtes Holz produciert
+T993	Argument 73241 73246	daher
+T994	Argument 73272 73297	dauernden Bestandesschutz
+T995	Argument 73353 73418	ein sehr geschätztes, heutzutage schon selten gewordenes Material
+T996	Argument 73217 73229	ihre Anzucht
+R58	Coref Arg1:T993 Arg2:T992	
+T997	Argument 73258 73271	den Hochlagen
+T998	Motivation 73230 73240;73419 73429	verspricht zu liefern
+E263	Motivation:T998 Effect:T995 Affected:T999 Cause:T993 Actor:T996
+A285	Degree E263 Facilitate
+T999	Argument 73322 73352	dem holzverarbeitenden Gewerbe
+T1000	Argument 74124 74129	durch
+T1001	Purpose 74193 74209	zu diesem Zwecke
+E264	Purpose:T1001 Cause:T286 Effect:T1002
+A286	Degree E264 Facilitate
+T1002	Argument 74210 74266	angelegten Zirbenpflanzgarten in Hinterberg (Steiermark)
+T1003	Argument 74279 74284	durch
+T1004	Consequence 73958 73964;74006 74012	Gewähr bietet
+E265	Consequence:T1004 Cause:T1005 Effect:T1006
+A287	Degree E265 Facilitate
+T1005	Argument 73942 73949	welches
+T1006	Argument 73965 74005	für ihr weiteres gedeihliches Fortkommen
+T1007	Argument 73914 73919	Alter
+R59	Coref Arg1:T1005 Arg2:T1007	
+T1008	Purpose 74355 74360	gegen
+E266	Purpose:T1008 Cause:T1009 Effect:T1010
+A288	Degree E266 Inhibit
+T1009	Argument 74361 74381	deren Beschädigungen
+T1010	Argument 74338 74354	die Vorkehrungen
+T1011	Consequence 74834 74851;74859 74861	liegt die Ursache in
+E267	Consequence:T1011 Effect:T1012 Cause:T1013
+A289	Degree E267 Facilitate
+T1012	Argument 74852 74858	hievon
+T1013	Argument 74862 74957	der extensiven, gegenwärtig erst mit der Erschließung dieser Waldungen beschäftigten Wirtschaft
+T1014	Argument 74702 74829	derselbe dennoch in einigen Gebieten, wie in den Forsten Ostgaliziens und der Bukowina, nur vereinzelt zur Durchführung gelangt
+R60	Coref Arg1:T1012 Arg2:T1014	
+T1015	Consequence 75060 75067	seitdem
+E268	Consequence:T1015 Effect:T1016 Cause:T358 Cause2:T1017
+A290	Degree E268 Facilitate
+A291	Temporal E268
+T1016	Argument 74959 75048	Andererorts hingegen gewinnen die demselben zugewiesenen Flächen immer mehr an Ausdehnung
+T1017	Argument 75212 75345	die öffentlichen Communicationen eine Vermehrung und die forstlichen Bringungsanstalten eine verbesserte Ausgestaltung erfahren haben
+T1018	Purpose 75826 75832	Behufs
+E269	Purpose:T1018 Cause:T1019 Effect:T1020
+A292	Degree E269 Facilitate
+T1019	Argument 75833 75855	weiterer Ausgestaltung
+T1020	Argument 75856 75884	wurden Anordnungen getroffen
+T1021	Argument 75893 75965	die Ausdehnung dieser Pflegehiebe auf weitere Gebiete in namhafter Weise
+T1022	Purpose 75966 75975	anstreben
+E270	Purpose:T1022 Cause:T1021 Effect:T1020 Trigger:T1023
+A293	Degree E270 Facilitate
+T1023	Argument 75886 75892	welche
+T1024	Consequence 75977 75984	so dass
+E271	Consequence:T1024 Cause:T1021 Effect:T1025
+A294	Degree E271 Facilitate
+T1025	Argument 75985 76130;76253 76303	in sichere Erwartung gestellt werden kann, dass in nächster Zeit von dem Gesammtcomplexe des schlagweise bewirtschafteten Hochwaldes 41,8 Procent für den Durchforstungsbetrieb gewonnen sein werden
+T1026	Argument 76833 76851	allgemeinen Regeln
+T1027	Argument 76775 76826	in Anbetracht der Mannigfaltigkeit der Verhältnisse
+T1028	Motivation 76763 76774;76827 76832;76852 76862	lassen sich keine aufstellen
+E272	Motivation:T1028 Effect:T1026 Cause:T1027
+A295	Degree E272 Inhibit
+T1029	Motivation 76495 76503;76526 76530	nur dort , wo
+E273	Motivation:T1029 Cause:T1031 Effect:T1030
+A296	Degree E273 Facilitate
+T1030	Argument 76479 76494	Durchforstungen
+T1031	Argument 76531 76647	der Materialertrag deren Kosten deckt oder aber der waldbauliche Effect dem Mehrkostenaufwand mindestens gleichkommt
+T1032	Purpose 77065 77082	bei dem Bestreben
+E274	Purpose:T1032 Cause:T1033 Effect:T1034
+A297	Degree E274 Facilitate
+T1033	Argument 77084 77153	den Beständen stets die erwünschte Zuwachspflege angedeihen zu lassen
+T1034	Argument 77155 77253	die Durchforstungen bis zum Beginne der Lichtungshiebe fortzusetzen und in diese überzuleiten sind
+T1035	Motivation 77326 77329;77416 77442	hat als Anhaltspunkt zu dienen
+E275	Motivation:T1035 Cause:T1038 Effect:T1037 Trigger:T1036 Controlling:T1039
+A298	Degree E275 Facilitate
+T1036	Argument 77255 77258	Bei
+T1037	Argument 77259 77324	Beurtheilung der Intensität, mit der sie ausgeführt werden sollen
+T1038	Argument 77330 77351	das Kraft’sche Schema
+T1039	Argument 77352 77415	unter Berücksichtigung der Bestandes- und Standortsverhältnisse
+T300	Argument 77611 77626;77690 77794	diese Maßregeln nicht eingeschränkt werden, beziehungsweise nicht etwa bis zur nächsten Revision einen Aufschub erleiden
+T1041	Argument 77627 77632	durch
+T301	Consequence 77997 78009;78028 78031	nur insoweit als
+E276	Consequence:T301 Cause:T1044 Affected:T1043 Effect:T1042
+A299	Degree E276 Facilitate
+A300	Extremity-sufficiency E276
+T1042	Argument 77871 77996;78010 78026	gesetzlichen Maßnahmen für die Unfalls- und Krankenversicherung der Arbeiter auf die land- und forstwirtschaftlichen Betriebe Anwendung finden
+T1043	Argument 78032 78046	diese Betriebe
+T1044	Argument 78047 78094	mit der Benützung von Maschinen verbunden sind.
+T1045	Argument 78913 78958	daheim nicht genügend Verdienst zu finden ist
+T1046	Argument 78960 79042	auch außer der engeren Heimat und weit über die Grenzen derselben hinaus nachgehen
+T1047	Consequence 78908 78912	wenn
+E277	Consequence:T1047 Cause:T1045 Effect:T1046
+A301	Degree E277 Facilitate
+A302	Temporal E277
+T1048	Argument 79599 79644	nach dem jeweiligen Bedürfnisse des Betriebes
+T1049	Argument 79645 79655	zur Arbeit
+T1050	Motivation 79656 79666	zu stellen
+E278	Motivation:T1050 Effect:T1049 Cause:T1048
+A303	Degree E278 Facilitate
+T1051	Argument 79672 79678	hiefür
+T1052	Argument 79679 79706	seitens der Forstverwaltung
+T1053	Argument 79707 79778	die Sicherstellung ihres Unterhaltes, sowie verschiedene Begünstigungen
+T1054	Motivation 79779 79787	genossen
+E279	Motivation:T1054 Trigger:T1051 Cause:T1049 Actor:T1052 Effect:T1053
+A304	Degree E279 Facilitate
+T1055	Motivation 79793 79799;79854 79865	wurden eingetheilt
+E280	Motivation:T1055 Effect:T1059 Cause:T1058 Trigger:T1057 Affected:T1056
+A305	Degree E280 Facilitate
+T1056	Argument 79789 79792	Sie
+T1057	Argument 79800 79804	nach
+T1058	Argument 79805 79832	den einzelnen Verrichtungen
+T1059	Argument 79833 79853	in Arbeitskategorien
+T1060	Consequence 81195 81202;81231 81239	brachte mit sich
+E281	Consequence:T1060 Cause:T1061 Effect:T321
+A306	Degree E281 Facilitate
+T1061	Argument 81113 81159	Diese Institution der ständigen Arbeiterschaft
+T1062	Motivation 81885 81891	regeln
+E282	Motivation:T1062 Cause:T1063 Effect:T1065
+A307	Degree E282 Facilitate
+T1063	Argument 81818 81841	Dienstordnungen, welche
+T1064	Motivation 82030 82039	normieren
+E283	Motivation:T1064 Affected:T1067 Effect:T1066 Cause:T1063
+A308	Degree E283 Facilitate
+T1065	Argument 81842 81884	die Pflichten und Rechte beider Kategorien
+T1066	Argument 81899 81964	die besonderen Bestimmungen für die Kranken- und Altersversorgung
+T1067	Argument 81965 82029	einerseits der stabilen, anderseits der internationalen Arbeiter
+T1068	Consequence 82148 82165	zurückzuführenden
+E284	Consequence:T1068 Cause:T1069 Effect:T1070
+A309	Degree E284 Facilitate
+T1069	Argument 82124 82147	auf locale Verhältnisse
+T1070	Argument 82166 82178	Unterschiede
+T1071	Consequence 82179 82181;82189 82195	so , dass
+E285	Consequence:T1071 Cause:T1072 Effect:T1073
+A310	Degree E285 Facilitate
+T1072	Argument 82182 82189	geringe
+T1073	Argument 82196 82205	es genügt
+T1074	Consequence 82651 82657;82743 82748	dürfen nicht
+E286	Consequence:T1074 Effect:T1077 Cause:T1075 Affected:T1076
+A311	Degree E286 Inhibit
+T1075	Argument 82658 82727	ohne Bewilligung der Forst- und Domänenverwaltung, zu der sie gehören
+T1076	Argument 82599 82650	Diese, nunmehr „immatriculierte" genannten Arbeiter
+T1077	Argument 82729 82742;82749 82758	ihren Wohnort verlassen
+T1078	Motivation 84335 84340;84355 84366	macht zur Pflicht
+E287	Motivation:T1078 Affected:T1080 Cause:T1079 Effect:T1081
+A312	Degree E287 Facilitate
+T1079	Argument 84310 84334	Die erwähnte Instruction
+T1080	Argument 84341 84354	den Arbeitern
+T1081	Argument 84368 84453	den bestehenden Anstalten für Arbeiterkranken- und Invaliditätsversorgung beizutreten
+T1083	Argument 84468 84541	dass die hiefür zu leistenden Beiträge vom Lohne in Abzug gebracht werden
+T1082	Motivation 84458 84466	bestimmt
+E288	Motivation:T1082 Cause:T1079 Effect:T1083
+A313	Degree E288 Facilitate
+T1084	Argument 84551 84559	dort, wo
+T1085	Motivation 84694 84704;84751 84759	haben sich gebildet
+E289	Motivation:T1085 Trigger:T1084 Cause:T1087 Effect:T1086
+A314	Degree E289 Facilitate
+A315	Creation-termination E289
+T1086	Argument 84705 84750	derartige Institutionen — Bruderladen genannt
+T1087	Argument 84557 84692	wo in früheren Zeiten der forstliche Betrieb mit jenem der in der Nähe gelegenen Montan-, Hütten- oder Salinenwerke innig verknüpft war
+T1088	Argument 85042 85140	Unterstützungen im Falle der Erkrankung, sowie eine angemessene Invaliditäts- und Altersversorgung
+T1089	Argument 84951 84954	Sie
+T1090	Argument 84964 85003	ihren Mitgliedern und deren Angehörigen
+T1091	Argument 85004 85041	nach Maßgabe der geleisteten Beiträge
+T1092	Motivation 84955 84963	gewähren
+E290	Motivation:T1092 Actor:T1089 Affected:T1090 Controlling:T1091 Effect:T1088
+A316	Degree E290 Facilitate
+A317	Obligation-permission E290
+R61	Coref Arg1:T1089 Arg2:T1086	
+T1093	Purpose 87306 87320	erlassen wurde
+E291	Purpose:T1093 Effect:T1096 Cause:T1095 Trigger:T1094
+A318	Degree E291 Facilitate
+T1094	Argument 87246 87249	zur
+T1095	Argument 87250 87277	Sanierung dieser Übelstände
+T1096	Argument 87278 87305	das Patent vom 5. Juli 1853
+T1098	Argument 86856 86938	vage urkundenmäßige Bestimmungen oder aber lediglich auf mündliche Überlieferungen
+T1097	Consequence 86837 86841;86939 86947	sich stützten
+E292	Consequence:T1097 Trigger:T1099 Cause:T1098 Effect:T1100
+A319	Degree E292 Facilitate
+T1099	Argument 86852 86855	auf
+T1100	Argument 86727 86746	dieser Bezugsrechte
+T1101	Consequence 86998 87005	so dass
+E293	Consequence:T1101 Cause:T1102 Effect:T1103
+A320	Degree E293 Facilitate
+T1102	Argument 86716 86746;86949 86996	Der Umfang dieser Bezugsrechte war in seinen Grenzen nicht genau genug fixiert
+T1103	Argument 87006 87102	das Ausmaß der einzelnen Bezüge immer mehr an Ausdehnung gewann und schließlich derartig anwuchs
+T1104	Consequence 87104 87108	dass
+E294	Consequence:T1104 Cause:T1103 Effect:T1105
+A321	Degree E294 Facilitate
+T1105	Argument 87109 87232	vielerorts in den belasteten Forsten von einer geordneten, rationellen Wirtschaft überhaupt nicht mehr die Rede sein konnte
+T333	Consequence 88414 88419	wegen
+E295	Consequence:T333 Cause:T337 Effect:T336
+A322	Degree E295 Facilitate
+T334	Motivation 87881 87898	abgetreten wurden
+E296	Motivation:T334 Trigger:T1108 Cause:T335 Effect:T1106 Affected:T1107
+A323	Degree E296 Facilitate
+T335	Argument 87812 87844	der Ablösung mit Grund und Boden
+T1106	Argument 87845 87860	rund 276.200 ha
+T1107	Argument 87861 87880	an die Berechtigten
+T1108	Argument 87804 87811	im Wege
+T1109	Purpose 87909 87917	gelangte
+E297	Purpose:T1109 Cause:T1111 Effect:T1110 Trigger:T1112
+A324	Degree E297 Facilitate
+T1110	Argument 87918 87945;87987 88001	ein Capital von 668.031 fl. zur Auszahlung
+T1111	Argument 87950 87986	Entschädigung für aufgehobene Rechte
+T1112	Argument 87946 87949	als
+T1113	Argument 88011 88044	seitens der berechtigten Parteien
+T1114	Argument 88045 88082	an Ausgleichsäquivalenten an das Ärar
+T1115	Argument 88083 88094	186.274 fl.
+T1116	Motivation 88095 88112	entrichtet wurden
+E298	Motivation:T1116 Cause:T1114 Effect:T1115 Actor:T1113
+A325	Degree E298 Facilitate
+T1117	Consequence 88127 88138	verursachte
+E299	Consequence:T1117 Cause:T1118 Effect:T1119
+A326	Degree E299 Facilitate
+T1118	Argument 88114 88126	Die Ablösung
+T1119	Argument 88186 88217	eine Barauslage von 481.757 fl.
+T1120	Consequence 89062 89070;89117 89127	hat sich vermindert
+E300	Consequence:T1120 Effect:T1121 Controlling:T1122 Trigger:T1123 Cause:T1124
+A327	Degree E300 Inhibit
+T1121	Argument 89049 89061	Dieser Stand
+T1122	Argument 89096 89116	nur in geringem Maße
+T1123	Argument 89129 89134	indem
+T1124	Argument 89135 89332	der Wert der Abgaben noch im Jahre 1893 den stattlichen Betrag von 783.366 fl. repräsentierte, nach den neuesten Berechnungen aber vermöge der Steigerung der Holzwerte sich auf 386.776 fl. beläuft.
+T1126	Argument 89274 89302	der Steigerung der Holzwerte
+T1127	Argument 89308 89323	auf 386.776 fl.
+T1125	Consequence 89303 89307;89324 89331	sich beläuft
+E301	Consequence:T1125 Affected:T1129 Trigger:T1128 Cause:T1126 Effect:T1127
+A328	Degree E301 Facilitate
+T1128	Argument 89266 89273	vermöge
+T1129	Argument 89135 89155	der Wert der Abgaben
+T1130	Consequence 89623 89634	verursachen
+E302	Consequence:T1130 Effect:T1131 Cause:T1132
+A329	Degree E302 Facilitate
+T1131	Argument 89581 89607	der effective Ausfall, den
+T1132	Argument 89608 89622	die Servituten
+T1133	Consequence 89940 89946;90047 90056	so ist verwiesen
+E303	Consequence:T1133 Trigger:T109 Cause:T111 Effect:T1134
+A330	Degree E303 Facilitate
+T1134	Argument 90032 90046;90058 90180	auf diejenigen in denen ungünstige Verhältnisse überhaupt, kostspielige Bringungs- und Transportsverhältnisse im besonderen, vorherrschen
+T1135	Motivation 90191 90198	erfolgt
+E304	Motivation:T1135 Effect:T1136 Trigger:T1138 Cause:T1137
+A331	Degree E304 Facilitate
+T1136	Argument 90199 90225	die Abgabe an die Parteien
+T1137	Argument 90231 90295	einer Sortimentenscala, wie sie zur Zeit der Regulierung bestand
+T1138	Argument 90226 90230	nach
+T1139	Argument 90309 90359	einer ökonomischen Ausformung der Schlagergebnisse
+T1140	Consequence 90297 90302;90360 90374	trägt keine Rechnung
+E305	Consequence:T1140 Effect:T1139 Cause:T1137 Trigger:T1141
+A332	Degree E305 Inhibit
+T1141	Argument 90303 90308	daher
+T1142	Consequence 90739 90755	Beeinträchtigung
+E306	Consequence:T1142 Cause:T1143 Effect:T1144
+A333	Degree E306 Inhibit
+T1143	Argument 90679 90733	die Gewinnung von Streu und die Ausübung der Waldweide
+T1144	Argument 90756 90805	des Waldbodens und der Wiederanzucht der Bestände
+T1145	Consequence 90947 90951;91054 91062	sich beziehen
+E307	Consequence:T1145 Effect:T1148 Trigger:T1146 Cause:T1147
+A334	Degree E307 Facilitate
+T1146	Argument 91003 91006	auf
+T1147	Argument 91007 91053	die Ergebnisse des Quinquenniums 1889 bis 1893
+T1148	Argument 90890 90922;90941 90946	einige wichtigere Ziffernangaben , die
+T1149	Purpose 92586 92590;92625 92642	Soll abgeleitet werden
+E308	Purpose:T1149 Cause:T1150 Trigger:T1151 Effect:T1152
+A335	Degree E308 Facilitate
+T1150	Argument 92591 92624	aus diesen Ziffern der Reinertrag
+T1151	Argument 92644 92646	so
+T1152	Argument 92647 92848	müssen dieselben durch Einbeziehung einerseits des Directionskostenaufwandes, der in denselben nicht enthalten ist, anderseits des Wertes der an die Servitutsparteien geleisteten Abgaben ergänzt werden
+T1153	Consequence 92969 92979	resultiert
+E309	Consequence:T1153 Trigger:T1156 Cause:T1154 Effect:T1155
+A336	Degree E309 Facilitate
+T1154	Argument 92938 92962	Zieht man nun die Bilanz
+T1155	Argument 92980 93065	ein Nettoüberschuss von 1,745.717 fl. oder ein Reinertrag von 1 fl. 54 kr. pro Hektar
+T1156	Argument 92964 92968	dann
+T1157	Consequence 93067 93071;93227 93248	Wird gegenübergestellt, so
+E310	Consequence:T1157 Cause:T1158 Effect:T1159
+A337	Degree E310 Facilitate
+T1158	Argument 93072 93225	dieses Ergebnis den Reinerträgen, wie sie der Großgrundbesilz in Österreich oder einzelne staatliche Verwaltungen des Deutschen Reiches aufzuweisen haben
+T1159	Argument 93249 93320	fällt dieser Vergleich für die österreichische Verwaltung ungünstig aus
+T342	Consequence 93945 93954	behindern
+E97	Consequence:T342 Cause:T1164 Cause2:T1165 Cause3:T1166 Support:T1161 Effect:T1160
+A106	Degree E97 Inhibit
+T1160	Argument 93920 93934	die Wirtschaft
+T1161	Argument 93935 93944	bedeutend
+T1162	Consequence 93977 93989	herabdrücken
+E311	Consequence:T1162 Cause:T1164 Cause2:T1165 Cause3:T1166 Effect:T1163
+A338	Degree E311 Inhibit
+T1163	Argument 93959 93976	deren Reinerträge
+T1164	Argument 93724 93763	die Schwierigkeiten des Holztransportes
+T1165	Argument 93765 93854	die damit verbundene, vielfach noch unvollkommene Ausnutzung der Vor- und Abtriebserträge
+T1166	Argument 93864 93918	die Kostspieligkeit der Bestandesbegründung und Pflege
+T1167	Consequence 93721 93723	wo
+E312	Consequence:T1167 Affected:T1169 Cause:T1168 Effect:T1164 Effect2:T1165 Effect3:T1166
+A339	Degree E312 Facilitate
+T1168	Argument 93687 93719	in einer Seehöhe von über 1000 m
+T1169	Argument 93633 93686	das Gros der österreichischen Staats- und Fondsforste
+T1170	Consequence 94389 94398	gestatten
+E313	Consequence:T1170 Trigger:T1172 Cause:T1173 Cause2:T1174 Cause3:T1175 Effect:T1171
+A340	Degree E313 Facilitate
+T1171	Argument 94289 94388	nur einen Theil des zulässigen Jahresetats und diesen nur in einer unvollkommenen Weise auszunützen
+T1172	Argument 94182 94187	wegen
+T1173	Argument 94188 94218	des Mangels an Communicationen
+T1174	Argument 94220 94249	der weiten Transportsstrecken
+T1175	Argument 94251 94283	wenig entwickelter Holzindustrie
+T1176	Consequence 94610 94621	ermöglichte
+E314	Consequence:T1176 Cause:T1177 Effect:T1178
+A341	Degree E314 Facilitate
+T1177	Argument 94539 94565	die Gunst der Verhältnisse
+T1178	Argument 94566 94609	eine gedeihliche Entwicklung der Wirtschaft
+A342	Degree E103 Facilitate
+T1179	Consequence 94750 94757	liefert
+E315	Consequence:T1179 Cause:T1180 Effect:T1181
+A343	Degree E315 Facilitate
+T1180	Argument 94771 94811	die Invalidenfondsdomäne Horie in Böhmen
+T1181	Argument 94812 94863	einen Jahresreinertrag pro Hektar von 17 fl. 45 kr.
+T1182	Consequence 95288 95305	sind die Ursachen
+E316	Consequence:T1182 Effect:T1183 Cause:T1184 Cause2:T1185
+A344	Degree E316 Facilitate
+T1183	Argument 95306 95341	des relativ geringeren Reinertrages
+T1184	Argument 95349 95519	in Umständen gelegen, die wie die Standorts- und allgemeinen Communicationsverhältnisse überhaupt oder zumindestens von der Verwaltung selbst nicht geändert werden können
+T1185	Argument 95528 95586	in solchen, deren Behebung durch diese bewirkt werden kann
+T1186	Motivation 95567 95574	bewirkt
+E317	Motivation:T1186 Actor:T1188 Trigger:T1189 Effect:T1187
+A345	Degree E317 Facilitate
+T1187	Argument 95540 95554	deren Behebung
+T1188	Argument 95561 95566	diese
+T1189	Argument 95555 95560	durch
+T1190	Argument 95465 95490	von der Verwaltung selbst
+R62	Coref Arg1:T1188 Arg2:T1190	
+T1040	Purpose 77605 77610	damit
+E87	Purpose:T1040 Effect:T299 Cause:T300
+A98	Degree E87 Facilitate
+T1192	Consequence 77690 77695;77710 77716	nicht werden
+E318	Consequence:T1192 Cause:T302 Trigger:T1041 Affected:T1193 Effect:T1196
+A346	Degree E318 Inhibit
+T1193	Argument 77611 77626	diese Maßregeln
+T1194	Consequence 77734 77739;77786 77794	nicht erleiden
+E319	Consequence:T1194 Effect:T1195 Cause:T302 Affected:T1193
+A347	Degree E319 Inhibit
+T1195	Argument 77771 77785	einen Aufschub
+T1196	Argument 77696 77709	eingeschränkt
+T1197	Argument 96686 96692	hievon
+T1191	Consequence 96672 96685	waren Ursache
+E320	Consequence:T1191 Effect:T1197 Cause:T1204 Cause2:T1205 Cause3:T1206
+A348	Degree E320 Facilitate
+T1198	Purpose 95769 95785	die Verbesserung
+E321	Purpose:T1198 Cause:T1199 Trigger:T1200 Effect:T1203
+A349	Degree E321 Facilitate
+T1199	Argument 95786 95811	der Productionsverwertung
+T1200	Argument 95812 95817	durch
+T1201	Argument 95818 95893	einen intensiven und ausgedehnten Zwischennutzungsbetrieb (Durchforstungen)
+T1202	Argument 95895 95957	eine größere Ausbeute an wertvolleren Sortimenten (Nutzhölzer)
+T1203	Argument 95967 96066	die Verwertung der bisher überhaupt nicht beziehbaren Materialerträge und unanbringbaren Sortimente
+E322	Purpose:T1198 Cause:T1199 Trigger:T1200 Effect:T1202
+A350	Degree E322 Facilitate
+E323	Purpose:T1198 Cause:T1199 Trigger:T1200 Effect:T1201
+A351	Degree E323 Facilitate
+T1204	Argument 96158 96358	die großen, umfangreichen Aufgaben, die auf dem Gebiete des Culturwesens und der Betriebseinrichtung, dann im Bezug auf die Bequartierung des Personales etc. vor aller anderen geleistet werden mussten
+T1205	Argument 96371 96399	Hindernisse budgetärer Natur
+T1206	Argument 96416 96670	der Umstand, dass die unbedingt nothwendigen Bauten wegen ihrer Kostspieligkeit, sowie der Nothwendigkeit, zu ihrer Herstellung rasch bedeutende Capitalien flüssig zu machen, mit den laufend zur Verfügung stehenden Mitteln nicht ausgeführt werden konnten
+T1207	Consequence 96639 96670	nicht ausgeführt werden konnten
+E324	Consequence:T1207 Trigger:T1209 Effect:T1208 Cause:T1210 Controlling:T1211
+A352	Degree E324 Inhibit
+T1208	Argument 96434 96467	die unbedingt nothwendigen Bauten
+T1209	Argument 96468 96473	wegen
+T1210	Argument 96474 96589	ihrer Kostspieligkeit, sowie der Nothwendigkeit, zu ihrer Herstellung rasch bedeutende Capitalien flüssig zu machen
+T1211	Argument 96591 96638	mit den laufend zur Verfügung stehenden Mitteln
+T1212	Purpose 96507 96525	Nothwendigkeit, zu
+E325	Purpose:T1212 Cause:T1213 Effect:T1214
+A353	Degree E325 Facilitate
+T1213	Argument 96526 96543	ihrer Herstellung
+T1214	Argument 96550 96589	bedeutende Capitalien flüssig zu machen
+T1215	Purpose 96874 96884	beschaffen
+E326	Purpose:T1215 Trigger:T1216 Cause:T1217 Effect:T1218
+A354	Degree E326 Facilitate
+T1216	Argument 96785 96792	im Wege
+T1217	Argument 96741 96784	die Beschaffung der nothwendigen Geldmittel
+T1218	Argument 96793 96870	einer innerhalb von 25 Jahren in Annuitäten rückzahlbaren Investitionsanleihe
+T1219	Consequence 96694 96702	Erst als
+E327	Consequence:T1219 Cause:T1220 Effect:T1221
+A355	Degree E327 Facilitate
+T1220	Argument 96703 96884	im Jahre 1894 der Plan gefasst wurde, die Beschaffung der nothwendigen Geldmittel im Wege einer innerhalb von 25 Jahren in Annuitäten rückzahlbaren Investitionsanleihe zu beschaffen
+T1221	Argument 96886 96929	trat die Angelegenheit in ein neues Stadium
+T1222	Motivation 97057 97064	bildete
+E328	Motivation:T1222 Trigger:T1223 Cause:T1226 Effect:T1224 Actor:T1225
+A356	Degree E328 Facilitate
+T1223	Argument 97065 97082	die Grundlage für
+T1224	Argument 97083 97134	die Bestimmung des erforderlichen Capitalsaufwandes
+T1225	Argument 96935 96968	seitens der Staatsforstverwaltung
+T1226	Argument 96969 97055	aufgestelltes Investitionsprogramm, in das alle nothwendigen Bauten aufgenommen wurden
+T1227	Motivation 97139 97148	erbrachte
+E329	Motivation:T1227 Cause:T1226 Actor:T1225 Effect:T1230 Trigger:T1229 Controlling:T1228
+A357	Degree E329 Facilitate
+T1228	Argument 97149 97189	in einem vorsichtig aufgestellten Calcul
+T1229	Argument 97190 97207	den Nachweis über
+T1230	Argument 97208 97312	die Steigerung der Einnahmen überhaupt und die Rentabilität der einzelnen Bauinvestitionen im besonderen
+T1231	Motivation 97635 97661	aus Zweckmäßigkeitsgründen
+E330	Motivation:T1231 Cause:T1233 Effect:T1232
+A358	Degree E330 Facilitate
+T1232	Argument 97662 97751	die Kosten für die Erbauung eigener Directionsgebäude in Innsbruck und Lemberg einbezogen
+T1233	Argument 97635 97661	aus Zweckmäßigkeitsgründen
+T1235	Argument 97886 97901	rund 548.000 fm
+T1236	Argument 97910 97980	bisher einen Gelderlös von 742.000 fl. oder 1 fl. 35 kr. pro Festmeter
+T1234	Consequence 97981 97990	lieferten
+E331	Consequence:T1234 Cause:T1235 Effect:T1236
+A359	Degree E331 Facilitate
+T1237	Consequence 98067 98085	beziffert sich auf
+E332	Consequence:T1237 Effect:T1240 Cause:T1238 Controlling:T1239
+A360	Degree E332 Facilitate
+T1238	Argument 98024 98066	zu erhoffende jährliche Durchschnittserlös
+T1239	Argument 97996 98023	nach Activierung der Bauten
+T1240	Argument 98086 98223	rund 1,658.500 fl. oder 3 fl.02 kr. pro Festmeter, was einem jährlichen Reingewinne von 523.700 fl. oder 97 kr. pro Festmeter gleichkommt
+T1241	Consequence 98269 98272;98353 98364	ist zu erwarten
+E333	Consequence:T1241 Cause:T1243 Effect:T1242
+A361	Degree E333 Facilitate
+T1242	Argument 98273 98352	eine Rentabilität von 773.650 fl. oder 1 fl.43 kr. pro Festmeter = 27,8 Procent
+T1243	Argument 98225 98259	Nach Ablauf der Amortisationsdauer
+T1244	Purpose 98453 98468	Bedingungen für
+E334	Purpose:T1244 Effect:T1246 Cause:T1245
+A362	Degree E334 Facilitate
+T1245	Argument 98469 98530	eine dauernde Hebung des Ertrages der Staats- und Fondsforste
+T1246	Argument 98366 98433	In der Durchführung dieses Programmes, die dermal schon im Zuge ist
+A363	Temporal E333

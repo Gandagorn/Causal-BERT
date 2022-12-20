@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.CausalConstructicon|Roles
+#T_SP=webanno.custom.CausalTypes|Types
+
+
+#Text=Es gibt daher gegenwärtig keine Veranlassung , mit Hilfe einer Auflösung des Abgeordnetenhauses Neuwahlen stattfinden zu lassen .
+1-1	0-2	Es	_	_	
+1-2	3-7	gibt	_	_	
+1-3	8-13	daher	_	_	
+1-4	14-25	gegenwärtig	_	_	
+1-5	26-31	keine	_	_	
+1-6	32-44	Veranlassung	Trigger	Motivation	
+1-7	45-46	,	_	_	
+1-8	47-50	mit	Effect[1]	_	
+1-9	51-56	Hilfe	Effect[1]	_	
+1-10	57-62	einer	Effect[1]	_	
+1-11	63-72	Auflösung	Effect[1]	_	
+1-12	73-76	des	Effect[1]	_	
+1-13	77-95	Abgeordnetenhauses	Effect[1]	_	
+1-14	96-105	Neuwahlen	Effect[1]	_	
+1-15	106-117	stattfinden	Effect[1]	_	
+1-16	118-120	zu	Effect[1]	_	
+1-17	121-127	lassen	Effect[1]	_	
+1-18	128-129	.	_	_	
+
+#Text=Der bloße Hinweis auf die unsichere Lage des Betriebes sei keine `` Veranlassung '' ( AZ : 10 AZR 868 / 94 und 885 / 94 ) .
+2-1	130-133	Der	Cause[2]	_	
+2-2	134-139	bloße	Cause[2]	_	
+2-3	140-147	Hinweis	Cause[2]	_	
+2-4	148-151	auf	Cause[2]	_	
+2-5	152-155	die	Cause[2]	_	
+2-6	156-165	unsichere	Cause[2]	_	
+2-7	166-170	Lage	Cause[2]	_	
+2-8	171-174	des	Cause[2]	_	
+2-9	175-184	Betriebes	Cause[2]	_	
+2-10	185-188	sei	Support	_	
+2-11	189-194	keine	_	_	
+2-12	195-197	``	_	_	
+2-13	198-210	Veranlassung	Trigger	Motivation	
+2-14	211-213	''	_	_	
+2-15	214-215	(	_	_	
+2-16	216-218	AZ	_	_	
+2-17	219-220	:	_	_	
+2-18	221-223	10	_	_	
+2-19	224-227	AZR	_	_	
+2-20	228-231	868	_	_	
+2-21	232-233	/	_	_	
+2-22	234-236	94	_	_	
+2-23	237-240	und	_	_	
+2-24	241-244	885	_	_	
+2-25	245-246	/	_	_	
+2-26	247-249	94	_	_	
+2-27	250-251	)	_	_	
+2-28	252-253	.	_	_	
+
+#Text=Er berief den Alkuin aus England ins Frankenreich , auf dessen Veranlassung man in Paris die Wissenschaften zu lehren begann , gewiß ein glückverheißender Anfang ;
+3-1	254-256	Er	_	_	
+3-2	257-263	berief	_	_	
+3-3	264-267	den	_	_	
+3-4	268-274	Alkuin	_	_	
+3-5	275-278	aus	_	_	
+3-6	279-286	England	_	_	
+3-7	287-290	ins	_	_	
+3-8	291-303	Frankenreich	_	_	
+3-9	304-305	,	_	_	
+3-10	306-309	auf	Support	_	
+3-11	310-316	dessen	Actor	_	
+3-12	317-329	Veranlassung	Trigger	Motivation	
+3-13	330-333	man	Effect[3]	_	
+3-14	334-336	in	Effect[3]	_	
+3-15	337-342	Paris	Effect[3]	_	
+3-16	343-346	die	Effect[3]	_	
+3-17	347-361	Wissenschaften	Effect[3]	_	
+3-18	362-364	zu	Effect[3]	_	
+3-19	365-371	lehren	Effect[3]	_	
+3-20	372-378	begann	Effect[3]	_	
+3-21	379-380	,	_	_	
+3-22	381-386	gewiß	_	_	
+3-23	387-390	ein	_	_	
+3-24	391-408	glückverheißender	_	_	
+3-25	409-415	Anfang	_	_	
+3-26	416-417	;	_	_	

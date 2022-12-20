@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.CausalConstructicon|Roles
+#T_SP=webanno.custom.CausalTypes|Types
+
+
+#Text=Zunächst hatten die Christdemokraten 1977 ihrem damaligen Koalitionspartner FDP zuliebe dem System Hare / Niemeyer zugestimmt , das für kleine Parteien günstiger ist .
+1-1	0-8	Zunächst	Effect[1]	_	
+1-2	9-15	hatten	Effect[1]	_	
+1-3	16-19	die	Effect[1]	_	
+1-4	20-36	Christdemokraten	Effect[1]	_	
+1-5	37-41	1977	Effect[1]	_	
+1-6	42-47	ihrem	Cause[2]	_	
+1-7	48-57	damaligen	Cause[2]	_	
+1-8	58-75	Koalitionspartner	Cause[2]	_	
+1-9	76-79	FDP	Cause[2]	_	
+1-10	80-87	zuliebe	Trigger	Purpose	
+1-11	88-91	dem	Effect[3]	_	
+1-12	92-98	System	Effect[3]	_	
+1-13	99-103	Hare	Effect[3]	_	
+1-14	104-105	/	Effect[3]	_	
+1-15	106-114	Niemeyer	Effect[3]	_	
+1-16	115-125	zugestimmt	Effect[3]	_	
+1-17	126-127	,	Effect[3]	_	
+1-18	128-131	das	Effect[3]	_	
+1-19	132-135	für	Effect[3]	_	
+1-20	136-142	kleine	Effect[3]	_	
+1-21	143-151	Parteien	Effect[3]	_	
+1-22	152-161	günstiger	Effect[3]	_	
+1-23	162-165	ist	Effect[3]	_	
+1-24	166-167	.	_	_	
+
+#Text=St. Valentin - dem Geschäft zuliebe
+2-1	168-171	St.	Effect[4]	_	
+2-2	172-180	Valentin	Effect[4]	_	
+2-3	181-182	-	_	_	
+2-4	183-186	dem	Cause[5]	_	
+2-5	187-195	Geschäft	Cause[5]	_	
+2-6	196-203	zuliebe	Trigger	Purpose	

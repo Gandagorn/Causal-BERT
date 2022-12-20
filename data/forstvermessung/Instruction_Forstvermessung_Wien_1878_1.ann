@@ -1,0 +1,535 @@
+T1	Purpose 12364 12369	Damit
+E1	Purpose:T1 Cause:T2 Effect:T4
+A1	Degree E1 Facilitate
+T2	Argument 12370 12432;12453 12515	über den Umfang des Grundbesitzes des Staates kein Zweifel sei und derselbe jederzeit rechtsgiltig nachgewiesen werden könne,
+T3	Note 12434 12451	Eigenthumsgrenzen
+#1	AnnotatorNotes T3	Artefakt
+T4	Argument 12516 12524;12525 12602;12603 12678	sind die Grenzen der Staatsforste gegenüber dem fremden Besitze deutlich und unwandel- bar zu bezeichnen und durch Verfassung von Grenzurkunden sicher zu stellen.
+T5	Note 13531 13550	Mangelhaftigkeit in
+#2	AnnotatorNotes T5	Artefakt
+T6	Note 13617 13639	der Sicherstellung der
+#3	AnnotatorNotes T6	Artefakt
+T7	Note 13668 13685	Eigenthumsgrenzen
+#4	AnnotatorNotes T7	Artefakt
+T8	Note 13756 13765	und deren
+#5	AnnotatorNotes T8	Artefakt
+T9	Note 13827 13838	Erforschung
+#6	AnnotatorNotes T9	Artefakt
+T10	Argument 14288 14308	Zweifel und Anstände
+T11	Purpose 14309 14313;14570 14584	sind zu beseitigen.
+E2	Purpose:T11 Cause:T10 Effect:T13 Controlling:T12
+A2	Degree E2 Inhibit
+T12	Argument 14315 14328	wo es möglich
+T13	Argument 14330 14357;14358 14431;14432 14507;14508 14569	durch sorgfältige Forschun- gen nach oder in den bezüglichen Urkunden und aus dem Inhalte der öffent- lichen Bücher, Gutsbeschreibungen und Urbarien, insbesondere aber durch die Original-Katastralkarten und die Aussagen sachkundiger Zeugen
+T14	Argument 14585 14659;14660 14723	Ist jedoch die Beseitigung der Zweifel und Anstände im Wege des giitlichen Uebereinkommens mit den Grenznachbarn (Anrainern) nicht möglich
+T15	Consequence 14725 14732	so wird
+E3	Consequence:T15 Cause:T14 Effect:T17 Support:T16
+A3	Degree E3 Facilitate
+T16	Argument 14733 14793;14794 14805	mit angemessener Berücksichtigung der Grösse und des Werthes der Objecte
+T17	Argument 14806 14873;14874 14949;14950 15024;15025 15062	in Betracht zu ziehen sein, ob die Austragung der Sache im gericht- lichen Wege von der Staatsforstverwaltung selbst zu veranlassen, oder ob es zweckmässiger wäre, den bisherigen Zustand einstweilen zu belassen und die Schritte der Grenznachbarn abzuwarten
+T18	Argument 16211 16264	Die Beseitigung einer nicht entsprechenden Begrenzung
+T20	Consequence 16464 16468	wenn
+E5	Consequence:T20 Cause:T23 Effect:T24
+A5	Degree E5 Facilitate
+T19	Motivation 16265 16269;16440 16455	soll versucht werden
+E4	Motivation:T19 Support:T21 Cause:T18 Effect:T22
+A4	Degree E4 Facilitate
+T21	Argument 16270 16279;16280 16355;16356 16397	selbst in dem Falle, als sie nach Massgabe der bestehenden Gesetze und Anordnungen im gerichtlichen Wege erwirkt werden könnte,
+T22	Argument 16398 16432;16433 16439	zunächst durch gütliches Ueberein- kommen
+T23	Argument 16469 16501	dieser Versuch fruchtlos bleibt,
+T24	Argument 16502 16509;16510 16540	ist der gerichtliche Weg einzuschlagen
+T25	Argument 16588 16658	Die Herstellung fehlender rechtsgiltiger und deutlicher Grenzurkunden,
+T26	Argument 16687 16712	gütliches L'ebereinkommen
+T27	Argument 16681 16686	durch
+T28	Purpose 16659 16662;16713 16725	ist zu versuchen
+E6	Purpose:T28 Effect:T26 Trigger:T27 Cause:T25
+A6	Degree E6 Facilitate
+T29	Purpose 17181 17191	Verweigern
+E7	Purpose:T29 Actor:T30 Cause:T31
+A7	Degree E7 Inhibit
+T30	Argument 17192 17209	die Grenznachbarn
+T31	Argument 17210 17243	die Errichtung einer Grenzurkunde
+T32	Purpose 17248 17251;17280 17291	ist zu erwirken
+E8	Purpose:T32 Trigger:T35 Cause:T33 Effect:T34
+A8	Degree E8 Facilitate
+T33	Argument 17252 17257	diese
+T34	Argument 17258 17279	im gerichtlichen Wege
+T35	Argument 17245 17247	so
+R1	Coref Arg1:T33 Arg2:T31	
+T36	Note 17389 17409	neuen, sowie bei der
+#7	AnnotatorNotes T36	Artefakt
+T37	Note 17474 17496	Berichtigung schon be-
+#8	AnnotatorNotes T37	Artefakt
+T38	Note 17572 17589	stehender Begren-
+#9	AnnotatorNotes T38	Artefakt
+T39	Note 17620 17627	zungen.
+#10	AnnotatorNotes T39	Artefakt
+T40	Note 17299 17320	Zielpunkte bei völlig
+#11	AnnotatorNotes T40	Artefakt
+T41	Consequence 17328 17331	bei
+E9	Consequence:T41 Cause:T43 Support:T44 Effect:T42
+A9	Degree E9 Facilitate
+T42	Argument 17568 17571;17590 17619	ist folgendes ins Auge zu fassen:
+T43	Argument 17332 17388;17410 17452	völlig neuen, als auch bei der Berichtigung und Vervoll- ständigung schon bestehender Begrenzungen,
+T44	Argument 17453 17473;17497 17567	es mögen diese durch giitliches Uebereinkommen oder im gerichtlichen Wege zu Stande kommen,
+T45	Argument 17968 18007	Festsetzung des Grenzzuges in der Natur
+T47	Purpose 18008 18011;18143 18160	ist Bedacht zu nehmen
+E11	Purpose:T47 Cause:T45 Trigger:T46 Effect:T48
+A11	Degree E11 Facilitate
+T46	Argument 17960 17963	Bei
+T48	Argument 18012 18026;18027 18104;18105 18134	sowohl auf den äusseren Umfang der Forste, als auch auf die im Innern derselben befindlichen fremden Realitäten (Enclaven)
+T49	Argument 12679 12729	Wo diesen Forderungen bereits Genüge geleistet ist
+T50	Argument 12737 12751;12752 12792	die dazu beru- fenen Verwaltungs- und Inspectionsorgane
+T51	Argument 12823 12827;12828 12909;12910 12980;12981 13050	dass keine einseitige Aenderung in der Begrenzung Platz greite und dass bei eintreten- den rechtlichen Grenzveränderungen die Grenzurkunden – beziehungsweise Grenztabellen — gehörig und in legaler Weise richtig gestellt werden.
+T52	Motivation 12731 12736;12804 12821	haben darüber zu wachen
+E10	Motivation:T52 Actor:T50 Effect:T51 Controlling:T49
+A10	Degree E10 Facilitate
+T53	Consequence 13051 13053	Wo
+E12	Consequence:T53 Cause:T54 Effect:T55
+A12	Degree E12 Facilitate
+T54	Argument 13062 13119;13120 13140	die Sicherstellung der Eigenthumsgrenzen der Staatsforste mangelhaft erscheint
+T55	Argument 13259 13276;13277 13324	ist einer solchen Mangelbaftigkeit so bald als möglich abzuhelfen
+T56	Consequence 13147 13149	wo
+E13	Consequence:T56 Cause:T57 Effect:T58
+A13	Degree E13 Facilitate
+T57	Argument 13150 13193;13194 13257	völlig neue Begrenzungen in Folge von Wald- theilungen, Abtretungen, Grundtausch u. s. w. statthaben sollen
+T58	Argument 13329 13356;13357 13381	sind die neuen Begrenzungen ohne Verzug auszuführen.
+T59	Argument 15173 15232	Streitigkeiten und Uebergriffen von Seite der Grenznachbarn
+T60	Argument 15233 15294	ist zwar stets ohne Zögerung im gerichtlichen Wege vorzugehen
+T61	Consequence 15169 15172	Bei
+E14	Consequence:T61 Cause:T59 Effect:T60
+A14	Degree E14 Facilitate
+T62	Argument 15322 15350	freiwilligen Entgegenkommens
+T63	Argument 15351 15361	der Gegner
+T64	Argument 15373 15393	umsichtiges Vorgehen
+T65	Argument 15394 15415	der Verwaltungsorgane
+T67	Argument 15485 15500;15517 15532;15533 15609;15610 15685;15686 15758;15759 15764	die Gelegenheit einen Vergleich zu schliessen, der mit Rücksicht auf den Erfolg in der Sache selbst, und mit Rücksicht auf Kostenersparung durch Gewinn an Zeit und Arbeit, so wie durch Beseitigung des gerichtlichen Verfahrens als vortheilhaft erkannt werden muss,
+T68	Argument 15313 15321	in Folge
+T69	Argument 15367 15372	durch
+T66	Consequence 15501 15515	ergeben sollte
+E15	Consequence:T66 Effect:T67 Actor:T63 Cause:T62 Trigger:T68 Trigger2:T69 Cause2:T64 Actor2:T65
+A15	Degree E15 Facilitate
+T70	Motivation 15765 15768;15846 15850;15851 15859	ist ein- zuleiten
+E16	Motivation:T70 Cause:T67 Effect:T71
+A16	Degree E16 Facilitate
+T71	Argument 15769 15794	die Vergleichsverhandlung
+T72	Argument 15865 15882	Gefahr am Verzuge
+T73	Argument 15888 15927	von den betheiligten Verwaltungsorganen
+T74	Argument 15928 15967	unter Vorbehalt der höheren Genehmigung
+T75	Argument 15977 16000;16001 16010	ein vorläutiges l'eber- einkommen
+T76	Motivation 16011 16021	zu treffen
+E17	Motivation:T76 Trigger:T77 Cause:T72 Actor:T73 Controlling:T74 Effect:T75
+A17	Degree E17 Facilitate
+T77	Argument 15861 15864	bei
+T78	Argument 16727 16784	Wo der allgemeine Kataster bereits ins Leben getreten ist
+T79	Argument 16792 16800;16801 16879;16880 16894	wenn der thatsächliche und als richtig anzusehende Bestand der Grenzen mit dem Kataster übereinstimmt,
+T80	Argument 16914 16959	die Anerkennung der Richtigkeit des Katasters
+T81	Argument 16960 16981	von den Grenznachbarn
+T82	Purpose 16786 16790;17011 17033	kann zu erwirken getrachtet
+E18	Purpose:T82 Cause:T80 Affected:T81 Controlling:T78 Controlling2:T79
+A18	Degree E18 Facilitate
+T83	Argument 18370 18398;18399 18409	eine angemessene Arrondirung der Forste
+T84	Argument 18445 18473;18474 18553;18554 18587	Vereinfachung des Grenzzuges mittelst Aus- und Eintausch der Ein- und Aussprünge behufs Herstellung lang und gerade fortlaufender Grenzlinien,
+T85	Argument 18601 18633;18634 18670	den Austausch von Enclaven gegen Waldparzellen im äusseren l'infange.
+T86	Argument 18162 18193	Insoweit es räthlich erscheint,
+T87	Argument 18194 18242	wo es leicht und möglichst schnell thunlich ist,
+T88	Argument 18247 18295	wenn die Grenznachbarn sich dazu geneigt zeigen,
+T89	Argument 18308 18323;18324 18365	unter Vorbehalt der Genehmigung des Ackerbau-Ministeriums
+T90	Purpose 18296 18299;18410 18421	ist hinzuwirken
+E19	Purpose:T90 Controlling:T86 Controlling2:T87 Controlling3:T88 Controlling4:T89 Cause:T83 Trigger:T92 Effect:T84 Trigger2:T93 Effect2:T85
+A19	Degree E19 Facilitate
+T91	Argument 18300 18307	hierbei
+R2	Coref Arg1:T91 Arg2:T45	
+T92	Argument 18439 18444	durch
+T93	Argument 18595 18600	durch
+T94	Argument 18886 18928	den Scheitelpunkt eines jeden Grenzwinkels
+T95	Argument 18946 18956;18957 18975	ein beson- deres Grenzzeichen
+T96	Motivation 18929 18932;18976 18988	ist festzusetzen
+E20	Motivation:T96 Trigger:T97 Cause:T94 Effect:T95
+A20	Degree E20 Facilitate
+T97	Argument 18882 18885	Für
+T98	Purpose 19568 19582	zur Vermeidung
+E21	Purpose:T98 Effect:T100 Cause:T99 Effect2:T101
+A21	Degree E21 Inhibit
+T99	Argument 19583 19595	von Irrungen
+T100	Argument 19557 19567;19596 19616	deren Lage genau zu beschreiben
+T101	Argument 19618 19625;19626 19703;19704 19781;19782 19793	und die künstliche Begrenzung auf die Anfangs-, End- und markantesten Brechungspunkte immer aber derart zu beschränken, dass der Zusammenhang der Grenzzliye herge- stellt ist.
+T102	Motivation 19545 19555	yeniigt cs
+E22	Motivation:T102 Cause:T103 Effect:T100
+A22	Degree E22 Facilitate
+#12	AnnotatorNotes E22	genügt es
+T103	Argument 19316 19385;19386 19466;19467 19544	Wo die Grenze durch natürliche Gegenstände als Flüsse, Bäche, Gräben, scharfe Bergrücken, Felsenpartien u. $. w., oder durch gebaute Strassen gebildet wird, oder wo diese Gegenstände als Grenzmale ausdrücklich vereinbart werden,
+T104	Motivation 19942 19949;20002 20014	so sind aufzustellen
+E23	Motivation:T104 
+A23	Degree E23 Facilitate
+T105	Argument 20244 20300	Die Grenzzeichen sind genau im Scheitel des Grenzwinkels
+T106	Argument 20410 20421	anzubringen
+T107	Motivation 20302 20307	daher
+E24	Motivation:T107 Cause:T105 Effect:T108
+A24	Degree E24 Facilitate
+T108	Argument 20308 20311;20312 20389;20390 20409	bei Gräben, welche in der ganzen Breite ärarisch sind, auf der dem Anrainer zuge- kehrten Grabenseite
+T109	Motivation 20473 20479;20686 20698	so ist aufzustellen
+E25	Motivation:T109 Cause:T110 Effect:T111 Controlling:T112
+A25	Degree E25 Facilitate
+T110	Argument 20423 20471	Ist der Grenzgraben gemeinschaftliches Eigenthum
+T111	Argument 20480 20496;20497 20526;20614 20646;20647 20685	das Grenzzeichen in der Mitte des Grabens oder abwechselnd zu beiden Seiten des Grenzgrabens als sogenannte ,Rückmarke
+T112	Argument 20528 20569;20570 20612	wo dieses wegen etwa starken Gefälles und abfliessenden Wassers unthunlich erscheint
+T113	Argument 20703 20720;20721 20746	als solche in der Grenztabelle ausdrücklich
+T114	Motivation 20473 20479;20747 20761	so ist zu beschreiben
+E26	Motivation:T114 Cause:T110 Effect:T113
+A26	Degree E26 Facilitate
+T115	Purpose 21075 21081;21116 21124	werden erreicht
+E27	Purpose:T115 Cause:T116 Effect:T117
+A27	Degree E27 Facilitate
+T116	Argument 21062 21074	Diese Zwecke
+T117	Argument 21082 21115	in erster Linie durch Grenzgräben
+T118	Motivation 21183 21199	anzubringen sind
+E28	Motivation:T118 
+A28	Degree E28 Facilitate
+T119	Argument 21126 21132	welche
+T120	Argument 21133 21138	daher
+T121	Argument 21139 21168	als Grenzzeichen vorzugsweise
+T123	Argument 21289 21355;21356 21374	genauer Verzeichnung der Grenzlinien und Abfassung einer unwandel- baren Grenzurkunde
+T124	Argument 21375 21428;21429 21506;21507 21579	ist jedoch die Bezeichnung der Eckpunkte im Grenzzuge durch Steine, Pfälle und dgl. unerlässlich imd es werden daher Grenzsteine in Verbindung mit (renzgräben in der Regel als Grenzzeichen zu wählen sein.
+T122	Purpose 21281 21288	Behut's
+E29	Purpose:T122 Cause:T123 Effect:T124
+A29	Degree E29 Facilitate
+T125	Argument 21806 21809;21810 21842	aus Geld-, Zeit- oder Arbeitermangel
+T126	Argument 21849 21875	gleich in der ganzen Länge
+T127	Consequence 21843 21848;21876 21886;21887 21900	nicht ausgeführt werden können
+E30	Consequence:T127 Cause:T125 Effect:T126
+A30	Degree E30 Inhibit
+T128	Purpose 23538 23540;23597 23605;23606 23613	um nicht zu hindern
+E31	Purpose:T128 Cause:T129 Effect:T130
+A31	Degree E31 Facilitate
+T129	Argument 23541 23596	bei der Vermessung die Aufstellung der Mess-Instrumente
+T130	Argument 23371 23447;23448 23526;23527 23536	Die Grenzsteine sind nach Massgabe der Oertlichkeit gehörig tief einzusetzen und sollen wie auch die Grenzsäulen nicht mehr als 0:4 Meter die Erdoberfläche überragen
+T131	Purpose 23615 23617;23698 23709	Um aufzufinden
+E32	Purpose:T131 Cause:T132 Effect:T133
+A32	Degree E32 Facilitate
+T132	Argument 23618 23677;23678 23697	den Standpunkt verloren gegangener Grenzsteine leichter und namentlich sicherer
+T133	Argument 23711 23752;23753 23832;23833 23842	sind unter jedlen Grenzstein vor der Ein- senkung unverwesliche Gegenstände, wie Glasscherben, Kohle Ziegelstücke u. dgl. zu legen.
+T134	Consequence 24719 24726	so dass
+E33	Consequence:T134 Cause:T135 Effect:T136
+A33	Degree E33 Facilitate
+T135	Argument 24348 24412;24413 24484;24485 24561;24562 24641;24642 24717	Die Nummerirung jedes ärarischen Grundcomplexes hat in der Regel an der Nordgrenze bei einem solchen Grenzpunkte zu beginnen, wo die an- stossenden Gemarkungen zweier Katastralgemeinden sich scheiden, oder ein Weg in den Wald zieht, oder sonst ein bleibendes Merkmal vorhanden ist, und ist von da aus gegen Osten, Süden und Westen bis zu dem Ausgangspunkte fortzusetzen
+T136	Argument 24727 24795;24796 24870;24871 24918	der ärarische Grundbesitz rechts bleibt, wenn man der Nummernordnung an den äusseren Grenzen des Waldes folgt, und links, wenn man der Nummern- folge an den Grenzen der Waldenclaven nachgeht.
+T137	Purpose 25551 25554	zur
+E34	Purpose:T137 Cause:T138 Effect:T139
+A34	Degree E34 Facilitate
+T138	Argument 25555 25564;25565 25577	grösseren Deutlichkeit
+T139	Argument 25578 25639;25640 25650	sind diese Zitfern und Buchstaben schwarz auf weissein Grunde zu bemalen
+T140	Consequence 25755 25763	bedingen
+E35	Consequence:T140 Cause:T141 Effect:T142
+A35	Degree E35 Facilitate
+T141	Argument 25657 25699	Besitzveränderungen durch Kauf oder Tausch
+T142	Argument 25700 25722;25723 25754	die Berichtigung einer solchen Grenzlinic in der Folge
+T143	Motivation 25652 25656	Wenn
+E36	Motivation:T143 Cause:T144 Effect:T145
+A36	Degree E36 Facilitate
+T144	Argument 25657 25722;25723 25763	Besitzveränderungen durch Kauf oder Tausch die Berichtigung einer solchen Grenzlinic in der Folge bedingen
+T145	Argument 25765 25798;25799 25871;25872 25948;25949 26009;26010 26025	wird nicht die ganze Nummernfolge der Grenzmarken an einem Grundcomplexe geändert, sondern es erhalten die neuen Grenzpunkte die correspondirenden der alten wieder, und sind der neuen Grenzpunkte mehr, so werdeil diese eingeschalteten z. B. mit 24 * bezeichnet
+T146	Argument 26027 26051	Sind aber deren weniger,
+T147	Motivation 26052 26054	so
+E37	Motivation:T147 Cause:T146 Effect:T148
+A37	Degree E37 Facilitate
+T148	Argument 26055 26106;26107 26180;26181 26207	bleiben die iiberflüssigen Nummern ganz weg, und es wird auf den Endsteinen das Leberspringen durch das Anbringen der nächst- folgenden Nummern bemerkt;
+T149	Note 26850 26869	Aufnahme, Beschrei.
+#13	AnnotatorNotes T149	Artefakt
+T150	Note 26942 26963	bung und Verzeichnung
+#14	AnnotatorNotes T150	Artefakt
+T151	Note 27009 27024	des Grenzzuges.
+#15	AnnotatorNotes T151	Artefakt
+T152	Motivation 27178 27181;27290 27296	zur dienen
+E38	Motivation:T152 Effect:T153 Cause:T154
+A38	Degree E38 Facilitate
+T153	Argument 27182 27246;27247 27289	('onstatirung ciner Verrickung der Grenzzeichen oder zur Wieder- bestimmung verloren gegangener Grenzpunkte
+#16	AnnotatorNotes T153	Constatirung einer Verrückung der Grenzzeichen oder zur Wiederbestimmung verloren gegangener Grenzpunkte
+T154	Argument 27111 27124	jene Merkmale
+T155	Argument 27311 27368;27369 27379	die Lage der Grenzpunkte gegen einander und zum gesammten Eigenthume
+T156	Argument 27400 27444;27445 27525;27526 27600;27601 27675;27676 27682	Angabe ler (rösse der (irenzwinkel gegen den ärarischen Besitz und die Länge der Grenzlinien --- oder, wo die Forstvermessung sich an die Landesvermessung anselluss, durch dugabe der ('oorilinaten der (irenzpunkte, bezogen auf das liensystem der Katastralvermessung des Kron- landes
+#17	AnnotatorNotes T156	Angabe der Grösse der Grenzwinkel gegen den ärarischen Besitz und die Länge der Grenzlinien - oder, wo die Forstvermessung sich an die Landesvermessung anschloss, durch Angabe der Coordinaten der Grenzpunkte, bezogen auf das Axensystem der Katastralvermessung des Kronlandes
+T157	Purpose 27301 27304;27684 27697	ist zu bezeichnen
+E39	Purpose:T157 Cause:T155 Effect:T156 Trigger:T158
+A39	Degree E39 Facilitate
+T158	Argument 27394 27399	durch
+T159	Consequence 27884 27892	gebildet
+E40	Consequence:T159 Effect:T160 Trigger:T161 Cause:T162
+A40	Degree E40 Facilitate
+T160	Argument 27817 27831	die Grenzlinie
+T161	Argument 27832 27837	durch
+T162	Argument 27838 27852;27853 27883	Gräben, Bäche, Strassen, Wege, Durchlaue etc.
+T163	Motivation 28420 28426	dienen
+E41	Motivation:T163 Trigger:T165 Cause:T164 Effect:T166
+A41	Degree E41 Facilitate
+T164	Argument 28336 28367	der beigeheftete Situationsplan
+T165	Argument 28372 28375	zur
+T166	Argument 28376 28419	besseren Orientirung der Begrenzungstabelle
+T167	Motivation 28433 28443;28519 28533;28534 28539	keineswegs benützt werden dart,
+E42	Motivation:T167 Cause:T164 Effect:T169 Trigger:T168 Controlling:T170
+A42	Degree E42 Inhibit
+T168	Argument 28465 28468	zur
+T169	Argument 28469 28518	Wiederbestimmung verloren gegangener Grenzzeichen
+T170	Argument 28449 28457;28458 28464	für sich allein
+T171	Argument 28552 28568	letzterem Zwecke
+T172	Argument 28569 28613;28614 28628	in erster Linie die Angaben der Begrenzungs- tabelle selbst
+T173	Purpose 28629 28638	verwendet
+E43	Purpose:T173 Trigger:T174 Effect:T172 Effect2:T171
+A43	Degree E43 Facilitate
+T174	Argument 28549 28568	zu letzterem Zwecke
+R3	Coref Arg1:T171 Arg2:T169	
+T175	Consequence 28803 28812	bestimmen
+E44	Consequence:T175 Effect:T177 Cause:T176
+A44	Degree E44 Facilitate
+T176	Argument 28761 28788	bereits bestehende Verträge
+T177	Argument 28789 28802	etwas Anderes
+T178	Argument 28817 28827;28828 28869	den §. 850 des allgemeinen birgerlichen Gesetzbuches
+T179	Argument 28685 28720	Rücksichtlich der Begrenzungskosten
+T180	Argument 28750 28812	wenn nicht bereits bestehende Verträge etwas Anderes bestimmen
+T181	Purpose 28814 28816;28870 28879	an zu halten
+E45	Purpose:T181 Cause:T179 Controlling:T180 Effect:T178
+T182	Argument 28889 28899	die Kosten
+T183	Argument 28933 28950	ihrer Grenzlinien
+T184	Argument 28900 28903;28904 28922	von allen Theilnehmern
+T185	Argument 28923 28932	nach Mass
+T186	Motivation 28951 28969	zu bestreiten sind
+E46	Motivation:T186 Effect:T182 Actor:T184 Cause:T183 Trigger:T185
+A45	Degree E46 Facilitate
+T187	Consequence 29239 29253	möglich machen
+E47	Consequence:T187 Cause:T188 Effect:T189 Affected:T190
+A46	Degree E47 Facilitate
+T188	Argument 29148 29158	l'mständen
+T189	Argument 29167 29199;29200 29210	die Uebernahme grösserer Begren- zugskosten
+T190	Argument 29221 29238	der Grenznachbarn
+#18	AnnotatorNotes T188	Umstände
+T193	Argument 29349 29353;29354 29379	eine grössere Beitragsleistung
+T194	Argument 29390 29405	dieser Nachbarn
+T195	Argument 29142 29199;29200 29253	unter l'mständen, welche die Uebernahme grösserer Begren- zugskosten von Seite der Grenznachbarn möglich machen
+T191	Motivation 29406 29420	erwarten lässt
+E48	Motivation:T191 Cause:T195 Effect:T193 Affected:T194
+A47	Degree E48 Facilitate
+T192	Consequence 29125 29129	Wenn
+E49	Consequence:T192 Cause:T196 Effect:T197
+A48	Degree E49 Facilitate
+T196	Argument 29349 29353;29354 29421	eine grössere Beitragsleistung von Seite dieser Nachbarn erwarten lässt,
+T197	Argument 29422 29433;29434 29445	ist hierauf hinzuwirken
+T198	Consequence 29481 29484;29546 29557	aus hervorgehen
+E50	Consequence:T198 Cause:T199 Effect:T200 Affected:T201
+A49	Degree E50 Facilitate
+T199	Argument 29485 29509	der erzielten Begrenzung
+T200	Argument 29510 29531	wesentliche Vortheile
+T201	Argument 29532 29545	für das Aerar
+T202	Consequence 29463 29480	in dem Falle, als
+E51	Consequence:T202 Cause:T203 Effect:T204
+A50	Degree E51 Facilitate
+T203	Argument 29481 29509;29510 29557	aus der erzielten Begrenzung wesentliche Vortheile für das Aerar hervorgehen
+T204	Argument 29581 29584;29585 29661;29662 29688	auf die Uebernahme eines yrösseren Kostenantheiles von Seite der Staatsforstver- waltung eingegangen werden
+T205	Consequence 29890 29894	wenn
+E52	Consequence:T205 Cause:T206 Effect:T208 Controlling:T207
+A51	Degree E52 Facilitate
+T206	Argument 29895 29924;29925 29955	ein solches giitliches Veber- einkommen nicht zu Stande käme
+T207	Argument 29957 29974	nach Erforderniss
+T208	Argument 29975 30003;30004 30081;30082 30146	das Begehren um gerichtliche Zuerkennung der rücksichtlich jedes Anrainers speciell anzugebenden, nach dem gesetzlichen Ausmasse zu bestimmenden Kostenantheile zu stellen.
+T209	Consequence 30242 30246;30271 30286	darf nicht aufhalten
+E53	Consequence:T209 Effect:T210 Cause:T211 Actor:T212
+A52	Degree E53 Facilitate
+T210	Argument 30247 30270	die Begrenzungsarbeiten
+T211	Argument 30147 30218	Das etwa nicht rechtzeitige Eingehen des Betrages der Begrenzungskosten
+T212	Argument 30219 30241	von Seite der Anrainer
+T213	Motivation 30907 30924	ausgeführt werden
+E54	Motivation:T213 Effect:T214 Actor:T215
+A53	Degree E54 Facilitate
+T214	Argument 30822 30862	die Begrenzungs- und Vermessungsarbeiten
+T215	Argument 30863 30890;30891 30906	von den Organen der Staats- forstverwaltung
+T216	Consequence 30944 30948	wenn
+E55	Consequence:T216 Cause:T217 Effect:T218
+A54	Degree E55 Facilitate
+T217	Argument 30949 30993;30994 31060	der Anrainer ein grösserer Waldbesitzer ist, welcher über entsprechend ycodätisch gebildetes Personale verftigt
+T218	Argument 31062 31074;31075 31143;31170 31200	kann von der Ausführung der Begrenzung durch die Organe der Staatsforstverwaltung ausnahmsweise abgesehen werden
+T219	Note 31359 31378	Abfassung der Grenz
+#19	AnnotatorNotes T219	Artefakt
+T220	Argument 31432 31439	urkunde
+#20	AnnotatorNotes T220	Artefakt
+T221	Consequence 32236 32244	bedürfen
+E56	Consequence:T221 Cause:T222 Effect:T223
+A55	Degree E56 Facilitate
+T222	Argument 32152 32186	namentlich aufzuführenden Parteien
+T223	Argument 32195 32235	der Ertheilung einer höheren Genehmigung
+T224	Consequence 32496 32498	so
+E57	Consequence:T224 Cause:T225 Effect:T226
+A56	Degree E57 Facilitate
+T225	Argument 32431 32494	Wurde die Begrenzung ohne gerichtliche Intervention vorgenommen
+T226	Argument 32499 32503;32504 32581;32582 32653;32654 32718;32719 32801;32802 32878;32879 32952;32953 33006	sind sowohl das hierüber aufgenommene Protokoll selbst, als auch die beigehefteten Behelfe von sämmtlichen Betheiligten, im Beisein und unter Mitfertigung von zwei unbedenklichen Zeugen, mit der ausdrücklichen Erklärung zu unterzeichnen, dass die Betheiligten mit dem Inhalte des Protokolles und seiner Beilagen vollkommen einverstanden sind, und dass jedem Theile das Recht ein- geräumt werde, die Grenzurkunde ohne weiteres Einvernehmen bei den gegen- seitigen Realitäten bücherlich auszeichnen zu lassen.
+T227	Consequence 33137 33139	so
+E58	Consequence:T227 Cause:T231 Effect:T232
+A57	Degree E58 Facilitate
+T228	Consequence 33081 33086	wegen
+E59	Consequence:T228 Cause:T229 Effect:T230
+A58	Degree E59 Facilitate
+T229	Argument 33087 33109	körperlicher Gebrechen
+T230	Argument 33110 33130	zu schreiben unfähig
+T231	Argument 33007 33080;33081 33135	Sollte ein oder der andere der Betheiligten des Schreibens unkundig oiler wegen körperlicher Gebrechen zu schreiben unfähig sein
+T232	Argument 33140 33159;33160 33233;33234 33313;33314 33348	ist sein Name durch cinen der beiden Zeugen mit ausdrücklicher Angabe „als Namensfertiger des N. N. und Zeuge“ zu unterschreiben, während der Betheiligte selbst sein gewöhn- liches Handzeichen beizusetzen hat
+T233	Consequence 33406 33408	so
+E60	Consequence:T233 Cause:T234 Effect:T235
+A59	Degree E60 Facilitate
+T234	Argument 33350 33388;33389 33405	Werden Grenznachbarn durch Bevollmäch- tigte vertreten,
+T235	Argument 33409 33470;33471 33505	miissen ihre Vollmachten der Grenzurkunde ebenfalls gerichts- ordnungsmässig beigeheftet werden.
+T236	Purpose 33506 33519	Zur Erfüllung
+E61	Purpose:T236 Cause:T237 Effect:T238
+A60	Degree E61 Facilitate
+T237	Argument 33520 33537	dieser Vorschrift
+T238	Argument 33538 33579;33580 33652;33653 33729;33730 33758	sind überhaupt alle Bogen der Urkunde mit cinem Faden oder einer Schnur zusammen zu heften, beide Enden des Fadens oder der Schnur mit hartem Siegelwachse festzumachen, und die Petschafte der Aussteller darauf zu drücken
+T239	Consequence 33760 33764	Wenn
+E62	Consequence:T239 Cause:T240 Effect:T241
+A61	Degree E62 Facilitate
+T240	Argument 33765 33829	die Vermarkung nicht unter Intervention der Gerichte stattfindet
+T241	Argument 33832 33834;33835 33893	st auf die Legalisirung der Unterschriften Bedacht zu nehmen.
+T242	Note 34318 34334	Besondere Berick
+#21	AnnotatorNotes T242	Artefakt
+T243	Note 34411 34432	sichtigung vorstehen.
+#22	AnnotatorNotes T243	Artefakt
+T244	Note 34516 34536	der Vorschriften bei
+T245	Note 34615 34636	Begrenzungen in Folge
+#23	AnnotatorNotes T245	Artefakt
+T246	Note 34714 34736	von gesetzlichen Regu-
+#24	AnnotatorNotes T246	Artefakt
+T247	Note 34817 34837	lirungen des Besitz-
+#25	AnnotatorNotes T247	Artefakt
+T248	Note 34838 34859	standes, und angemes-
+#26	AnnotatorNotes T248	Artefakt
+T249	Note 34938 34959	sene Begrenzung jener
+#27	AnnotatorNotes T249	Artefakt
+T250	Note 34984 35006	Waldtheile, in welchen
+#28	AnnotatorNotes T250	Artefakt
+T251	Note 35074 35094	von Seite der Einge-
+#29	AnnotatorNotes T251	Artefakt
+T252	Note 35095 35116	forsteten gewisse Be:
+#30	AnnotatorNotes T252	Artefakt
+T253	Note 35276 35296	rechtigungen ferner-
+#31	AnnotatorNotes T253	Artefakt
+T254	Note 35297 35316	hin ausgeübt werden
+#32	AnnotatorNotes T254	Artefakt
+T255	Note 35387 35393	dürfen
+#33	AnnotatorNotes T255	Artefakt
+T256	Purpose 34357 34363	behufs
+E63	Purpose:T256 Effect:T258 Cause:T257
+A62	Degree E63 Facilitate
+T257	Argument 34364 34410;34433 34484	Feststellung cines zu Gunsten dritter Personen mit Servituten belasteten ärarischen Grundcomplexes
+T258	Argument 34344 34356	Begrenzungen
+T259	Consequence 34745 34753	Insofern
+E64	Consequence:T259 Controlling:T260 Cause:T261 Effect:T262
+A63	Degree E64 Facilitate
+T260	Argument 34764 34798	rücksichtlich solcher Begrenzungen
+T261	Argument 34799 34816;34860 34906	besondere gesetz- liche Bestimmungen bestehen oder erst erfolgen
+T262	Argument 34908 34937;34960 34982	muss sich diesen Bestimmungen gemäss benommen werden
+T263	Consequence 35011 35020	auf Grund
+E65	Consequence:T263 Cause:T264 Effect:T265
+A64	Degree E65 Facilitate
+T264	Argument 35021 35055	der Reguliruung von Berechtigungen
+T265	Argument 35007 35010;35056 35073;35117 35194;35195 35232	Ist klar und bestimmt ausgesprochen, in welchen Waldtheilen (Parzellen) gewisse Nutzungen von Seite Anderer fernerhin stattzufinden haben
+T266	Consequence 35234 35236	so
+E66	Consequence:T266 Cause:T265 Effect:T267
+A65	Degree E66 Facilitate
+T267	Argument 35237 35275;35317 35386	können derlei Waldtheile rücksichtlich dieser Nutzungen nach Erforderniss ebenfalls gehörig begrenzt werden.
+T268	Purpose 35719 35727	geregelt
+E67	Purpose:T268 Cause:T269 Trigger:T270 Effect:T271
+A66	Degree E67 Facilitate
+T269	Argument 35635 35674	Die l'eberwachung der Eigenthumsgrenzen
+T270	Argument 35679 35684	durch
+T271	Argument 35685 35706;35707 35718	die besondere Dienst- instruction
+T272	Consequence 22186 22203	befürchten lassen
+E68	Consequence:T272 Cause:T273 Effect:T274
+A67	Degree E68 Facilitate
+T273	Argument 22105 22127	umliegende lekergrinde
+T274	Argument 22128 22132;22133 22185	eine successive Usurpirung und Verrückung der Grenzsteine
+T275	Consequence 22508 22520	rechtfertigt
+E69	Consequence:T275 Cause:T276 Effect:T277
+A68	Degree E69 Facilitate
+T276	Argument 22448 22473	der Werth der Grundstücke
+T277	Argument 22474 22495	eine grössere luslage
+T278	Consequence 22293 22295	wo
+E70	Consequence:T278 Cause:T282 Effect:T281
+A69	Degree E70 Facilitate
+T279	Consequence 22347 22349	wo
+E71	Consequence:T279 Cause:T283 Effect:T281
+A70	Degree E71 Facilitate
+T280	Consequence 22445 22447	wo
+E72	Consequence:T280 Cause:T284 Effect:T281
+A71	Degree E72 Facilitate
+T281	Argument 22205 22265;22266 22291	Die Verwendung regelmässig belauener Grenzsteine soll in der Reyel nur dort statthaben
+T282	Argument 22296 22345	die Beischaffung derselben minder kostspielig ist
+T283	Argument 22350 22428;22429 22440	die geniigende Bezeichnung der Grenze in anderer Weise t'üglich nicht erreicht werden kann
+T284	Argument 22448 22507;22508 22520	der Werth der Grundstücke eine grössere luslage vollständig rechtfertigt
+T285	Argument 22898 22918;22919 22948;22949 22980;22990 23016	Holzsäulen, Aufwürfe aus groben Steinen oder Erde, letztere mit Rasen belegt, sind als Grenzzeichen zu wäblen
+T286	Consequence 23018 23022	wenn
+E73	Consequence:T286 Cause:T288 Effect:T285 Trigger:T287
+A72	Degree E73 Facilitate
+T287	Argument 22981 22984;22985 22989	nur dann
+T288	Argument 23023 23050;23051 23070;23071 23074;23075 23104;23105 23135;23136 23163	Steine entschieden zu kost- spielig wären, oder die Fixirung des Grenzzuges wegen Gefahr beim Verzuge sehr rasch durchgeführt werden müsste.
+T289	Argument 37760 37809	Die Anfangs-, End- und Winkelpunkte der Grenzzüge
+E74	Motivation:T296 Cause:T289 Trigger:T292 Effect:T290
+A73	Degree E74 Facilitate
+T292	Argument 37817 37825	mittelst
+T290	Argument 37826 37847	bebauener Grenzsteine
+T293	Argument 37849 37875	längere gerade Grenzlinien
+E75	Motivation:T296 Cause:T293 Effect:T295 Trigger:T294
+A74	Degree E75 Facilitate
+T294	Argument 37876 37881	durch
+T295	Argument 37882 37946;37947 37957;37968 38023	eingeschobene Zwischensteine (Laufer) und zwar durchweg in einer Entfernung , dass von einem Stein zum anderen gesehen werden kann.
+T296	Motivation 37958 37968	bezeichnet
+T291	Consequence 38049 38055	halber
+E76	Consequence:T291 Cause:T297 Effect:T298
+A75	Degree E76 Facilitate
+T297	Argument 38027 38048	des felsigen Terrains
+T298	Argument 38056 38102	die Einsetzung von Grenzsteinen unzulässig war
+T299	Consequence 38024 38026	Wo
+E77	Consequence:T299 Cause:T300 Effect:T301
+A76	Degree E77 Facilitate
+T300	Argument 38027 38102	des felsigen Terrains halber die Einsetzung von Grenzsteinen unzulässig war
+T301	Argument 38104 38117;38118 38217	wurden in den an entsprechender Stelle vorhandenen, deutlich sichtbaren Lagersteinen die Grenzmerkmale eingehauen
+T303	Argument 38575 38623	der Zusammenhang der Grenzziige hergestellt ist.
+T302	Purpose 38553 38574	derart versehen, dass
+E78	Purpose:T302 Cause:T304 Effect:T303
+A77	Degree E78 Facilitate
+T304	Argument 38338 38435;38436 38526;38527 38543	Natürliche Grenzen, als: Flüsse, Bäche, Gräben, scharfe Bergricken, Felspartien, gebaute Strassen und dgl. wurden an den Anfangs- und Endpunkten, dann an den mark antesten Brechungspunkten mit Grenzsteinen
+T305	Purpose 38802 38810	mittelst
+E79	Purpose:T305 Controlling:T308 Cause:T307 Effect:T306
+A78	Degree E79 Facilitate
+T306	Argument 38811 38837	ausgehobener Grenzgräbchen
+T307	Argument 38700 38708;38838 38852	letztere gekennzeichnet
+T308	Argument 38712 38801	genonimen an den der Abschwemmung ausgesetzten oder sonst nicht geeigneten Oertlichkeiten
+T309	Purpose 40367 40373	dienen
+E80	Purpose:T309 Cause:T312 Effect:T310 Trigger:T311
+A79	Degree E80 Facilitate
+T310	Argument 40266 40283	diese Grenzkarten
+T311	Argument 40288 40291	zur
+T312	Argument 40292 40317;40318 40366	Orientirung bezüglich der in der Begrenzungstabelle beschriebenen (irenzen
+T314	Argument 40453 40502	Wiederbestimmung verloren gegangener Grenzzeichen
+T313	Argument 40449 40452	zur
+T315	Purpose 40437 40448;40503 40510;40511 40525	keinesfalls benützt werden dürfen,
+E81	Purpose:T315 Effect:T310 Controlling:T316 Trigger:T313 Cause:T314
+A80	Degree E81 Inhibit
+T316	Argument 40380 40411;40412 40434	insofern die Begrenzungstabelle selbst Aufschluss gibt
+T318	Argument 40532 40551	zu letzterem Zwecke
+T319	Argument 40568 40609	die Angaben der Begrenzungstabelle selbst
+T320	Purpose 40610 40634	verwendet werden müssen.
+E83	Purpose:T320 Trigger:T317 Cause:T318 Effect:T319
+A82	Degree E83 Facilitate
+T317	Argument 40532 40551	zu letzterem Zwecke
+R4	Coref Arg1:T318 Arg2:T314	
+T321	Consequence 40932 40938	halber
+E82	Consequence:T321 Affected:T323 Cause:T322 Effect:T326
+A81	Degree E82 Facilitate
+T322	Argument 40910 40931	des grossen C'mfanges
+T323	Argument 40894 40909	die Grenzkarten
+T324	Consequence 40958 40966	Ursachen
+E84	Consequence:T324 Affected:T323 Cause:T325 Effect:T326
+A83	Degree E84 Facilitate
+T325	Argument 40944 40966	aus sonstigen Ursachen
+T326	Argument 40967 40989;40990 41020	der Vermarkungsurkunde nicht angeheftet werden können
+T327	Argument 41022 41090	ist das Wort yngeheftet“ selbstverständlich im Contexte wegzulassen.
+T328	Consequence 40889 40893	Wenn
+E85	Consequence:T328 Cause:T329 Effect:T327
+A84	Degree E85 Facilitate
+T329	Argument 40894 40989;40990 41020	die Grenzkarten des grossen C'mfanges halber oder aus sonstigen Ursachen der Vermarkungsurkunde nicht angeheftet werden können

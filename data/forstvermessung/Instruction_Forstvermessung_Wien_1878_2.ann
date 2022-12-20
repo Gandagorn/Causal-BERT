@@ -1,0 +1,657 @@
+T1	Argument 31 72	Die Richtigkeit der so vermarkten Grenzen
+T2	Argument 79 116;117 163	von den unterfertigten Vertretern des k. k. Forstärars und den sämmtlichen Anrainern
+T3	Argument 187 213	Controle an Ort und Stelle
+T4	Argument 224 316	Vergleichung mit der diesem Protokolle angehefteten Begrenzungstabelle sowie den Grenzkarten
+T5	Argument 181 186	durch
+T6	Argument 218 223	durch
+T7	Purpose 317 327;73 78	constatirt wurde
+E1	Purpose:T7 Cause:T1 Actor:T2 Trigger:T5 Trigger2:T6 Effect:T3 Effect2:T4
+A1	Degree E1 Facilitate
+T8	Argument 2350 2415;2416 2434	Erzielung eines gleichmässigen Vorganges bei Vermarkung der räum- lichen Eintheilung
+T9	Argument 2442 2463	folgende Bestimmungen
+T10	Purpose 2346 2349	Zur
+E2	Purpose:T10 Cause:T8 Effect:T9
+A2	Degree E2 Facilitate
+T11	Note 2512 2530	Vorgang beim Fest.
+#1	AnnotatorNotes T11	Artefakt
+T12	Note 2605 2624	legen und Erweitern
+#2	AnnotatorNotes T12	Artefakt
+T13	Note 2705 2722	der Eintheilungs-
+#3	AnnotatorNotes T13	Artefakt
+T14	Note 2723 2729	linien
+#4	AnnotatorNotes T14	Artefakt
+T15	Argument 2736 2769	das Erweitern der pikirten Linien
+T16	Argument 2770 2797	von der Ingenieurabtheilung
+T17	Motivation 2798 2803;2811 2821	nicht veranlasst
+E3	Motivation:T17 Effect:T15 Actor:T16
+A3	Degree E3 Inhibit
+T18	Consequence 2837 2839	so
+E4	Consequence:T18 Cause:T19 Effect:T20
+A4	Degree E4 Facilitate
+T19	Argument 2731 2803;2804 2836	Wird das Erweitern der pikirten Linien von der Ingenieurabtheilung nicht selbst veranlasst und überwacht,
+T20	Argument 2840 2882;2883 2961;2962 2973	ist dem Forstverwalter in einer Skizze die pikirte Linie durch eine volle, die aufzuhauende durch eine punktirte Linie zu bezeichnen.
+T21	Note 3090 3110	Grundsätze, nach wel
+#5	AnnotatorNotes T21	Artefakt
+T22	Note 3187 3209	chen die Standorte für
+#6	AnnotatorNotes T22	Artefakt
+T23	Note 3261 3282	die Sicherheitssteine
+#7	AnnotatorNotes T23	Artefakt
+T24	Note 3360 3375	zu wählen sind.
+#8	AnnotatorNotes T24	Artefakt
+T25	Consequence 4121 4135	desshalb, weil
+E5	Consequence:T25 Effect:T27 Effect2:T26
+A5	Degree E5 Facilitate
+T26	Argument 4136 4139;4140 4197	die Marken an der tieferen Seite leichter verschittet wiirden
+T27	Argument 4066 4069;4070 4111	auf der höher gelegenen Seite des Durchhiebes
+T28	Argument 3935 3995	Wirthschaftsstreifen, welche längs Berglehnen geführt werden
+T29	Motivation 3931 3934	Bei
+E6	Motivation:T29 Cause:T28 Effect:T27
+T30	Argument 3548 3581	Wirthschaftsstreifen in der Ebene
+T31	Argument 3582 3607;3608 3676	auf jene Seite des Durch- hiebes, deren anliegende Fächer friiher zum Abtriebe gelangen sollen
+T32	Argument 3704 3752;3753 3829;3830 3874	in allen jenen Fällen, wo der Aufhieb der Wirth- schaftsstreifen nur successive erfolgt, dieser Erweiterungshieb in der Regel gegen den Flankenwind gefti hrt werden muss.
+T33	Motivation 3544 3547	Bei
+E7	Motivation:T33 Cause:T30 Effect:T31
+A6	Degree E7 Facilitate
+T34	Consequence 3687 3703	(lesshall), weil
+E8	Consequence:T34 Effect:T31 Cause:T32
+A7	Degree E8 Facilitate
+T35	Argument 3291 3346	Schneissen sowohl in der Ebene, als auch im Hochgebirge
+T36	Argument 3347 3359;3376 3425	auf die vler gefährlichen Luftströmung entgegengesetzte Seite,
+T37	Consequence 3426 3433	so dass
+E9	Consequence:T37 Cause:T36 Effect:T38
+A8	Degree E9 Facilitate
+T38	Argument 3434 3449;3450 3525;3526 3540	bei eventuellen Los- und Anbieben an der nicht versteinten Seite des Schneissen-Durchliebes begonnen wird.
+T39	Motivation 3287 3290	Bei
+E10	Motivation:T39 Cause:T35 Effect:T36
+A9	Degree E10 Facilitate
+T40	Motivation 2531 2535	Beim
+E11	Motivation:T40 Cause:T41 Effect:T42
+A10	Degree E11 Facilitate
+T41	Argument 2536 2572	Festlegen der räumlichen Eintheilung
+T42	Argument 2573 2604;2625 2703	ist jene Linie des zukiinftigen Durchhanes zu pikiren, auf welcher die Sicherheitssteine künftig stehen sollen
+A11	Degree E6 Facilitate
+T43	Argument 4473 4516;4517 4529	man von einem Sicherheitssteine zum anderen visiren kann
+T44	Argument 4548 4577	wo die Aussicht sehr weit ist
+T45	Argument 4584 4599;4600 4669	die Distanz von 200 Metern als die grösste zulässige Entfernung der Sicherheitssteine
+T46	Consequence 4579 4583	gilt
+E12	Consequence:T46 Cause:T47 Controlling:T44 Effect:T45
+A12	Degree E12 Facilitate
+T47	Argument 4531 4546	In ebenen Lagen
+T48	Motivation 4782 4786	darf
+E13	Motivation:T48 Cause:T49 Effect:T50
+A13	Degree E13 Facilitate
+T49	Argument 4717 4781	Auf den Kreuzungspunkten der Wirthschaftsstreifen mit Schneissen
+T50	Argument 4787 4790;4791 4873;4874 4952;4953 5002	nur ein Sicherheitsstein, dieser jedoch mit der fortlaufenden Nummer des Wirthschafts- streifens und der Schneisse versehen, und zwar auf dem Durchschnittspunkte der pikirten (versteinten) Linien aufgestellt werden,
+T51	Purpose 5062 5066;5215 5217;5218 5227	sind zu verwenden
+E14	Purpose:T51 Cause:T52 Effect:T54 Controlling:T53
+A14	Degree E14 Facilitate
+T52	Argument 5040 5042;5043 5061	Zu Sicherheitssteinen
+T55	Argument 5256 5322;5323 5367	Lagersteine in der Nähe nicht vorhanden sind, die Zufuhr derselben aber beträchtliche Kosten verursachen würde,
+T56	Argument 5368 5403;5404 5449	sind 30 bis 40 Centimeter unter dem Boden gut verankerte Holzsäulen zu verwenden.
+T57	Motivation 5253 5255	Wo
+E15	Motivation:T57 Cause:T55 Effect:T56
+A15	Degree E15 Facilitate
+T58	Note 5825 5842	Vermarkung der zu
+#9	AnnotatorNotes T58	Artefakt
+T59	Note 5914 5932	Abtheilungsgrenzen
+#10	AnnotatorNotes T59	Artefakt
+T60	Note 6008 6029	benützten natürlichen
+#11	AnnotatorNotes T60	Artefakt
+T61	Note 6038 6044	Linien
+#12	AnnotatorNotes T61	Artefakt
+T62	Motivation 5933 5941	erhalten
+E16	Motivation:T62 Cause:T63 Controlling:T64 Effect:T65
+A16	Degree E16 Facilitate
+T63	Argument 5843 5913	Natiirliche Abtheilungslinien als: Bäche, gebaute Wege, Gräben u. dgl.
+T64	Argument 5942 5994	an den beiden End- und markantesten Brechungspunkten
+T65	Argument 5995 6007;6030 6036	Sicherheits- steine
+T66	Argument 6468 6524	jeder Netzlegung mit Dreieckseiten über 1000 Meter Länge
+T67	Motivation 6525 6532	miissen
+E17	Motivation:T67 Cause:T66 Trigger:T68 Effect:T389
+A17	Degree E17 Facilitate
+T68	Argument 6464 6467	Bei
+T69	Purpose 7023 7033	zum Zwecke
+E18	Purpose:T69 Cause:T70 Effect:T71
+A18	Degree E18 Facilitate
+T70	Argument 7034 7053	der Forstvermessung
+T71	Argument 7054 7078	vorzunelmende Netzlegung
+T72	Argument 7252 7321;7322 7363	Die topographische Beschreibung der trigonometrisch bestimmten Punkte des Kataster's deren Abstände von der Axe
+T73	Argument 7369 7396;7397 7446	im Wege des k. k. Ackerbau- ministeriums bei dem ('alciilbureau des kitasters
+T74	Purpose 7364 7368;7447 7457	sind zu erheben
+E19	Purpose:T74 Cause:T72 Effect:T73
+A19	Degree E19 Facilitate
+T75	Note 7628 7648;7649 7651	----- 35 / 164 ----- 29
+#13	AnnotatorNotes T75	Ignore
+T76	Argument 7465 7470;7471 7547	diese Netzpunkte als Ausgangspunkte der weiteren Netzlegung benützt werden dürfen,
+T77	Argument 7548 7627;7652 7727;7728 7804;7805 7814	ist die richtige Fixirung iu der Natur durch Vergleichung der aus den regebenen Coordinaten berechneten Dreieckswinkel init den wirklich gemessenen Winkeln zu prüfen, und es darf die Differenz 10 Sekunden (alte Theilung) nicht über- schreiten
+T78	Purpose 7459 7464	Bevor
+E20	Purpose:T78 Effect:T77 Cause:T76
+A20	Degree E20 Facilitate
+A21	Temporal E20
+T79	Consequence 7856 7862;7872 7878	derart , dass
+E21	Consequence:T79 Cause:T80 Effect:T81
+A22	Degree E21 Facilitate
+A23	Correlation E21
+T80	Argument 7816 7855;7863 7872	Die neu zu bestimmenden Netzpunkte sind zu wählen
+T81	Argument 7879 7886;7887 7965;7966 7979	sie von drei entsprechend gelegenen Netzpunkten des Katasters anvisirt, d. h. bestimmt werden können
+T82	Argument 8093 8128	ein entsprechender Genauigkeitsgrad
+T83	Purpose 8088 8092;8249 8268	soll hergestellt werden.
+E22	Purpose:T83 Cause:T82 Effect:T85 Support:T84
+A24	Degree E22 Facilitate
+T84	Argument 8129 8141	in der Regel
+T85	Argument 8142 8211;8212 8248	mehr durch vielfache Beobachtung bei veränderter Stellung ( Rotation) des Limbus, als durch Multiplication
+T86	Argument 8372 8392	Eintragen der Winkel
+T87	Argument 8399 8413	das Formular 1
+T88	Purpose 8393 8398	dient
+E23	Purpose:T88 Trigger:T89 Cause:T86 Effect:T87
+A25	Degree E23 Facilitate
+T89	Argument 8368 8371	Zum
+T90	Argument 8324 8354	in beiden Lagen des Fernrohres
+T91	Argument 8269 8292	Die Winkelbeobachtungen
+T92	Purpose 8293 8298;8355 8366	haben zu erfolgen
+E24	Purpose:T92 Cause:T91 Effect:T90
+A26	Degree E24 Facilitate
+T93	Motivation 8891 8897	dürfen
+E25	Motivation:T93 Cause:T94 Effect:T95
+A27	Degree E25 Facilitate
+T94	Argument 8854 8890	Nur ausnahmsweise d. h. im Nothfalle
+T95	Argument 8898 8924;8925 8940	Dreieckswinkel excentrisch gemessen werden
+T96	Motivation 8946 8949;9035 9048	ist zu vollziehen
+E26	Motivation:T96 Cause:T97 Effect:T98
+A28	Degree E26 Facilitate
+T97	Argument 8950 8965	in diesem Falle
+T98	Argument 8971 9006;9007 9034	«lie Berechnung auf den Mittelpunkt der Station nach Formular 2
+R1	Coref Arg1:T97 Arg2:T94	
+T99	Consequence 9141 9143	so
+E27	Consequence:T99 Cause:T100 Effect:T101
+A29	Degree E27 Facilitate
+T100	Argument 9050 9117;9118 9140	Werilen Dreieckseiten nicht weiter als Basen zur Berechnung anderer Dreieckseiten benützt,
+T101	Argument 9144 9195;9196 9277;9278 9354;9355 9432;9433 9498	darf der im Vorhergehenden bezeichnete Winkelfehler gleichmässig auf alle 3 Dreieckswinkel vertheilt und in demselben Falle, als eine Dreieckseite aus 2 Dreiecken oder die Coordinaten eines Netzpuuktes aus zwei – als Basis nicht wieler zu verwendenden Dreieckseiten bestimmt worden waren, das arithmetische Mittel aus Beiden als richtig angenommen werden
+T102	Motivation 9602 9604	so
+E28	Motivation:T102 Cause:T103 Effect:T104
+A30	Degree E28 Facilitate
+T103	Argument 9500 9569;9570 9601	Soll jedoch eine Dreieckseite wieder als Basis zur Berechnung anderer Dreieckseiten bentitzt werilen,
+T104	Argument 9605 9649;9650 9721	ist es unerlässlich, dass dieselbe durch ein zweites Dreieck controlirt und nach folgender Methode verbessert werde:
+T105	Consequence 10051 10054	Bei
+E29	Consequence:T105 Cause:T106 Cause2:T107
+A31	Degree E29 Facilitate
+T106	Argument 10055 10071	stumpfen Winkeln
+T107	Argument 10072 10105;10106 10130	treten die Differenzen von loy 1" negativ in die Rechnung.
+T108	Purpose 10431 10434	Zur
+E30	Purpose:T108 Cause:T109 Effect:T110
+A32	Degree E30 Facilitate
+T109	Argument 10435 10463	Berechnung der Dreieckseiten
+T110	Argument 10464 10501	ist sich des Formulares 3 zu bedienen
+T111	Purpose 10653 10660	erfolgt
+E31	Purpose:T111 Cause:T114 Effect:T113 Trigger:T112
+A33	Degree E31 Facilitate
+T112	Argument 10661 10666	durch
+T113	Argument 10667 10720	percentualen Ausgleich der Sinus- und Cosinusproducte
+T114	Argument 10503 10574;10575 10652	Die endgiltige Verbesserung der Dreieckseiten, respective der durch Zu- sammenstellung derselben zu Polygonziigen berechneten Abscissen und Ordinaten
+T115	Argument 10768 10810	vom k. k. militär-geographischen Institute
+T116	Argument 10811 10831;10832 10912;10913 10926	von allen bemerkens- werthen Kuppen die absoluten Höhen über der Meeresfläche bereits trigonometrisch bestimmt sind
+T117	Consequence 10760 10767	Nachdem
+E32	Consequence:T117 Actor:T115 Cause:T116 Effect:T119 Trigger:T118
+A34	Degree E32 Facilitate
+T118	Argument 10928 10930	so
+T119	Argument 10931 10989;10990 11043	kann in den meisten Fällen bei der Forstvermessung von der genauen Aufnahme der Verticalwinkel abgesehen werden.
+T120	Argument 11094 11115;11116 11195;11196 11217	Steine, welche an der Seite mit À und oben mit einem gleichzeitig das ('entrum der Station angebenden Kreuz bezeichnet sind
+T121	Argument 11044 11087;11219 11232	Alle trigonometrisch bestimmten Punkte sind zu versichern
+T122	Purpose 11088 11093	durch
+E33	Purpose:T122 Cause:T121 Effect:T120
+A35	Degree E33 Facilitate
+T123	Argument 11837 11866	in folgenden Fällen unbedingt
+T124	Argument 11867 11887	mittelst Theodoliten
+T125	Argument 11824 11832	Dieselbe
+T126	Argument 11718 11752	Die Aufnahme der Eigenthumsgrenzen
+R2	Coref Arg1:T125 Arg2:T126	
+T127	Purpose 11833 11836;11888 11899	hat zu erfolgen
+E34	Purpose:T127 Cause:T125 Effect:T124 Controlling:T123
+A36	Degree E34 Facilitate
+T128	Argument 11909 11932	mit der Forstvermessung
+T129	Argument 11933 11974;11975 11982	gleichzeitig die Aufstellung einer Grenz- urkunde
+T130	Motivation 11983 11995	beabsichtigt
+E35	Motivation:T130 Cause:T128 Effect:T129
+A37	Degree E35 Facilitate
+A38	Correlation E35
+T131	Argument 12070 12078;12079 12118	auch bei einer Aufnahme mittelst des Messtisches
+T132	Argument 12119 12152;12153 12190	in der Hauptsache die Methode des Stationirens angewendet werden müsste
+T134	Argument 12010 12064	das Terrain des Vermessungsobjectes so beschaffen ist,
+T135	Consequence 12046 12048;12065 12069	so dass
+E36	Consequence:T135 Cause:T134 Support:T131 Effect:T132
+A39	Degree E36 Facilitate
+T133	Consequence 12604 12614	verspricht
+E37	Consequence:T133 Cause:T136 Effect:T137
+A40	Degree E37 Facilitate
+T136	Argument 12553 12557;12558 12575	Ver- messungsverfahren
+T137	Argument 12576 12603	die werthvolleren Resultate
+T138	Argument 12635 12679	der Vorlage des jeweiligen Arbeitsprogrammes
+T139	Motivation 12631 12634	bei
+E38	Motivation:T139 Effect:T140 Cause:T138
+A41	Degree E38 Facilitate
+T140	Argument 12627 12630;12680 12712;12713 12756	ist anzuzeigen, welches Vermessungs- verfahren in Anwendung gebracht werden soll
+T141	Argument 13050 13083	allen Aufnahmen mit dem Theodolit
+T142	Argument 13084 13116;13117 13194;13195 13265	sind die Polygonwinkel stets als Winkel gegen den ärarischen Forst und mit Instrumenten zu messen, welche eine Iblesung von 1 Minute alter oder 2 Minuten neuer Theilung ermöglichen.
+T143	Motivation 13046 13049	Bei
+E39	Motivation:T143 Cause:T141 Effect:T142
+A42	Degree E39 Facilitate
+T144	Argument 13159 13171;13181 13189	Instrumenten , welche
+T145	Argument 13190 13194;13195 13252	eine Iblesung von 1 Minute alter oder 2 Minuten neuer Theilung
+T146	Consequence 13253 13264	ermöglichen
+E40	Consequence:T146 Cause:T144 Effect:T145
+A43	Degree E40 Facilitate
+T147	Consequence 13872 13889	unerlässlich sind
+E41	Consequence:T147 Cause:T148 Effect:T149
+A44	Degree E41 Facilitate
+T148	Argument 13791 13796	hiezu
+T149	Argument 13797 13848;13849 13871	gut eingerichtete Instrumente, sondern auch die ge- nauesten Beobachtungen
+T150	Argument 13717 13748	ein tachymetrisches Längsmessen
+R3	Coref Arg1:T148 Arg2:T150	
+T151	Consequence 13891 13898	so dass
+E42	Consequence:T151 Cause:T149 Effect:T152
+A45	Degree E42 Facilitate
+T152	Argument 13899 13923;13924 13991	diese optische Längsmes- sung von der Latten- oder Kettenmessung nicht iiber 0.20º, abweicht
+T153	Argument 13611 13689;13690 13711	In sehr steilem Terrain mit bedeutenden Hindernissen, z. B. Lagerholz, Felsen, Rutscherte und dergl.
+T154	Motivation 13712 13716;13749 13766	darf angewendet werden
+E43	Motivation:T154 Cause:T153 Effect:T150
+A46	Degree E43 Facilitate
+T155	Consequence 14073 14090	nicht unterlaufen
+E44	Consequence:T155 Trigger:T156 Cause:T157 Effect:T158
+A47	Degree E44 Inhibit
+T156	Argument 14012 14015	bei
+T157	Argument 14016 14046	der unmittelbaren Längsmessung
+T158	Argument 14048 14057;14058 14072	in grober Messungsfehler
+T159	Purpose 13993 14005	Zur Controle
+E45	Purpose:T159 Cause:T160 Effect:T161
+A48	Degree E45 Facilitate
+T160	Argument 14007 14057;14058 14095	dass bei der unmittelbaren Längsmessung ein grober Messungsfehler nicht unterlaufen ist,
+T161	Argument 14096 14134;14135 14190	sind die Distanzen bei der Winkelbeob- achtung stets auch mittelst Distanzmesser zu bestimmen.
+T162	Argument 14101 14134;14135 14142	die Distanzen bei der Winkelbeob- achtung
+T163	Argument 14143 14176	stets auch mittelst Distanzmesser
+T164	Purpose 14096 14100;14177 14189	sind zu bestimmen
+E46	Purpose:T164 Cause:T162 Effect:T163
+A49	Degree E46 Facilitate
+T165	Argument 14276 14301;14302 14346	mit Ausnahme jener Fälle, wo das optische Distanzmessen gestattet ist,
+T166	Argument 14235 14261	Berechnung der Coordinaten
+T168	Argument 14357 14386	aus der unmittelbaren Messung
+T169	Argument 14404 14410	Längen
+T170	Consequence 14387 14403	hervorgegangenen
+E47	Consequence:T170 Effect:T169 Cause:T168
+A50	Degree E47 Facilitate
+T167	Purpose 14231 14234	Zur
+E48	Purpose:T167 Cause:T166 Effect:T171
+A51	Degree E48 Facilitate
+T171	Argument 14262 14275;14347 14386;14387 14419	werden jedoch stets die aus der unmittelbaren Messung hervorgegangenen Längen benitzt.
+T172	Argument 14458 14488;14489 14564	die Berechnung der Coordinaten von allen in der Natur durch Steine, Holzsäulen 11. dgl. markirten Punkten.
+T173	Argument 14433 14453	der Theodolitmessung
+T174	Purpose 14420 14432;14454 14457	Der Endzweck ist
+E49	Purpose:T174 Cause:T172 Effect:T173
+A52	Degree E49 Facilitate
+T175	Argument 15344 15364	des Grenzprotokolles
+T176	Argument 15365 15383;15384 15420	die Entfernung der Grenzsteine untereinander zii messen
+T177	Consequence 15338 15343	wegen
+E50	Consequence:T177 Cause:T175 Effect:T176
+A53	Degree E50 Facilitate
+T178	Purpose 15748 15751	Zur
+E51	Purpose:T178 Cause:T179 Effect:T180
+A54	Degree E51 Facilitate
+T179	Argument 15752 15778	Berechnung der Coordinaten
+T180	Argument 15779 15804	ist Formular zu verwenden
+T181	Purpose 14565 14567;14575 14581	Zu Behufe
+E52	Purpose:T181 Cause:T182 Effect:T183
+A55	Degree E52 Facilitate
+T182	Argument 14568 14574	diesem
+T183	Argument 14582 14637;14638 14715;14716 14792;14793 14863;14864 14940;14941 15021;15022 15077	brauchen jedoch nicht alle Grenz- und Sicherheitssteine mit dem Theodolit unmittelbar aufgenommen zu werden, sondern es genügt, längs der Eigenthumsgrenze und möglichst nahe derselben ein Hilfspolygon zu legen, nur dieses direct mit dem Theodolit aufzunehmen und die überspringenen Grenzsteine entweder durch „Rayonniren und Messen“ oder durch senkrechte auf die Hilfspolygonsciten mit dem Winkelspiegel oder mit der Winkeltrommel gefällte jedoch nicht über 10 Meter lange Abstände zu bestimmen.
+R4	Coref Arg1:T182 Arg2:T172	
+T184	Consequence 15216 15218	so
+E53	Consequence:T184 Cause:T186 Effect:T185
+A56	Degree E53 Facilitate
+T185	Argument 15219 15223;15224 15300;15301 15310	sind dennoch I'mfangsseiten von weniger als 20 Meter in den Polygonzug nicht auf- zunehmen.
+T186	Argument 15144 15147;15148 15214	ein llilfspolygon nalie und längs der Grenze nicht gezogen werden kann
+T187	Argument 15078 15130	Ist das Terrain und die Culturgattung der Grenzlinie
+T188	Consequence 15131 15143	derart, dass
+E54	Consequence:T188 Cause:T187 Effect:T186
+A57	Degree E54 Facilitate
+T189	Consequence 16121 16137	das ist dort, wo
+E55	Consequence:T189 Cause:T191 Effect:T190
+A58	Degree E55 Facilitate
+T190	Argument 16092 16119	dem reinen Polygonverfahren
+T191	Argument 16138 16150;16151 16228;16229 16256	die Polygon- züge an trigonometrische Punkte nicht angeschlossen werden können und in sich selbst zurückkehren müssen,
+T192	Purpose 16080 16082;16326 16337	Um zu erhalten
+E56	Purpose:T192 Cause:T197 Effect:T193
+A59	Degree E56 Facilitate
+T193	Argument 16339 16383;16384 16464;16465 16544;16545 16561	ist das erste Azimuth entweder durch directe Bestimmung der wahren Mittagslinie oder derart zu ermitteln, dass zur Abweichung der bezüglichen Polygonseite vom magnetischen Meridian die örtliche Declination subtrahirt wird.
+T194	Consequence 16984 16988	wenn
+E57	Consequence:T194 Cause:T195 Effect:T196
+A60	Degree E57 Facilitate
+T195	Argument 16989 17018;17019 17065	eine Controlsmessung das Vor- bandensein eines Messungsfehlers ausschliesst.
+T196	Argument 16900 16940;16941 16983	darf noch ein Fehler in den Coordinaten- differenzen von 0.30, ausgeglichen werden,
+T197	Argument 16257 16307;16308 16325	für alle Polygone eine nahezu gleichmässige Orien- tirung der Karten
+T198	Consequence 17289 17291	so
+E58	Consequence:T198 Cause:T199 Effect:T203
+A61	Degree E58 Facilitate
+T199	Argument 17183 17254;17255 17287	Erfolgte die Aufnahme der im Polygonzuye nicht einbezogenen Grenzsteine mittelst „Rayonniren und Messen“
+T200	Argument 17192 17254	die Aufnahme der im Polygonzuye nicht einbezogenen Grenzsteine
+T201	Argument 17265 17287	Rayonniren und Messen“
+T202	Purpose 17255 17263	mittelst
+E59	Purpose:T202 Cause:T200 Effect:T199
+A62	Degree E59 Facilitate
+T203	Argument 17292 17333;17334 17369	hat die Ermittlung der Coordinaten dieser Punkte trigonometrisch zu geschehen
+T204	Argument 17371 17439;17440 17481	Wurden die übersprungenen Punkte mittelst senkrechter auf die Haupt- polygonseite gefällter Abstände bestimmt,
+T205	Consequence 17482 17484	so
+E60	Consequence:T205 Cause:T204 Effect:T206
+A63	Degree E60 Facilitate
+T206	Argument 17485 17519;17520 17595	sind die Coordinaten dieser Grenz- punkte entweder rechnungsmässig oder durch folgendes Verfahren zu ermitteln
+T207	Argument 17378 17403	die übersprungenen Punkte
+T208	Purpose 17472 17480	bestimmt
+E61	Purpose:T208 Effect:T210 Trigger:T209 Cause:T207
+A64	Degree E61 Facilitate
+T209	Argument 17404 17412	mittelst
+T210	Argument 17413 17439;17440 17471	senkrechter auf die Haupt- polygonseite gefällter Abstände
+T211	Argument 17490 17519;17520 17526	die Coordinaten dieser Grenz- punkte
+T212	Purpose 17485 17489;17583 17595	sind zu ermitteln
+E62	Purpose:T212 Cause:T211 Effect:T213
+A65	Degree E62 Facilitate
+T213	Argument 17527 17582	entweder rechnungsmässig oder durch folgendes Verfahren
+T214	Note 18054 18072	Aufnahme der räum-
+#14	AnnotatorNotes T214	Artefakt
+T215	Note 18073 18095	lichen Eintheilung mit
+#15	AnnotatorNotes T215	Artefakt
+T216	Note 18173 18187	dem Theodolit.
+#16	AnnotatorNotes T216	Artefakt
+T217	Consequence 18051 18053	so
+E63	Consequence:T217 Cause:T218 Effect:T219
+A66	Degree E63 Facilitate
+T218	Argument 17983 18049	Wurde die Aufnahme der Eigenthumsgrenzen mit dem Theodolit bewirkt
+T219	Argument 18096 18172;18188 18196	hat die Vermessung der räumlichen Eintheilung ebenfalls mit dem Theodolit zu erfolgen
+T220	Purpose 18208 18221	wird bezweckt
+E64	Purpose:T220 Cause:T222 Effect:T221
+A67	Degree E64 Facilitate
+T221	Argument 18203 18207	hier
+T222	Argument 18224 18264;18265 18314	on jedem Sicherheitstein die senkrechten Abstände zum allgemeinen Arensystein zu bestimmen
+R5	Coref Arg1:T221 Arg2:T219	
+T223	Argument 18316 18385;18386 18437	Wurden die Linien der räumlichen Eintheilung mit Sorgfalt, das heisst unter Benutzung eines Messinstrumentes, festgelegt,
+T224	Consequence 18438 18440	so
+E65	Consequence:T224 Cause:T223 Effect:T225
+A68	Degree E65 Facilitate
+T225	Argument 18441 18462;18463 18535;18536 18598	sind dadurch auch die Daten gegeben, um die Linien der räumlichen Eintheilung zu Polygonziigen zusammenzustellen und die ('oordinaten nach $. 3 zu berechnen.
+T226	Consequence 18375 18385	das heisst
+E66	Consequence:T226 Cause:T227 Effect:T228
+A69	Degree E66 Facilitate
+T227	Argument 18361 18373	mit Sorgfalt
+T228	Argument 18386 18425	unter Benutzung eines Messinstrumentes,
+A70	Correlation E66
+T229	Motivation 18478 18480	um
+E67	Motivation:T229 Effect:T230 Cause:T231
+A71	Degree E67 Facilitate
+T230	Argument 18481 18535;18536 18598	die Linien der räumlichen Eintheilung zu Polygonziigen zusammenzustellen und die ('oordinaten nach $. 3 zu berechnen.
+T231	Argument 18463 18468	Daten
+T232	Note 19063 19081	Aufnahme der Eigen
+#17	AnnotatorNotes T232	Artefakt
+T233	Note 19154 19174	thumsgrenzen und der
+#18	AnnotatorNotes T233	Artefakt
+T234	Note 19249 19270	Linien der räumlichen
+#19	AnnotatorNotes T234	Artefakt
+T235	Note 19350 19369	Eintheilung mit dem
+#20	AnnotatorNotes T235	Artefakt
+T236	Argument 19423 19432	Messtisch
+#21	AnnotatorNotes T236	Artefakt
+T237	Purpose 19184 19192	mittelst
+E68	Purpose:T237 Cause:T239 Effect:T238
+A72	Degree E68 Facilitate
+T238	Argument 19193 19208	des Messtisches
+T239	Argument 19082 19153;19175 19183	Die Vermessung der Eigenthumsgrenzen und der Linien der räumlichen Ein- theilung
+T240	Motivation 19209 19213;19271 19280	wird gestattet
+E69	Motivation:T240 Trigger:T241 Cause:T242 Effect:T239
+A73	Degree E69 Facilitate
+T241	Argument 19282 19286	wenn
+T242	Argument 19287 19349;19370 19421	das Terrain so beschaffen ist, dass die Aufnahme in der Haupt- Sache durch „Rayonniren und Schneiden“ erfolgen kam
+T243	Argument 19323 19335	die Aufnahme
+T244	Argument 19376 19381	durch
+T245	Argument 19383 19407	Rayonniren und Schneiden
+T246	Purpose 19409 19417	erfolgen
+E70	Purpose:T246 Cause:T243 Effect:T245 Trigger:T244
+A74	Degree E70 Facilitate
+T247	Consequence 20279 20283	nach
+E71	Consequence:T247 Cause:T248 Effect:T249
+A75	Degree E71 Facilitate
+T248	Argument 20258 20278	ihrer Beschaffenheit
+T249	Argument 20284 20291	dauernd
+T250	Consequence 20619 20623	Wenn
+E72	Consequence:T250 Cause:T251 Cause2:T252
+A76	Degree E72 Facilitate
+T251	Argument 20624 20687;20688 20767	die Aufnahme des forstlichen Details nicht gleichzeitig mit der Aufnahme (ler Eigenthumsgrenzen und Linien (ler räumlichen Eintheilung erfolgte
+T252	Argument 20849 20929;20930 20968	ist dasselbe in allen übrigen Fällen mit Fernrohr-Boussolen, welche zum Distanz- messen eingerichtet sind, zu vermessen
+T253	Argument 21079 21091	die Aufnahme
+T254	Argument 21099 21123	Rayonniren und Schneiden
+T255	Purpose 21092 21097	durch
+E73	Purpose:T255 Effect:T254 Cause:T253
+A77	Degree E73 Facilitate
+T256	Consequence 21076 21078	wo
+E74	Consequence:T256 Cause:T258 Effect:T257
+A78	Degree E74 Facilitate
+T257	Argument 21021 21074	Das Detaillirbrettchen darf nur dort verwendet werden
+T258	Argument 21079 21091;21092 21138	die Aufnahme durch „Rayonniren und Schneiden“ erfolgen kann
+T259	Motivation 21402 21420	ist verantwortlich
+E75	Motivation:T259 Actor:T261 Effect:T260
+A79	Degree E75 Facilitate
+T260	Argument 21422 21472;21473 21511	dass die Verbindung dieser Endpunkte auch im Walde selbst leicht kenntlich gemacht werde.
+T261	Argument 21246 21313;21314 21394;21395 21401	Der Beamte, welcher Bestandesausscheidungen mit dem Messtisch durch Rayonniren und Schneiden“, das heisst bloss die Endpunkte der Linien direct auf- nimmt,
+T262	Argument 21266 21307	Bestandesausscheidungen mit dem Messtisch
+T263	Purpose 21308 21313	durch
+E76	Purpose:T263 Cause:T262 Effect:T264
+A80	Degree E76 Facilitate
+T264	Argument 21314 21339	Rayonniren und Schneiden“
+T265	Consequence 21341 21351	das heisst
+E77	Consequence:T265 Cause:T264 Effect:T266
+A81	Degree E77 Facilitate
+A82	Correlation E77
+T266	Argument 21352 21394;21395 21400	bloss die Endpunkte der Linien direct auf- nimmt
+T267	Consequence 21579 21581	wo
+E78	Consequence:T267 Cause:T268 Effect:T269
+A83	Degree E78 Facilitate
+T268	Argument 21582 21590;21591 21666	die Ter- rainautnahme durch das k, k, militär-geographische Institut schon erfolgte,
+T269	Argument 21667 21674;21675 21753	bei den Forstvermessungen von einer ganz neuen Verticalaufnahme abgesehen werden kann.
+T270	Consequence 21990 21997	zulässt
+E79	Consequence:T270 Cause:T271 Effect:T272
+A84	Degree E79 Facilitate
+T271	Argument 21940 21952;21953 21989	der grössere Verjiingungsmassstab der Forstkarten
+T272	Argument 21832 21874;21875 21933	dass die Schichtenpläne des k. k. militär- geographischen Institutes vielfach vervollständigt werden,
+T273	Consequence 22011 22025;22026 22031	wünschenswerth macht
+E80	Consequence:T273 Cause:T271 Effect:T272
+A85	Degree E80 Facilitate
+T274	Consequence 22134 22138	weil
+E81	Consequence:T274 Effect:T279 Cause:T275
+A86	Degree E81 Facilitate
+T275	Argument 22139 22188;22189 22209	dieselben in der Regel die Richtung des stärksten Gefälles bezeichnen,
+T276	Consequence 22276 22289	Einfluss üben
+E82	Consequence:T276 Trigger:T277 Effect:T278 Cause:T275
+A87	Degree E82 Facilitate
+T277	Argument 22210 22215	daher
+T278	Argument 22216 22267;22268 22275	auf den Verlauf der Schichtenlinien (Jsohypsen) den meisten
+T279	Argument 22034 22113;22114 22132	lierbei ist hauptsächlich für die Sicherheitssteine der Schneissen die absolute Hlöle zu bestimmen
+T280	Consequence 22632 22634	so
+E83	Consequence:T280 Cause:T282 Effect:T281
+A88	Degree E83 Facilitate
+T281	Argument 22635 22668;22669 22735	kann die Höhenbestimmung entweder trigonometrisch oder mittelst Aneroid barometer vorgenommen werden
+T282	Argument 22291 22358;22359 22434;22435 22513;22514 22591;22592 22630	Werden nicht besondere Zwecke verfolgt, wie: der Entwurf cines Ent- wässerungs- und Wegbauplanes oder sonstiger Bringungsanstalten, welche eine genanere Terrainaufnahme erfordern, die dann am zweckmässigsten durch Nivelle- ment hergestellt wird, sondern nur die Terraindarstellung behufs Schlaganlage und Entwurf der räumlichen Eintheilung
+T283	Consequence 22460 22469	erfordern
+E84	Consequence:T283 Cause:T285 Effect:T284
+A89	Degree E84 Facilitate
+T284	Argument 22430 22434;22435 22459	eine genanere Terrainaufnahme
+T285	Argument 22393 22429	sonstiger Bringungsanstalten, welche
+T286	Purpose 22519 22535	hergestellt wird
+E85	Purpose:T286 Trigger:T287 Cause:T284 Effect:T288
+A90	Degree E85 Facilitate
+T287	Argument 22499 22504	durch
+T288	Argument 22505 22513;22514 22518	Nivelle- ment
+T289	Purpose 22572 22578	behufs
+E86	Purpose:T289 Effect:T291 Cause:T290
+A91	Degree E86 Facilitate
+T290	Argument 22579 22591;22592 22631	Schlaganlage und Entwurf der räumlichen Eintheilung,
+T291	Argument 22549 22571	die Terraindarstellung
+T292	Consequence 22964 22971	das ist
+E87	Consequence:T292 Cause:T293 Effect:T294
+A92	Degree E87 Facilitate
+T293	Argument 22946 22955;22956 22963	Leinwand- papier,
+T294	Argument 22972 23002	Poststoff auf Leinwand gezogen
+T295	Consequence 23077 23083;23102 23107	dürfen nicht
+E88	Consequence:T295 Trigger:T296 Cause:T297 Effect:T298
+A93	Degree E88 Inhibit
+T296	Argument 23018 23025	Während
+T297	Argument 23026 23076	des Zeichnens der Auftrags- und Wirthschaftskarten
+T298	Argument 23088 23101;23108 23121	Kartenblätter gespannt sein
+T299	Consequence 23692 23694	so
+E89	Consequence:T299 Cause:T300 Effect:T301
+A94	Degree E89 Facilitate
+T300	Argument 23628 23691	Wird die Forstvermessung an die Landesvermessung angeschlossen,
+T301	Argument 23695 23698;23699 23777;23778 23857;23858 23889	ist zur ('ontrolirung der Flächengrössen und des l'apiereinganges in der Aufnahms, respective Auftragskarte ein Quadratnetz von je 1 Hektar oder höchstens 250.000 Quadratmeter roth einzuzeichnen
+T302	Argument 23703 23777;23778 23802	('ontrolirung der Flächengrössen und des l'apiereinganges in der Aufnahms, respective Auftragskarte
+T303	Argument 23803 23857;23858 23889	ein Quadratnetz von je 1 Hektar oder höchstens 250.000 Quadratmeter roth einzuzeichnen
+T304	Purpose 23699 23702	zur
+E90	Purpose:T304 Cause:T302 Effect:T303
+A95	Degree E90 Facilitate
+T305	Argument 23895 23958;23959 23990	Vergleichung der Neumessung mit dem Ergebnisse der Grundsteuer- regulirung und deren Vermessung
+T306	Argument 23991 24036;24037 24048	sind die Katastralsectionen mit blauen Linien cinzutragen
+T307	Purpose 23891 23894	Zur
+E91	Purpose:T307 Cause:T305 Effect:T306
+A96	Degree E91 Facilitate
+T308	Argument 24200 24204;24205 24281;24282 24295	ent- weder der fliegende Nonius, oder das Fusslin eal um die örtliche Declination gedreht wird.
+T309	Argument 24102 24125;24130 24149	iler Boussolenaufnahmen mit dem Tachygraplı
+T310	Motivation 24126 24129;24174 24199	hat derart zu geschehen, dass
+E92	Motivation:T310 Cause:T309 Effect:T308
+A97	Degree E92 Facilitate
+T311	Purpose 24420 24423;24496 24507	hat zu erfolgen
+E93	Purpose:T311 Cause:T313 Effect:T312
+A98	Degree E93 Facilitate
+T313	Argument 24296 24363;24364 24419	Die Uebertragung der Isohypsen aus den photographischen ('opien der Generalstabskarten in die Aufnahms- oder Auftragskarten
+T312	Argument 24424 24442;24443 24495	mit dem Pantograph und unter Zugrundelegung des Katastralsectionsnetzes
+T314	Consequence 24830 24832	so
+E94	Consequence:T314 Cause:T315 Effect:T316
+A99	Degree E94 Facilitate
+T315	Argument 24791 24828	Geschieht diess im gleichen Massstabe
+T316	Argument 24834 24856;24857 24875	rfolgt das Uebertragen durch Durchpikiren
+T317	Argument 24877 24907	ist der Massstab ein kleinerer
+T318	Argument 24912 24931;24932 24947	darf der Pantograph benutzt werden.
+T319	Consequence 24909 24911	so
+E95	Consequence:T319 Cause:T317 Effect:T318
+A100	Degree E95 Facilitate
+T320	Purpose 24833 24840	erfolgt
+E96	Purpose:T320 Cause:T321 Trigger:T322 Effect:T323
+A101	Degree E96 Facilitate
+T321	Argument 24841 24856	das Uebertragen
+T322	Argument 24857 24862	durch
+T323	Argument 24863 24875	Durchpikiren
+T324	Consequence 25063 25069	Sobald
+E97	Consequence:T324 Cause:T325 Effect:T326
+A102	Degree E97 Facilitate
+T325	Argument 25070 25078;25079 25118	die Auf- nahms- und Auftragskarten beendet sind,
+T326	Argument 25119 25157;25158 25231;25232 25301	ist mit dem Pantograph das Gerippe der Bestandeskarte auf echtem (nicht fetten) Strohpapier herzustellen und dem Ackerbauministerium zur lithographischen Vervielfältigung einzusenden
+A103	Temporal E97
+T327	Argument 25602 25661;25662 25684	Darstellung grosser zusammenhängender Flächen von unproduc- tivem oder Alpenlande,
+T328	Argument 25685 25713	Karten im Massstabe 1:10.000
+T329	Purpose 25598 25601	zur
+E98	Purpose:T329 Cause:T327 Effect:T328
+A104	Degree E98 Facilitate
+T331	Argument 25762 25788;25789 25800	des leichteren Vergleiches der Flächen
+T332	Argument 25801 25836	nur ein Massstab, und zwar 1:20.000
+T333	Motivation 25751 25755;25837 25845	wird bestimmt
+E100	Motivation:T333 Affected:T334 Trigger:T330 Cause:T331 Effect:T332
+A106	Degree E100 Facilitate
+T334	Argument 25731 25750	Für Bestandeskarten
+T330	Argument 25756 25761	wegen
+T335	Note 25989 26010	Vervielfältigung, Evi
+#22	AnnotatorNotes T335	Artefakt
+T336	Note 26073 26093	denzhaltung und Auf-
+#23	AnnotatorNotes T336	Artefakt
+T337	Note 26172 26192	bewahrung der Karten
+#24	AnnotatorNotes T337	Artefakt
+T338	Note 26227 26243	und Vermessungs•
+#25	AnnotatorNotes T338	Artefakt
+T339	Note 26315 26320	werke
+#26	AnnotatorNotes T339	Artefakt
+T340	Argument 26367 26397;26398 26416	Umgestaltungen in den Punkten, Linien und Flächen
+T341	Consequence 26424 26436	in Folge von
+E99	Consequence:T341 Cause:T342 Effect:T340
+A105	Degree E99 Facilitate
+T342	Argument 26437 26475;26476 26486	Grenzregulirungen, Grundtausch nnd Ab- tretungen,
+T343	Argument 26916 26934	vom Forstverwalter
+T344	Argument 26945 26961	genauer Aufnahme
+T345	Argument 26962 27005;27006 27014	unverzüglich in die Wirthschaftskarten ein- zutragen
+T346	Motivation 26935 26938;26939 26944	auf Grund
+E101	Motivation:T346 Actor:T343 Cause:T344 Effect:T345 Affected:T347
+A107	Degree E101 Facilitate
+T347	Argument 26785 26856;26857 26910	Sämmtliche Veränderungen an Punkten, Linien, Flächen, Bestandesfiguren, ferner die jährlichen Schlag- und Aufforstungsflächen
+T348	Purpose 27255 27258	Zur
+E102	Purpose:T348 Cause:T349 Effect:T350
+A108	Degree E102 Facilitate
+T349	Argument 27259 27296	Vermeidung weitläufiger Schreibereien
+T350	Argument 27297 27329;27330 27342	sind derlei Skizzen ohne Bericht einzusenden,
+T351	Consequence 28011 28019;28079 28083	nur dann wenn
+E103	Consequence:T351 Effect:T352 Cause:T353
+A109	Degree E103 Facilitate
+T352	Argument 27992 28010;28020 28064;28065 28077	Generalkarten sind zusammenzustellen und lithographisch zu ver- vielfältigen
+T353	Argument 28084 28145;28146 28225;28226 28304;28305 28327	ein Directionsbezirk, eine sogenannte Staatxilomäne oder doch mindestens mehrere Wirthschaftsbezirke im Massstabe 1:75,000 und in der natiir- lichen Lage der einzelnen Waldcomplexe auf ein Kartenblatt von bequemen Format gebracht werden können
+T354	Motivation 28357 28366	auf Grund
+E104	Motivation:T354 Affected:T357 Cause:T355 Effect:T356
+A110	Degree E104 Facilitate
+T355	Argument 28367 28406;28407 28434	der im gleichen Maxxstabe angefertigten neuesten Generalstabskarten
+T356	Argument 28435 28485;28486 28506	hauptsächlich die Topografie der ganzen Gegend zur Ausdrucke zu bringen
+T357	Argument 28329 28352	In diesen Generalkarten
+T358	Argument 28534 28537;28538 28558	Bei der Theodolitmessung
+T359	Argument 28636 28639	aus
+T360	Argument 28697 28706	mit Hilfe
+T361	Purpose 28559 28563;28752 28761	wird ermittelt
+E105	Purpose:T361 Trigger:T359 Effect:T365 Cause:T364 Controlling:T358 Controlling2:T363 Trigger2:T360 Effect2:T362
+A111	Degree E105 Facilitate
+T362	Argument 28707 28751	des Hektarnetzex, des Maxxstabes und Zirkels
+T363	Argument 28671 28674;28675 28678;28679 28696	bei der Messtischaufnahme
+T364	Argument 28564 28601;28602 28635	die Gesammtfläche eines Wirthschafts- bezirkes oder grösseren Complexes
+T365	Argument 28640 28668	len berechneten Coordinaten,
+T366	Purpose 28763 28766;28809 28814	Zur dient
+E106	Purpose:T366 Cause:T367 Effect:T368
+A112	Degree E106 Facilitate
+T367	Argument 28767 28808	Berechnung der Fläche aus den Coordinaten
+T368	Argument 28815 28829	das Formular 7
+T369	Consequence 29192 29194	so
+E107	Consequence:T369 Cause:T370 Effect:T371
+A113	Degree E107 Facilitate
+T370	Argument 29110 29183;29184 29191	Wurden bei einer Forstvermessung die I'mfänge aus der Katastralkarte ent- nommen,
+T371	Argument 29195 29260	ist als Gesammtfläche die Angabe der Landesvermessung zu benutzen
+T372	Note 29262 29271	Bemerkung
+#27	AnnotatorNotes T372	Artefakt
+T373	Consequence 28979 28983	wenn
+E108	Consequence:T373 Cause:T375 Effect:T374
+A114	Degree E108 Facilitate
+T374	Argument 28984 29062;29063 29108	die Summe der planimetrirten Fläche von der trigonometrisch ermittelten Fläche nicht mehr als 0.25%;, abweichit (Formular 8)
+T375	Argument 28831 28904;28905 28978	Die Flächen der Bestandesabtheilungen werden mit dem Amsler'schen l'olar- planimeter bestimmt und auf die (iesammtfläche proportional ausgeglichen,
+T376	Argument 34138 34176	Das Messmanual ist derart einzurichten
+T377	Consequence 34196 34200	dass
+E109	Consequence:T377 Cause:T376 Effect:T378
+A115	Degree E109 Facilitate
+T378	Argument 34201 34240;34241 34254	auf 2 Seiten Drucksorte 2 Seiten leeres Papier folgen
+T379	Purpose 34288 34294	dienen
+E110	Purpose:T379 Cause:T381 Trigger:T380 Effect:T382
+A116	Degree E110 Facilitate
+T380	Argument 34263 34266	zur
+T381	Argument 34267 34287	Aufnahme der Skizzen
+T382	Argument 34225 34240;34241 34247	2 Seiten leeres Papier
+T383	Consequence 4468 4472	dass
+E111	Consequence:T383 Cause:T384 Effect:T43
+A117	Degree E111 Facilitate
+T384	Argument 4366 4442;4443 4467	Die Entfernung, in welcher die Sicherheitssteine zu setzen sind, muss in der Regel so gewählt werden,
+T53	Argument 5117 5199;5200 5213	falls sich dieselben in der Nähe finden und durch entsprechende Arbeit zugerichtet werden können
+T54	Argument 5067 5115	in der Reyel unbehauene, sogenannte wilde Steine
+T385	Consequence 5728 5735	je nach
+E112	Consequence:T385 Affected:T387 Cause:T386 Effect:T388
+A118	Degree E112 Facilitate
+T386	Argument 5736 5766	der Lage der Eintheilungslinie
+T387	Argument 5706 5722	Die Nummernfolge
+T388	Argument 5768 5776;5777 5817	entweder von Nord nach Süd oder von West nach Ost
+T389	Argument 6533 6536;6537 6611;6612 6680	die Winkel mittelst des Theodoliten gemessen und die Längen der Dreieckseiten, sowie die Coordinaten der Netzpunkte durch Rechnung bestimmt werden,
+T390	Consequence 6745 6748;6749 6753;6784 6788	nur damn wenn
+E113	Consequence:T390 Effect:T393 Cause:T391 Affected:T392
+A119	Degree E113 Facilitate
+T391	Argument 6789 6823;6824 6857	die Aufnahme der Eigenthumsgrenzen mit dem Messtische erfolgen soll.
+T392	Argument 6681 6737	Vermessungsnetze mit Dreieckseiten mter 1000 Meter Länge
+T393	Argument 6738 6744;6754 6782	dürfen grapbisch aufgenommen werden

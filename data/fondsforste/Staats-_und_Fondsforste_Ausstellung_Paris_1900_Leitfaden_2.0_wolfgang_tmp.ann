@@ -1,0 +1,583 @@
+T1	Consequence 577 584	erweckt
+E1	Consequence:T1 Effect:T3 Cause:T2
+A1	Degree E1 Facilitate
+T2	Argument 535 551	Mannigfaltigkeit
+T3	Argument 567 576	Interesse
+T4	Argument 530 534	ihre
+R1	Coref Arg1:T2 Arg2:T4	
+T5	Argument 376 389	unsere Forste
+R2	Coref Arg1:T5 Arg2:T4	
+T9	Motivation 914 936	nicht aufkommen lassen
+E2	Motivation:T9 Effect:T12 Cause:T11 Cause2:T10 Affected:T13
+A2	Degree E2 Inhibit
+T10	Argument 771 823	die unter der Ungunst bestehender Rechtsverhältnisse
+T11	Argument 825 875	unter dem Einflusse ihrer Belastung mit Servituten
+T12	Argument 877 913	eine freie Entfaltung der Wirtschaft
+T13	Argument 763 769	solche
+T15	Motivation 1499 1504	lockt
+E3	Motivation:T15 Actor:T16 Cause:T19 Effect:T21
+A3	Degree E3 Facilitate
+T16	Argument 1373 1394	der beherzte Weidmann
+T17	Argument 1404 1422	die Spur des Bären
+T20	Motivation 1489 1497	verfolgt
+E4	Motivation:T20 Cause:T18 Cause2:T17 Actor:T16
+T18	Argument 1424 1488	die Fährte des Wildschweines und des mächtigen Karpathenhirsches
+T19	Argument 1522 1541	die flüchtige Gemse
+T21	Argument 1542 1565	in unwirtliches Gefelse
+T22	Argument 1567 1597	das Geröhre des Brunfthirsches
+T23	Argument 1603 1632	der Balzgesang des Auerhahnes
+T24	Argument 1633 1653	in den dunklen Forst
+E5	Motivation:T15 Effect:T24 Cause:T22 Cause2:T23
+A4	Degree E5 Facilitate
+A5	Degree E4 Facilitate
+T25	Consequence 1738 1747	begründet
+E6	Consequence:T25 Cause:T26 Effect:T27 Affected:T28
+A6	Degree E6 Facilitate
+T26	Argument 1655 1689	In diesem Wechsel der Verhältnisse
+T27	Argument 1690 1722	sind mannigfache Schwierigkeiten
+T28	Argument 1723 1737	der Wirtschaft
+T29	Motivation 1767 1774	stärken
+E7	Motivation:T29 Affected:T33 Cause:T31 Effect:T32 Effect2:T34
+A7	Degree E7 Facilitate
+T30	Motivation 1812 1818;1836 1839	bilden aus
+E8	Motivation:T30 Affected:T33 Cause:T31 Effect:T34
+A8	Degree E8 Facilitate
+T31	Argument 1749 1766	Allein eben diese
+R8	Coref Arg1:T31 Arg2:T26	
+T32	Argument 1775 1788	die Thatkraft
+T33	Argument 1789 1810	des Berufsforstwirtes
+T34	Argument 1840 1887	und erwecken und erhalten seine Liebe zum Walde
+T35	Argument 2302 2346	trat eine Verminderung des Besitzstandes ein
+T36	Argument 2348 2354	welche
+R9	Coref Arg1:T36 Arg2:T35	
+T37	Argument 2360 2425	nach der durchgreifenden Reorganisation der Staatsgüterverwaltung
+T38	Consequence 2440 2463	zum Stillstande gelangt
+E9	Consequence:T38 Cause:T37 Affected:T35
+A9	Degree E9 Inhibit
+A10	Temporal E9
+T39	Argument 2506 2562	einerseits in den finanziellen Verhältnissen des Staates
+T40	Argument 2564 2638;2650 2758	anderseits in der ehemals viel allgemeineren mercantilistischen Anschauung dass dem Staate die Eignung, große Ländereien entsprechend zu bewirtschaften und zu verwalten, nicht zukomme
+T41	Consequence 2469 2505;2639 2648	Die Ursachen dieser Erscheinung sind zu suchen
+E10	Consequence:T41 Cause:T39 Cause2:T40
+A11	Degree E10 Facilitate
+T42	Consequence 2943 2963	brachten es mit sich
+E11	Consequence:T42 Effect:T43 Cause:T44 Cause2:T45 Cause3:T46
+A12	Degree E11 Facilitate
+T43	Argument 2965 3054	dass solche Objecte entweder gar keinen oder doch nur einen sehr geringen Ertrag abwarfen
+T44	Argument 2826 2872	Die drückende Last ungeregelter Waldservituten
+T45	Argument 2874 2904	die Entlegenheit vieler Forste
+T46	Argument 2905 2942	und der Mangel an Transportsanstalten
+T47	Consequence 3078 3084	gewann
+E12	Consequence:T47 Cause:T48 Affected:T49 Effect:T50
+A13	Degree E12 Facilitate
+T48	Argument 3055 3077	Unter diesen Umständen
+T49	Argument 3085 3124	das Bestreben, Staatsgüter zu veräußern
+T50	Argument 3126 3185	den Anschein einer gewissen Berechtigung und Zweckmäßigkeit
+T51	Consequence 3334 3340	worauf
+E13	Consequence:T51 Effect:T52 Cause:T53
+A14	Degree E13 Facilitate
+T52	Argument 3341 3470	im Jahre 1855 etwa 660.000 ha im Werte von 156,6 Millionen Gulden pfandweise an die österreichische Nationalbank übergeben wurden
+T53	Argument 3187 3270;3313 3332	Bis zu den Fünfziger-Jahren war das Flächenmaß der Staatsgüter bis auf 1,725.000 ha zusammengeschmolzen
+T54	Argument 3664 3735	Indessen war auch eine nicht unbedeutende Fläche an Wald- und Weideland
+T55	Consequence 3736 3766;3787 3808	im Wege der Servitutenablösung zur Abtretung gelangt
+E14	Consequence:T55 Affected:T56 Effect:T57 Cause:T54
+A15	Degree E14 Facilitate
+T56	Argument 3767 3786	an die Berechtigten
+T57	Argument 3810 4039	so dass im Jahre 1873 nur mehr 1,020.003 ha an Staatsforsten und Domänen und 341.059 ha an Fondsforsten und Domänen, zusammen 1,361.055 ha oder 45 Procent der Landesfläche im Staatsbesitze und in Verwaltung des Staates verblieben
+T58	Argument 4072 4113	änderten sich die Verhältnisse wesentlich
+T59	Consequence 4115 4117;4245 4275	da die Erkenntnis Oberhand gewann
+E15	Consequence:T59 Effect:T58 Support:T60 Support2:T61 Cause:T62
+A16	Degree E15 Facilitate
+T60	Argument 4118 4239	unter dem Einflusse der eine nur zu deutliche Sprache führenden rücksichtslosen Ausnützung vieler veräußerter Staatsgüter
+T61	Argument 4277 4358	dass für die Erhaltung des unentbehrlichen Waldminimums nur eine Garantie bestehe
+T62	Argument 4360 4558	Die Vereinigung der größtmöglichsten Waldfläche in Staatsverwaltung und in Händen solcher juristischer Personen, durch deren Beruf und Eigenart die Erhaltung der Waldsubstanz gewährleistet erscheint
+T63	Argument 6750 6808	Die Mehrzahl der Forste gehört denmach dem Gebirgslande an
+T65	Consequence 6900 6910	ausbreiten
+E16	Consequence:T65 Effect:T63 Cause:T66 Trigger:T64
+A17	Degree E16 Facilitate
+T64	Argument 6810 6815	indem
+T66	Argument 6816 6899	sie sich mit mehr als der Hälfte der Gesammtfläche in einer Seehöhe von über 1000 m
+T67	Argument 8010 8053	Was die klimatischen Verhältnisse anbelangt
+T68	Consequence 8192 8207	zuträglich sind
+E17	Consequence:T68 Support:T67 Trigger:T69 Effect:T71
+A18	Degree E17 Facilitate
+T69	Argument 8082 8086	dass
+T70	Argument 8087 8096	dieselben
+R10	Coref Arg1:T70 Arg2:T67	
+T71	Argument 8147 8191	im allgemeinen dem Gedeihen der Holzpflanzen
+T72	Consequence 8228 8240	beeinflussen
+E18	Consequence:T72 Affected:T74 Cause:T76 Cause2:T77 Cause3:T78 Effect:T73 Trigger:T79
+A19	Degree E18 Facilitate
+T73	Argument 8245 8275	gar oft in nachtheiligem Sinne
+T74	Argument 8276 8299	die Wirtschaftsführung,
+T75	Argument 8241 8244	sie
+R11	Coref Arg1:T75 Arg2:T67	
+T76	Argument 8337 8382	der herrschenden niedrigen Jahrestemperaturen
+T77	Argument 8384 8418	der großen Menge der Niederschläge
+T78	Argument 8419 8456	und der Heftigkeit der Windströmungen
+T79	Argument 8329 8336	zufolge
+T80	Argument 8561 8597	der geographischen Lage entsprechend
+T81	Argument 8507 8559;8599 8623	die Jahrestemperatur in den tiefer gelegenen Forsten durchaus milde zu nennen
+T82	Argument 8499 8506	Während
+T83	Consequence 8624 8627	ist
+E19	Consequence:T83 Effect:T81 Cause:T80 Trigger:T82
+A20	Degree E19 Facilitate
+T6	Argument 8812 8835	die Niederschlagsmengen
+T7	Consequence 8946 8957	sie wachsen
+E20	Consequence:T7 Affected:T6 Cause:T8
+A21	Degree E20 Facilitate
+T8	Argument 8958 8973	mit der Seehöhe
+T14	Consequence 8978 8982;9010 9015	üben durch
+E21	Consequence:T14 Cause:T84 Support:T85 Effect:T86
+A22	Degree E21 Facilitate
+T84	Argument 9016 9063	die Vehemenz der niederströmenden Gewitterregen
+T85	Argument 8983 9009	in der wärmeren Jahreszeit
+T86	Argument 9064 9093	oft verheerende Wirkungen aus
+T87	Consequence 9095 9102;9215 9230	während beeinträchtigen
+E22	Consequence:T87 Affected:T90 Cause:T89 Support:T91
+A23	Degree E22 Facilitate
+T88	Argument 9103 9106	sie
+R3	Coref Arg1:T88 Arg2:T6	
+T89	Argument 9130 9195	durch die Mächtigkeit und das lange Liegenbleiben der Schneedecke
+T90	Argument 9196 9214	die Baumvegetation
+T91	Argument 9107 9129	im Winter und Frühjahr
+T92	Consequence 9984 9994	mitbedingt
+E23	Consequence:T92 Effect:T93 Cause:T94 Support:T95
+A24	Degree E23 Facilitate
+T93	Argument 9920 9983	das vorwiegende Vorkommen einer gewissen Baum- und Strauchflora
+T94	Argument 9881 9896	deren Auftreten
+T95	Argument 9816 9827;9848 9879	lassen sich typische Gesteinsarten anführen
+T96	Argument 10773 10866	Die große Manniefaltigkeit der klimatischen, orographischen und petrographischen Verhältnisse
+T97	Consequence 10916 10923	bedingt
+E24	Consequence:T97 Cause:T96 Effect:T98
+A25	Degree E24 Facilitate
+T98	Argument 10924 11054	für die in allen Theilen derselben zerstreuten Staats- und Fondsforste auch einen großen Artenreichthum der Baum- und Strauchflora
+T99	Argument 11346 11356	die Fichte
+T100	Argument 11389 11392	die
+T101	Consequence 11393 11407	sowohl vermöge
+E25	Consequence:T101 Actor:T100 Cause:T102 Cause2:T103 Effect:T104
+A26	Degree E25 Facilitate
+R4	Coref Arg1:T100 Arg2:T99	
+T102	Argument 11408 11441	ihres großen Verbreitungsgebietes
+T103	Argument 11443 11482	als auch der Eigenschaften ihres Holzes
+T104	Argument 11483 11545	unter den Forstgewächsen Österreichs den ersten Platz einnimmt
+T105	Argument 11547 11615	Wenige Ansprüche an eine gewisse Zusammensetzung des Bodens stellend
+T106	Consequence 11617 11624	gedeiht
+E26	Consequence:T106 Cause:T105 Actor:T107 Cause2:T108 Effect:T109
+A27	Degree E26 Facilitate
+T107	Argument 11625 11628	sie
+R5	Coref Arg1:T107 Arg2:T99	
+T108	Argument 11654 11713	wo die Luft den ihr zusagenden Grad an Feuchtigkeit besitzt
+T109	Argument 11629 11652	überall dort vorzüglich
+T110	Argument 12950 12953	ihr
+T111	Argument 12827 12841	Die Weißkiefer
+R6	Coref Arg1:T110 Arg2:T111	
+T112	Consequence 12944 12949	lässt
+E27	Consequence:T112 Cause:T114 Effect:T113
+A28	Degree E27 Facilitate
+T113	Argument 12950 12991	ihr indessen in Mischbeständen gerne Raum
+T114	Argument 12993 13043	da sie als Nutz- und Brennholz sehr geschätzt wird
+T115	Argument 13156 13239	Im Wienerwalde und in den Forsten Dalmatiens nimmt ihre Stelle die Schwarzföhre ein
+T116	Argument 13219 13235	die Schwarzföhre
+T117	Argument 13207 13211	ihre
+R7	Coref Arg1:T117 Arg2:T111	
+T118	Consequence 13253 13258	wegen
+E28	Consequence:T118 Actor:T116 Effect:T115 Effect2:T121 Cause:T119 Cause2:T120
+A29	Degree E28 Facilitate
+T119	Argument 13259 13280	der Güte ihres Holzes
+T120	Argument 13281 13344	und der Eigenschaft, sich nicht sobald wie diese lichtzustellen
+T121	Argument 13241 13252;13346 13364	welche hier gerne gesehen ist.
+T122	Consequence 13423 13428	wegen
+E29	Consequence:T122 Cause:T124 Effect:T123
+A30	Degree E29 Facilitate
+T123	Argument 13365 13422;13470 13489	Die seinerzeit an ihr betriebene Harzung wird gegenwärtig nicht mehr ausgeübt
+T124	Argument 13429 13469	der geringen Rentabilität dieser Nutzung
+T125	Consequence 13745 13750	wegen
+E30	Consequence:T125 Cause:T126 Controlling:T130 Effect:T127
+A31	Degree E30 Facilitate
+T126	Argument 13751 13784	ihrer spärlichen Bodenbeschattung
+T127	Argument 13785 13799	nicht geduldet
+T128	Argument 13751 13756	ihrer
+T129	Argument 13617 13623	Lärche
+R12	Coref Arg1:T128 Arg2:T129	
+T130	Argument 13725 13744	In reinen Beständen
+T131	Consequence 13801 13804	ist
+E31	Consequence:T131 Cause:T133 Effect:T136 Controlling:T134 Controlling2:T135
+A32	Degree E31 Facilitate
+T132	Argument 13805 13808	sie
+R13	Coref Arg1:T132 Arg2:T129	
+T133	Argument 13805 13846	sie überall eine erwünschte Mischholzart,
+T134	Argument 13847 13873	die bei der Neuaufforstung
+T135	Argument 13874 13906	oder beim Auspflanzen von Lücken
+T136	Argument 13907 13963	mit Vorliebe zwischen andere Holzarten eingesprengt wird
+T137	Argument 13847 13850	die
+R14	Coref Arg1:T137 Arg2:T129	
+T138	Argument 13965 13978;14041 14054	Ihr Holz wird hochgeschätzt
+T139	Consequence 14094 14103	verwendet
+E32	Consequence:T139 Cause:T138 Effect:T140 Controlling:T141 Controlling2:T142
+A33	Degree E32 Facilitate
+T140	Argument 14055 14093	und überall dort als Bau- und Werkholz
+T141	Argument 14105 14175	wo ein hoher Grad von Dauerhaftigkeit und Festigkeit erforderlich ist.
+T142	Argument 13980 14039	wo es infolge langsamen Wachsthumes engringig erwachsen ist
+T143	Consequence 14358 14363	wegen
+E33	Consequence:T143 Cause:T144 Effect:T145 Actor:T146
+A34	Degree E33 Facilitate
+T144	Argument 14364 14394	Ihrer besonderen Eigenschaften
+T145	Argument 14316 14324;14395 14431	verdient genannt und hervorgehoben zu werden.
+T146	Argument 14330 14339	die Zirbe
+T147	Consequence 14598 14617	ausgezeichnet durch
+E34	Consequence:T147 Affected:T148 Cause:T150 Effect:T151
+A35	Degree E34 Facilitate
+T148	Argument 14588 14596	Ihr Holz
+T149	Argument 14588 14591	Ihr
+R15	Coref Arg1:T149 Arg2:T146	
+T150	Argument 14618 14751	eine schöne Farbe und einen besonders schön verlaufenden, um die zahlreichen eingewachsenen Äste oft absonderlich gezeichneten Flader
+T151	Argument 14753 14872	wird vom Bildschnitzer und von den Tischlern als Möbelholz und zum Vertäfeln von Wänden sehr gesucht und theuer bezahlt
+T152	Purpose 15001 15011	um dadurch
+E35	Purpose:T152 Effect:T156 Cause:T154 Cause2:T155 Actor:T153
+A36	Degree E35 Facilitate
+T153	Argument 14874 14899	Die Staatsforstverwaltung
+T154	Argument 15012 15082	der Hausindustrie vieler Alpenthäler ein kostbares Material zu sichern
+T155	Argument 15084 15150	den Hochlagen aber einen dauernden Bestandesschutz zu verschaffen.
+T156	Argument 14900 14999	arbeitet seit etwa 20 Jahren daran, die Zirbe auf den ihr zusagenden Standorten wieder einzubürgern
+T157	Consequence 15201 15207	treten
+E36	Consequence:T157 Affected:T159 Cause:T158 Effect:T160
+A37	Degree E36 Facilitate
+T158	Argument 15208 15233	vermöge ihrer Verbreitung
+T159	Argument 15151 15200	Unter den Laubhölzern der Staats- und Fondsforste
+T160	Argument 15234 15653	die Roth- und Weißbuche (Fagus silvatica L., Carpinus Betulus L.), dann die Stiel-, Trauben- und Zerreiche (Quercus pedunculata Ehrhart, Q. sessiliflora Smith, Q. Cerris L.) und die Edelkastanie (Castanea vesca Gaertner), endlich die Esche (Fraxinus excelsior L.), der Spitz- und Bergahorn (Acer platanoides L., A. Pseudoplatanus L.) und die Berg- und Feldulme (Ulmus montana Smith, U. campestris L.) in den Vordergrund
+T161	Consequence 16320 16325	wegen
+E37	Consequence:T161 Cause:T163 Effect:T164 Affected:T162
+A38	Degree E37 Facilitate
+T162	Argument 16094 16102	Ihr Holz
+T163	Argument 16326 16366	der Concurrenz des fossilen Brennstoffes
+T164	Argument 16224 16319;16367 16407	als welches es unter den einheimischen Holzarten den ersten Platz einnimmt, seit Decennien aber die frühere Bedeutung nicht mehr besitzt
+T165	Argument 17324 17496	Noch spärlicher, jedoch auf einem viel weiteren Verbreitungsgebiete, begegnet man den Eschen, Ulmen und Ahornen als eingesprengten Holzarten in Laub- und Nadelholzbeständen
+T166	Consequence 17505 17510	wegen
+E38	Consequence:T166 Cause:T167 Effect:T168 Affected:T165
+A39	Degree E38 Facilitate
+T167	Argument 17511 17610	des wertvollen Holzes und mit Rücksicht auf das Bestreben der Forstwirte, Mischbestände zu erziehen
+T168	Argument 17498 17504;17612 17637	wo sie überall gern gesehen sind
+T169	Consequence 17696 17699	die
+E39	Consequence:T169 Affected:T172 Effect:T170 Controlling:T171
+A40	Degree E39 Facilitate
+T170	Argument 17700 17753	jedoch nur insoferne in den Beständen geduldet werden
+T171	Argument 17755 17819	als ihr Verbleiben keinen Schaden für die Hauptholzarten bedingt
+T172	Argument 17665 17694	der Weichhölzer und der Birke
+T174	Consequence 19381 19404	bei welcher Gelegenheit
+E40	Consequence:T174 Cause:T173 Effect:T175
+A41	Degree E40 Facilitate
+T175	Argument 19405 19522	eine Umgestaltung der Organisation sowohl in den Mittelstellen, als auch in den Verwaltungsämtern platzgegriffen hat.
+T173	Argument 19195 19379	Als hierauf im Jahre 1848 Ministerien und unter diesen auch das Ministerium für Landescultur und Bergwesen errichtet wurden, fiel dem letzteren die Leitung der Staatsforstverwaltung zu
+T176	Consequence 19597 19602	indem
+E41	Consequence:T176 Cause:T177 Effect:T178
+A42	Degree E41 Facilitate
+T177	Argument 19523 19595	Nach Auflösung dieses Ministeriums (1853) trat neuerlich ein Wechsel ein
+T178	Argument 19603 19672	die Staats- und Fondsforste der Finanzverwaltung untergeordnet wurden
+T179	Argument 19705 19731;19733 19859	die Anschauung zur Geltung dass der Staatsforstbesitz vornehmlich aus Gesichtspunkten der Förderung der allgemeinen Wohlfahrt bewirtschaftet werden solle
+T180	Consequence 19674 19690	In der Folge kam
+E42	Consequence:T180 Effect:T179 Affected:T181
+A43	Degree E42 Facilitate
+T181	Argument 19738 19759	der Staatsforstbesitz
+T182	Consequence 19866 19872	führte
+E43	Consequence:T182 
+A44	Degree E43 Facilitate
+T183	Argument 19873 19879;19904 20076	zu der Zuweisung der Staats- und Fondsforstverwaltung an das mittlerweile errichtete Ackerbauministerium, welches sofort die Ausarbeitung einer neuen Dienstorganisation einleitete
+T184	Argument 19861 19865	Dies
+R16	Coref Arg1:T184 Arg2:T179	
+T185	Argument 20041 20065	neuen Dienstorganisation
+T186	Argument 20078 20083	Diese
+T187	Consequence 20125 20133	bedeutet
+E44	Consequence:T187 Cause:T188 Effect:T189 Actor:T186
+A45	Degree E44 Facilitate
+T188	Argument 20084 20120	trat am 30. Juli 1873 in Wirksamkeit
+T189	Argument 20134 20212	einen Wendepunkt in der Entwicklung der österreichischen Staatsforstverwaltung
+R17	Coref Arg1:T186 Arg2:T185	
+T190	Consequence 20242 20247;20281 20296	wurde zugrunde gelegt
+E45	Consequence:T190 Effect:T192 Effect2:T193 Cause:T194
+A46	Degree E45 Facilitate
+T191	Argument 20214 20241	Der neuen Diensteinrichtung
+T192	Argument 20301 20379	damit das Schwergewicht der Wirtschaftsführung in die Verwaltungsämter verlegt
+T193	Argument 20381 20392;20470 20630	während den Forst- und Domänendirectionen als Mittelstellen, und dem Ackerbauministerium als Centralstelle die Überwachung und Leitung des Verwaltungsdienstes zugedacht ist
+T194	Argument 20214 20296	Der neuen Diensteinrichtung wurde das sogenannte Oberförstersystem zugrunde gelegt
+T195	Argument 24293 24306	Oberforstrath
+T196	Argument 24308 24316	Derselbe
+R18	Coref Arg1:T196 Arg2:T195	
+T197	Purpose 24317 24337	überwacht und leitet
+E46	Purpose:T197 Actor:T196 Cause:T198
+A47	Degree E46 Facilitate
+T198	Argument 24338 24406	den Dienst und ist für die correcte Geschäftsgebarung verantwortlich
+T199	Argument 24832 24908	Zur Durchführung der in den Wirkungskreis der Directionen fallenden Arbeiten
+T200	Purpose 24909 24914	steht
+E47	Purpose:T200 Cause:T199 Actor:T201 Effect:T202
+A48	Degree E47 Facilitate
+T201	Argument 24915 24938	dem Directionsvorstande
+T202	Argument 24939 24976	das nöthige Beamtenpersonal zur Seite
+T203	Argument 24978 25035	Die locale Überwachung des gesammten Wirtschaftsbetriebes
+T204	Purpose 25132 25139	obliegt
+E48	Purpose:T204 Cause:T203 Actor:T205
+A49	Degree E48 Facilitate
+T205	Argument 25140 25175	den Inspectionsbeamten (Forsträthe)
+T206	Argument 23485 23558	Dies Sorge für die Erhaltung der Substanz des Forst- und Domänenvermögens
+T207	Argument 23559 23614	und die möglichste Hebung der daraus fließenden Erträge
+T208	Purpose 23395 23483	Als Hauptaufgaben der Directionen werden von der bezüglichen Dienstinstruction angeführt
+E49	Purpose:T208 Actor:T209 Effect:T206 Cause:T207 Effect2:T210 Effect3:T211 Effect4:T212 Effect5:T213 Effect6:T214 Effect7:T215 Effect8:T216 Effect9:T217 Effect10:T218
+A50	Degree E49 Facilitate
+T209	Argument 23413 23428	der Directionen
+T210	Argument 23616 23683	die Durchführung der Betriebseinrichtungen und Waldstandsrevisionen
+T211	Argument 23685 23828	sowie die Evidenzhaltung der Einrichtungswerke durch richtige Führung der Wirtschaftsbücher und die vorgeschriebenen anderweitigen Eintragungen
+T212	Argument 23830 23883	ferner die Leitung und Überwachung des Forstbetriebes
+T213	Argument 23885 23982	insbesondere durch Prüfung und Genehmigung der jährlichen Fällungs- und sonstigen Nutzungsanträge
+T214	Argument 23984 24030	der Forstproductenpreis- und Arbeitslohntarife
+T215	Argument 24032 24075	der Versteigerungs- und Accordverhandlungen
+T216	Argument 24077 24120	der Anträge für Forstculturen und Wegbauten
+T217	Argument 24129 24189	die Leitung und Überwachung des Jagd- und Fischereibetriebes
+T218	Argument 24191 24241	endlich die Verfassung der Jahres-Geldvoranschläge
+T221	Argument 25471 25478	Agenden
+T222	Argument 25480 25483	die
+R19	Coref Arg1:T222 Arg2:T221	
+T223	Consequence 25484 25491	vermöge
+E50	Consequence:T223 Cause:T224 Effect:T225 Actor:T219
+A51	Degree E50 Facilitate
+T224	Argument 25492 25525	ihres rein juridischen Charakters
+T225	Argument 25526 25572	ihnen zur ausschließlichen Behandlung zufallen
+T219	Argument 25296 25421	Den juridisch - administrativen - Dienst besorgen die zugetheilten Administrationsräthe, Secretäre, Adjuncten und Concipisten
+T220	Argument 25492 25497	ihres
+R20	Coref Arg1:T220 Arg2:T221	
+T226	Purpose 25704 25707	Für
+E51	Purpose:T226 Cause:T227 Effect:T228
+A52	Degree E51 Facilitate
+T227	Argument 25708 25757	die Durchführung der Betriebseinrichtungsarbeiten
+T228	Argument 25758 25793	ist eine eigene Abtheilung bestellt
+T229	Argument 26381 26481	Diese letztere in der Instruction enthaltene Bestimmung verliert gegenwärtig immer mehr an Bedeutung
+T230	Consequence 26483 26490	nachdem
+E52	Consequence:T230 Effect:T229 Cause:T231
+A53	Degree E52 Facilitate
+T231	Argument 26491 26555	den Directionen dermal auch bautechnische Organe zugewiesen sind
+T233	Consequence 27874 27882	erfolgte
+E54	Consequence:T233 Cause2:T232 Effect:T234
+T232	Argument 27850 27873	Nach diesen Grundsätzen
+T234	Argument 27920 28065	die Eintheilung des gesammten Staats- und Fondsbesitzes in einzelne Wirtschaftsbezirke, sowie die Zusammenfassung derselben im Directionsbereiche
+T235	Consequence 28067 28069	Da
+E53	Consequence:T235 Cause:T236 Effect:T237
+A54	Degree E53 Facilitate
+T236	Argument 28070 28163	sich dieselbe, von unwesentlichen Änderungen abgesehen, bis auf den heutigen Tag erhalten hat
+T237	Argument 28165 28229	dürfte es genügen, den jetzigen Stand zur Darstellung zu bringen
+T238	Argument 29542 29636	Nicht minder verschieden stellen sich die Flächen der einzelnen Forst- und Domänenverwaltungen
+T239	Consequence 29638 29649	die je nach
+E55	Consequence:T239 Affected:T238 Effect:T240
+A55	Degree E55 Facilitate
+T240	Argument 29650 29807;29876 29885	der Intensität des Betriebes und des Antheiles, den die productive Fläche an der Gesammtarea nimmt, sowie infolge der isolierten Lage einzelner Forstcomplexe schwanken
+T241	Consequence 29943 29945	so
+E56	Consequence:T241 Cause:T242 Effect:T243
+A56	Degree E56 Facilitate
+T242	Argument 29887 29941	Werden nur die productiven Flächen in Betracht gezogen
+T243	Argument 29946 30151	resultiert für den kleinsten Wirtschaftsbezirk eine Fläche von 559 (Bohutin), für den größten eine solche von 25.904 (Watra-Moldawitza in der Bukowina), während die durchschnittliche Größe 8172 ha beträgt.
+T244	Consequence 28572 28585	in Anbetracht
+E57	Consequence:T244 Affected:T247 Effect:T245 Cause:T246
+A57	Degree E57 Facilitate
+T245	Argument 28488 28569	Letztere zerfällt abweichend von der Orgänisation der Forst- und Domänendirection
+T246	Argument 28586 28649	des bedeutenden Domänenbesitzes und der exceptionellen Stellung
+T247	Argument 28651 28709	welche der griechisch-orientalische Religionsfond einnimmt
+T248	Argument 30152 30224	Die Zahl der Schutzbezirke variiert in den einzelnen Wirtschaftsbezirken
+T249	Consequence 30179 30187	variiert
+E58	Consequence:T249 Effect:T248 Affected:T250
+A58	Degree E58 Facilitate
+T250	Argument 30226 30434	sie beträgt in den meisten Fällen 4 bis 6, steigt jedoch auch auf 15 (Wirtschaftsbezirk Mizun in Galizien) und fällt anderseits bis auf 2 (Wirtschaftsbezirk Winklern in Kärnten, Steinberg in Tirol und andere)
+T251	Consequence 30600 30607	infolge
+E59	Consequence:T251 Cause:T252 Effect:T253
+A59	Degree E59 Facilitate
+T252	Argument 30578 30691	Hier hat sich nämlich infolge der bedeutenden Ausdehnung der Verwaltungsbezirke und des noch extensiven Betriebes
+T253	Argument 30692 30824	die Nothwendigkeit ergeben, die den Förstern zugewiesenen sogenannten Manipulationsbezirke in einzelne Schutzbezirke zu untertheilen
+T254	Argument 30486 30502	Karpathenforsten
+T255	Argument 30578 30582	Hier
+R21	Coref Arg1:T255 Arg2:T254	
+T256	Consequence 31770 31772	so
+E60	Consequence:T256 Affected:T258 Effect:T257
+A60	Degree E60 Facilitate
+T257	Argument 31773 31849	richtet sich diese nach den Bezügen der betreffenden allgemeinen Rangsclasse
+T258	Argument 31729 31768	Was die Besoldung der Beamten anbelangt
+T259	Consequence 31940 31948	Überdies
+E61	Consequence:T259 Effect:T260 Cause:T261 Affected:T260
+A61	Degree E61 Facilitate
+T260	Argument 31949 31970;32022 32055	gebüren jenen Beamten Reisediäten oder Reisepauschalien
+T261	Argument 31972 32020	welche bestimmt sind, äußeren Dienst zu versehen
+T262	Consequence 32309 32317	Überdies
+E62	Consequence:T262 Affected:T264 Cause:T263 Effect:T265
+A62	Degree E62 Facilitate
+T263	Argument 32318 32323;32341 32411	tritt nach den im Civilstaatsdienste zurückgelegten ersten fünf Dienstjahren
+T264	Argument 32324 32340	bei den Förstern
+T265	Argument 32412 32569	eine bei der Bemessung der Ruhegenüsse einrechenbare Dienstalterszulage von 100 Kronen jährlich, nach den nächsten fünf Jahren eine zweite von 100 Kronen ein
+T266	Consequence 32838 32846	außerdem
+E63	Consequence:T266 Effect:T269 Cause:T267 Affected:T268
+A63	Degree E63 Facilitate
+T267	Argument 32682 32714	Die auf den Bezirken exponierten
+T268	Argument 32715 32829	Forst- und Domänenverwalter, sowie die ihnen zugetheilten Forstassistenten und Eleven, dann das Forstschutzpersona
+T269	Argument 32831 32837;32847 32916	stehen im Genusse von Naturalwohnungen, Dienstgründen und Deputatholzbezügen
+T270	Consequence 33378 33382;33383 33390	dass nunmehr
+E64	Consequence:T270 Affected:T273 Cause:T271 Effect:T272
+A64	Degree E64 Facilitate
+T271	Argument 33318 33376	es ist erst den Bestrebungen der letzten Periode zu danken
+T272	Argument 33414 33619	das gesammte, den Verwaltungsdienst versehende Forstpersonal in eigenen Gebäuden in einer Weise bequartiert ist, die sowohl den Anforderungen des Dienstes, als auch den Bedürfnissen der Bewohner entspricht
+T273	Argument 33090 33112	die Beamten und Diener
+T274	Argument 33886 33900	Die Aspiranten
+T275	Consequence 33957 33972	besitzen müssen
+E65	Consequence:T275 Controlling:T276 Affected:T274 Controlling2:T277
+A65	Degree E65 Facilitate
+T276	Argument 33902 33972	welche die physische Eignung für den Hochgebirgsdienst besitzen müssen
+T277	Argument 33974 34251	haben den Nachweis der an einer Mittelschule erlangten akademischen Reife, der mit gutem Erfolge abgelegten drei Staatsprüfungen oder der Diplomsprüfungen an der Hochschule für Bodencultur, sowie endlich der Prüfung aus dem forstlichen System der Wildbachverbauung zu erbringen
+T278	Consequence 34253 34256	Für
+E66	Consequence:T278 Effect:T279 Controlling:T280
+A66	Degree E66 Facilitate
+T279	Argument 34257 34282	die definitive Anstellung
+T280	Argument 34283 34485	wird überdies die Ablegung der „Prüfung für den forsttechnischen Staatsdienst“ nach zweijähriger praktischer Verwendung im Staatsdienste als Forsteleve oder in lehrreichen Forsten von Privaten gefordert
+T281	Consequence 34627 34631	dass
+E67	Consequence:T281 Affected:T286 Effect:T283 Cause:T282
+T282	Argument 34632 35000	er die bisherige praktische Verwendung zur Erweiterung und Ergänzung seiner an der Hochschule erworbenen theoretischen Kenntnisse benützt, sich mit den geltenden Vorschriften und Instructionen vertraut gemacht hat und überhaupt jenes Maß von praktischer und theoretischer Vorbildung besitzt, welches zur Führung der Geschäfte als selbständiger Beamter unerlässlich ist
+T283	Argument 34487 34625	Hier hat der Candidat vor einer aus höheren Forstbeamten und einem juridischen Examinator zusammengesetzten Prüfungscommission zu erweisen
+T284	Argument 34315 34360	Prüfung für den forsttechnischen Staatsdienst
+T285	Argument 34487 34491	Hier
+R22	Coref Arg1:T285 Arg2:T284	
+T286	Argument 34500 34508	Candidat
+T287	Argument 35069 35101	die Aufnahme in den Staatsdienst
+T288	Consequence 35036 35039	ist
+E68	Consequence:T288 Affected:T289 Effect:T287 Cause:T290
+A68	Degree E68 Facilitate
+T289	Argument 35040 35068	auch bei dem Schutzpersonale
+T290	Argument 35102 35133	an gewisse Bedingungen geknüpft
+T291	Purpose 35286 35302	Zu diesem Behufe
+E69	Purpose:T291 Effect:T292
+A67	Degree E69 Facilitate
+T292	Argument 35303 35458	wurden bei den Forst- und Domänenverwaltungen in Gusswerk (Steiermark), Hall (Tirol), Idria (Krain) und Bolechöw (Galizien) je eine Försterschule errichtet
+T293	Purpose 35837 35955	mit Rücksicht auf den Bedarf der eigenen Verwaltung, sowie die vorhandenen Einrichtungen der Schule und des Internates
+E70	Purpose:T293 Effect:T294
+A69	Degree E70 Facilitate
+T294	Argument 35957 36032	in Idria auf sechs, bei den drei anderen Anstalten auf je zwölf festgesetzt
+T295	Argument 36920 36960	Versuche zur Regelung des Forstbetriebes
+T296	Argument 37054 37091	Veranlassung zu bezüglichen Maßnahmen
+T297	Argument 37070 37091	bezüglichen Maßnahmen
+R23	Coref Arg1:T297 Arg2:T295	
+T298	Consequence 37092 37095	gab
+E71	Consequence:T298 Effect:T296 Cause:T299 Cause2:T300
+A70	Degree E71 Facilitate
+T299	Argument 37114 37235	theils die Nothwendigkeit, den sich immer erneuernden Grenzübergriffen und Besitzaneignungen der Anrainer Einhalt zu thun
+T300	Argument 37237 37370	theils die Sorge um die Sicherstellung des Holzbedarfes im allgemeinen und im besonderen für die staatlichen Montan- und Salinenwerke
+T301	Consequence 37507 37519	abhängig war
+E72	Consequence:T301 Cause:T305 Effect:T304
+T302	Argument 37330 37370	die staatlichen Montan- und Salinenwerke
+T303	Argument 37372 37377	deren
+R24	Coref Arg1:T303 Arg2:T302	
+T304	Argument 37372 37401	deren gedeihliche Entwicklung
+T305	Argument 37431 37506	von dem Vorhandensein des in nächster Nähe beziehbaren Brenn- und Bauholzes
+T306	Consequence 37633 37645;37646 37669	entwickelten sich erst nach und nach
+E73	Consequence:T306 Cause:T307 Effect:T308
+A71	Temporal E73
+T307	Argument 37537 37632	Aus diesen fast ausschließlich nur auf die Erhaltung der Substanz gerichteten Betriebsmaßnahmen
+T308	Argument 37670 37759	jene Verhältnisse, die den jetzigen Forstbetriebseinrichtungen zum Ausgangspunkte dienten
+T309	Argument 37895 37938	Beachtung verdient vor allem der Wienerwald
+T310	Argument 37940 38153	der schon im Mittelalter sich einer besonderen Fürsorge der Landesfürsten erfreute und die ersten Erhebungen über Größe, sowie die ersten Maßnahmen zur Sicherstellung der Grenzen aus dem Jahre 1246 aufzuweisen hat
+T311	Consequence 37940 37995;38014 38022	der schon im Mittelalter sich einer besonderen Fürsorge erfreute
+E74	Consequence:T311 Effect:T309 Cause:T310
+A72	Degree E74 Facilitate
+T312	Argument 38864 38906	der zur Sicherung des eigenen Holzbedarfes
+T313	Purpose 38911 38917	hiemit
+E75	Purpose:T313 Effect:T314 Cause:T312
+A73	Degree E75 Facilitate
+T314	Argument 38918 38993	zur Anbahnung einer gewissen Nachhaltigkeit der forstlichen Nutzungen zwang
+T315	Argument 38844 38862	der Salinenbetrieb
+T316	Argument 38864 38867	der
+R25	Coref Arg1:T315 Arg2:T316	
+T317	Consequence 39258 39266	erfolgte
+E76	Consequence:T317 Cause:T318 Effect:T319
+A74	Temporal E76
+T318	Argument 39144 39256	Nachdem in den Jahren 1630 bis 1634, dann 1763 und 1782 die ersten Schätzungen dieser Forste durchgeführt wurden
+T319	Argument 39267 39342	in den Jahren 1794 und 1804 eine genaue Vermessung und Kartierung derselben
+T320	Argument 39478 39514	so verloren sie dennoch bald an Wert
+T321	Argument 39515 39578	durch die mangelhafte, später ganz unterbliebene Evidenthaltung
+T322	Consequence 39478 39480;39515 39520	so durch
+E77	Consequence:T322 Effect:T320 Cause:T321
+A75	Degree E77 Facilitate
+T323	Argument 39490 39493	sie
+T324	Argument 39439 39457	Einrichtungswerkes
+R26	Coref Arg1:T323 Arg2:T324	
+T325	Consequence 39580 39587	so dass
+E78	Consequence:T325 Cause:T320 Effect:T326
+A76	Degree E78 Facilitate
+T326	Argument 39588 39688	in der ersten Hälfte dieses Jahrhunderts eine neuerliche Forsteinrichtung durchgeführt werden musste
+T327	Purpose 40932 40934	Um
+E79	Purpose:T327 Cause:T328 Effect:T329
+A77	Degree E79 Facilitate
+T328	Argument 40935 41010	den Wert und die Brauchbarkeit der Operate für längere Zeiträume zu sichern
+T329	Argument 41012 41055	waren zehnjährige Revisionen vorgeschrieben
+T330	Consequence 41483 41497	nicht nur weil
+E80	Consequence:T330 Effect:T331 Cause:T332 Cause2:T333 Affected:T334
+T331	Argument 41395 41481	verdienen noch die Forste Galiziens und der Bukowina besonders hervorgehoben zu werden
+T332	Argument 41493 41560	weil hier die Regelung des Betriebes gleichfalls weit zurückgreift,
+T333	Argument 41561 41655	sondern auch deshalb, weil hier ein von dem gewöhnlichen abweichender Vorgang beobachtet wurde
+T334	Argument 41410 41447	die Forste Galiziens und der Bukowina
+T335	Consequence 41856 41864	zunächst
+E81	Consequence:T335 Affected:T337 Effect:T338 Cause:T336
+A78	Degree E81 Facilitate
+T336	Argument 41819 41842	Sie verfolgten das Ziel
+T337	Argument 41844 41855	den Betrieb
+T338	Argument 41865 41983	durch eine theils in der Natur fixierte, theils nur in den Kartenwerken durchgeführte räumliche Eintheilung zu regeln.
+T339	Argument 41984 42070	Gleichmäßig gestaltete Waldpartien oder solche, welche gleiche Bringungsgebiete hatten
+T340	Argument 42072 42100	wurden zu Districten vereint
+T341	Consequence 42072 42078	wurden
+E82	Consequence:T341 Cause:T339 Effect:T340
+A79	Degree E82 Facilitate
+T342	Purpose 42354 42371	auf die Schaffung
+E83	Purpose:T342 Effect:T343 Cause:T344 Cause2:T345
+T343	Argument 42362 42414	Schaffung eines zweckmäßigen Rahmens für den Betrieb
+T344	Argument 42341 42353;42415 42438	Neben diesen abzielenden Anordnungen
+T345	Argument 42440 42621	enthielten diese Vorschriften auch Maßnahmen in Bezug auf Begründung und Pflege der Bestände, die Bewirtschaftung der Plenterwälder, Bannwälder und der Baumvegetationsgrenze u.a.m.;
+T346	Consequence 43033 43039	obwohl
+E84	Consequence:T346 Effect:T347 Cause:T348
+A80	Degree E84 Inhibit
+T347	Argument 42928 43031	Bei den anderen Staats- und Fondsforsten lässt sich die Betriebsregelung nicht so weit zurück verfolgen
+T348	Argument 43040 43352	fast überall zu Beginn der zweiten Hälfte dieses Jahrhunderts mehr weniger zweckmäßig verfasste Einrichtungsoperate und forstliche Kartenwerke vorhanden waren; allen diesen mangelte jedoch — häufig neben dem erwünschten Genauigkeitsgrade die für eine einheitliche Wirtschaftsführung unerlässliche Gleichmäßigkeit
+T349	Argument 43484 43858	Mit Rücksicht darauf wurden denn auch aus Anlass der Reorganisation der Staatsgüterverwaltung im Jahre 1873 Maßnahmen für eine durchgreifende Reform des Forsteinrichtungswesens getroffen und noch in demselben Jahre eine Instruction ausgearbeitet, die in allgemeinen Zügen für das gleichzeitig in Dienst gestellte Einrichtungspersonal die Grundsätze des Verfahrens festlegte,
+T350	Consequence 43864 43870	jedoch
+E85	Consequence:T350 Effect:T349 Cause:T351
+A81	Degree E85 Facilitate
+T351	Argument 43859 43979	sich jedoch in Einzelheiten nur insoferne einließ, als dies die wünschenswerte Einheitlichkeit des Verfahrens erheischte
+T352	Argument 43981 44010	Aus dieser ersten Instruction
+T353	Consequence 44011 44019	entstand
+E86	Consequence:T353 Cause:T352 Effect:T354
+A82	Temporal E86
+T354	Argument 44020 44245	im Jahre 1885 die wesentlich vermehrte, gegenwärtig in II. Auflage (Wien 1893) in Geltung stehende: „Instruction für die Begrenzung, Vermarkung, Vermessung und Betriebseinrichtung der österreichischen Staats- und Fondsforste“
+T355	Argument 45616 45856	den Wirtschaftsgang aller Wälder in Beziehung auf deren Benützung und Wiederbegründung, sowie auf die dabei in Frage kommenden Flächen und Zeiträume mit Rücksicht auf die inneren und äußeren Forstverhältnisse des Waldlandes derart zu regeln
+T356	Motivation 45858 45871	dass hiedurch
+E87	Motivation:T356 Cause:T355 Effect:T357
+A83	Degree E87 Facilitate
+T357	Argument 45872 46049	die erreichbar höchste Vollkommenheit des Bodenschutzes und der Bodenpflege, der Ordnung und der Güte des Holzbestandes, wie der Größe und des Wertes aller Erträge erzielt werde
+T358	Purpose 46052 46055	Als
+E88	Purpose:T358 Effect:T359 Cause:T360
+A84	Degree E88 Facilitate
+T359	Argument 46052 46091	Als Mittel zur Erreichung dieses Zieles
+T360	Argument 46092 46156	wird vor allem eine rationelle Eintheilung der Forste bezeichnet
+T361	Consequence 46158 46165	Während
+E89	Consequence:T361 Effect:T362 Actor:T363
+A85	Degree E89 Facilitate
+T362	Argument 46166 46243	die Bildung von Wirtschaftseinheiten der Forstorganisation vorbehalten bleibt
+T363	Argument 46207 46224	Forstorganisation
+T364	Consequence 46381 46384	hat
+E90	Consequence:T364 Effect:T365 Actor:T366
+A86	Degree E90 Facilitate
+T365	Argument 46385 46521	dieselbe die Abgrenzung der Schutzbezirke zu besorgen, sowie die Bildung von Betriebsclassen, Hiebszügen und Abtheilungen durchzuführen.
+T366	Argument 46252 46271	Betriebseinrichtung
+T367	Argument 46385 46393	dieselbe
+R27	Coref Arg1:T367 Arg2:T366	
+T368	Consequence 47188 47195;47196 47201	erfolgt durch
+E91	Consequence:T368 Effect:T369 Support:T370
+T369	Argument 47142 47187	Die Abgrenzung der Hiebszüge und Abtheilungen
+T370	Argument 47202 47456	das Schneißen- und Wirtschaftsstreifennetz — die „räumliche Eintheilung“ — die sich besonders in Gebirgsforsten den in der Natur vorhandenen natürlichen Terrainlinien, wie Bergrücken, Gräben, Bächen, Flüssen, Straßenzügen etc. möglichst anzuschließen hat
+T371	Argument 47458 47527	Als Basis für die künftige Wirtschaftsführung dienen Wirtschaftspläne
+T372	Argument 47529 47664	welche auf Grund einer allgemeinen Forstbeschreibung, sowie der vom Ackerbauministerium genehmigten Betriebsvorschläge verfasst werden.
+T373	Consequence 47458 47467;47504 47510	Als Basis dienen
+E92	Consequence:T373 Effect:T371 Cause:T372
+A87	Degree E92 Facilitate
+T374	Consequence 47665 47672	Während
+E93	Consequence:T374 
+A88	Degree E93 Facilitate
+T375	Argument 47665 47906	Während der ersteren die Aufgabe zufällt, das zur Betriebseinrichtung gelangende« Wirtschaftsganze hinsichtlich seiner natürlichen, rechtlichen, politischen, forstwirtschaftlichen und finanziellen Verhältnisse klar und prägnant darzustellen,

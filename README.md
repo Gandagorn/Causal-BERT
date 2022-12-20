@@ -1,5 +1,6 @@
 # Causal-BERT
 Causality-detection model based on BERT-embeddings trained on historical German texts.
+Code to accompany my master's thesis ![Causal Relationship Extraction from Historical Texts using BERT](/docs/thesis.pdf)
 
 ![Example](/docs/example.png)
 
@@ -41,8 +42,7 @@ To run all experiments with coreference information.
 
 ## Interactive Usage
 
-The notebook `scripts/interactive_usage.ipynb` shows an interactive usage example which can be used for further tasks and to help adapt the code to other applications.
-
+The notebook `scripts/practical_usage.ipynb` shows an usage example on raw pdf files which can be used for further tasks and to help adapt the code to other applications.
 
 ## Model Architecture
 

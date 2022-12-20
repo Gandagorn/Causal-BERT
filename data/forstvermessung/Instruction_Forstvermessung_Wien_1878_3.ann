@@ -1,0 +1,1354 @@
+T1	Note 2509 2528	Die Aufgaben der Be
+#1	AnnotatorNotes T1	Ignore
+T2	Note 2609 2629	triebseinrichtung in
+#2	AnnotatorNotes T2	Ignore
+T3	Note 2715 2733	Verbindung mit der
+#3	AnnotatorNotes T3	Ignore
+T4	Note 2803 2823	Wirthschaftsführung.
+#4	AnnotatorNotes T4	Ignore
+T5	Note 5290 5308	Grenze und Art des
+#5	AnnotatorNotes T5	Ignore
+T6	Note 5379 5398	Eingreifens der Be-
+#6	AnnotatorNotes T6	Ignore
+T7	Note 5478 5500	triebsregelung bei der
+#7	AnnotatorNotes T7	Ignore
+T8	Argument 5574 5593	Bildung der Dienst.
+#8	AnnotatorNotes T8	Ignore
+T9	Argument 5676 5684	bezirke.
+#9	AnnotatorNotes T9	Ignore
+T10	Note 3943 3945;3946 3966;3967 3969	7* ----- 58 / 164 ----- 52
+#10	AnnotatorNotes T10	Ignore
+T11	Note 6603 6619	Erklärung der Be
+#11	AnnotatorNotes T11	Ignore
+T12	Note 6699 6717	zeichnung „Schutz-
+#12	AnnotatorNotes T12	Ignore
+T13	Note 6797 6805	bezirk“.
+#13	AnnotatorNotes T13	Ignore
+T14	Note 7101 7122	Anforderungen bei der
+#14	AnnotatorNotes T14	Ignore
+T15	Note 7193 7214	Zerlegung und der Be-
+#15	AnnotatorNotes T15	Ignore
+T16	Note 7288 7308	grenzung der Bezirke
+#16	AnnotatorNotes T16	Ignore
+T17	Note 7390 7404	(SS. 3 und 4).
+#17	AnnotatorNotes T17	Ignore
+T18	Note 7751 7772	Eintheilung der Wirth
+#18	AnnotatorNotes T18	Ignore
+T19	Note 7845 7865	schaftsganzen in Be-
+#19	AnnotatorNotes T19	Ignore
+T20	Note 7946 7960	triebselassen.
+#20	AnnotatorNotes T20	Ignore
+T21	Note 9668 9670;9671 9674;9675 9695;9696 9698	1! ui. ----- 60 / 164 ----- 54
+#21	AnnotatorNotes T21	Ignore
+T22	Note 11126 11146	Hiebszüge im Plänter
+#22	AnnotatorNotes T22	Ignore
+T23	Note 11221 11238	walde und im Aus-
+#23	AnnotatorNotes T23	Ignore
+T24	Note 11310 11322	schlagwalde.
+#24	AnnotatorNotes T24	Ignore
+T25	Note 11821 11844	Zusatz zu den 88.6 - 8.
+#25	AnnotatorNotes T25	Ignore
+T26	Note 12073 12092	Zerlegung der Hiebs
+#26	AnnotatorNotes T26	Ignore
+T27	Note 12168 12190	ziige in Abtheilungen.
+#27	AnnotatorNotes T27	Ignore
+T28	Note 12276 12292	Die Form, Länge,
+#28	AnnotatorNotes T28	Ignore
+T29	Note 12376 12393	Breite und Grösse
+#29	AnnotatorNotes T29	Ignore
+T30	Note 12478 12488	derselben.
+#30	AnnotatorNotes T30	Ignore
+T31	Purpose 5408 5414	behuts
+E1	Purpose:T31 Effect:T33 Cause:T32
+A1	Degree E1 Facilitate
+T32	Argument 5415 5441	Bildung von Dienstbezirken
+T33	Argument 5309 5378;5399 5407	Diese Art der Abgrenzung gewisser Antheile des gesammten Staatstorst- besitzes
+T34	Motivation 5561 5569	Aufgaben
+E2	Motivation:T34 Actor:T35 Effect:T33
+A2	Degree E2 Facilitate
+T35	Argument 5570 5573;5594 5611	der Forstorganisation
+T36	Consequence 5967 5969	so
+E3	Consequence:T36 Cause:T37 Effect:T38
+A3	Degree E3 Facilitate
+T37	Argument 5699 5765;5766 5844;5845 5923;5924 5966	Sollten jedoch nach der geodätischen und taxatorischen Bearbeitung zusammenhängender Forstkörper lie limtangslinen derselben im llinblick auf die Berg- ud Thalbildung oder aus wirtschaftlichen Grinden nicht ganz entsprechend und ihre Verlegung zweckmässig erscheinen,
+T38	Argument 5970 6003;6004 6047	hat der Betriebseinrichter diesen Umstand bei seiner Oberbehörde darzustellen
+T39	Purpose 6967 6973	behuts
+E4	Purpose:T39 Cause:T40 Effect:T41 Affected:T50
+A4	Degree E4 Facilitate
+T40	Argument 6974 6997	kräftigerer Beschützung
+T41	Argument 7035 7094	für die Zeit des Bedarfes bestellten Waldaufsehern zuweist.
+T42	Purpose 6260 6274	Fiir den Zweck
+E5	Purpose:T42 Cause:T43 Effect:T44
+A5	Degree E5 Facilitate
+T43	Argument 6275 6310	der forstlichen Wirthschaftsführung
+T44	Argument 6311 6332;6333 6342	werilen zuerst unter- schieden:
+T45	Argument 6753 6772;6890 6907	je einem Forstwarte iibergeben werden
+T46	Argument 6777 6788	Beschützung
+T47	Purpose 6773 6776	zur
+E6	Purpose:T47 Effect:T45 Cause:T46 Affected:T51
+A6	Degree E6 Facilitate
+T48	Purpose 6815 6818	zur
+E7	Purpose:T48 Cause:T49 Effect:T45 Affected:T51
+A7	Degree E7 Facilitate
+T49	Argument 6819 6884;6885 6889	Ililfeleistung beim Betriebe der Holznutzung und Bestandesbegrin- dung
+T50	Argument 6935 6948	solche Theile
+T51	Argument 6727 6744	jene Waldantheile
+T52	Argument 7228 7260	eine solche Begrenzung zu wählen
+T53	Argument 7273 7287;7288 7308;7309 7353	die Zutheilung grenzung der Bezirke gewisser Waldflächen an verschiedene Bezirke
+T54	Argument 7355 7389;7390 7404;7405 7484;7485 7547	jene llolzbestandesgruppen, welche (SS. 3 und 4). beziiglich «ler Schlagführung, Aufforstung und Beschützung sowohl organisch als vermöge ihrer Lage zusammengehören, keineswegs getrennt werden
+T55	Consequence 7267 7272	durch
+E8	Consequence:T55 Cause:T53 Effect:T54
+A8	Degree E8 Facilitate
+T56	Consequence 7262 7266	dass
+E9	Consequence:T56 Cause:T52 Effect:T54
+A9	Degree E9 Facilitate
+T57	Consequence 7885 7894	gestatten
+E10	Consequence:T57 Cause:T58 Effect:T59 Controlling:T60
+A10	Degree E10 Facilitate
+A11	Obligation-permission E10
+T58	Argument 7773 7844;7866 7884	Grössere und namentlich aus mehreren getrennten Waldstrecken bestehende Verwaltungsbezirke
+T59	Argument 7908 7945;7961 7993	das Zusammenfassen in einen unlöslich verlunvienen Materialetatskörper
+T60	Argument 7994 7999	nicht
+T61	Consequence 8009 8018	verlangen
+E11	Consequence:T61 Cause:T58 Effect:T67
+A12	Degree E11 Facilitate
+T62	Consequence 8466 8474	zulassen
+E12	Consequence:T62 Cause:T64 Effect:T63
+A13	Degree E12 Facilitate
+T63	Argument 8087 8115;8116 8198;8199 8274;8275 8343;8344 8418;8419 8465	den unabhängigen Betrieb der Ilolznutzung im Hinblicke auf die verschiedenen Richtungen des Materialtransportes und Absatzes oder wegen abweichender Betriebsart (samenwald, Ausschlagwald) oder wegen gleicher Holzschlagweise (Kahlschlag. Femelschlag, Femel- oder Plänterwald) oder endlich wegen mancherl.i Wirthschaftsbeschränkungen 1. Servituts-Schutz-Bannwald) von Jahr zu Jahr
+T64	Argument 8056 8078	solche Reviersantheile
+T65	Consequence 8479 8484	somit
+E13	Consequence:T65 Cause:T63 Effect:T66
+A14	Degree E13 Facilitate
+T66	Argument 8485 8498;8499 8581;8582 8604	in dem Rahmen des ganzen Forstwirthschaftsbezirkes eine angemessene Zahl kleinerer Wirthschafts- körper zu billen haben
+T67	Argument 8019 8037;8038 8115;8116 8198;8199 8274;8275 8343;8344 8418;8419 8474	meist und zunächst die Gruppirung in solche Reviersantheile, welche den unabhängigen Betrieb der Ilolznutzung im Hinblicke auf die verschiedenen Richtungen des Materialtransportes und Absatzes oder wegen abweichender Betriebsart (samenwald, Ausschlagwald) oder wegen gleicher Holzschlagweise (Kahlschlag. Femelschlag, Femel- oder Plänterwald) oder endlich wegen mancherl.i Wirthschaftsbeschränkungen 1. Servituts-Schutz-Bannwald) von Jahr zu Jahr zulassen
+T68	Consequence 8821 8832	geht hervor
+E14	Consequence:T68 Cause:T69 Effect:T70
+A15	Degree E14 Facilitate
+T69	Argument 8795 8820	Aus dem eingangs Gesagten
+T70	Argument 8834 8866;8867 8949;8950 8989	dass bei kleinen, oder sehr com- pacten und gleichartigen Forstwirthschaftsbezirken. ( Wirthschalisganzen) die Bil- dung von Betriebselassen entfallen kann
+T71	Consequence 9374 9379	daher
+E15	Consequence:T71 Cause:T72 Effect:T73
+A16	Degree E15 Facilitate
+T72	Argument 9323 9361;9362 9373	nur l'iir einen Theil der Umtriebszeit ausreichen,
+T73	Argument 9380 9399	unvollständige sind
+T74	Consequence 9531 9541	das heisst
+E16	Consequence:T74 
+A17	Degree E16 Facilitate
+T75	Consequence 9608 9613	daher
+E17	Consequence:T75 Cause:T78 Effect:T79
+A18	Degree E17 Facilitate
+T76	Argument 9401 9440;9441 9515;9516 9529	clie längeren Iliebszige dagegen lassen sich entweder im Verlaute des ganzen Turnis vom Anfange bis zum Ibschlusse durchschlagen
+T77	Argument 9543 9594;9595 9641;9642 9667;9699 9776;9777 9829	si gestalten sich zu einer den I'mtriebsjahren ent- sprechenden, daher selbstständigen Schlagreihe oder sie (die lliebszige) erstrecken sich so weit, dass man in ihrem Verlaufe wiederholte (vollständige oder unvollständige) Schlagreihen anzustreben vermag
+T78	Argument 9570 9594;9595 9606	den I'mtriebsjahren ent- sprechenden
+T79	Argument 9614 9629	selbstständigen
+T80	Consequence 9858 9861;9887 9892	ist Folge
+E18	Consequence:T80 Cause:T82 Effect:T81
+A19	Degree E18 Facilitate
+T81	Argument 9831 9857	Die Theilung in Hiebsziige
+T82	Argument 9893 9903;9904 9980;9981 10030	der scharf hervortretenden Bergrücken, und der nebenan eingeschnittenen Thäler, die man mit demselben Jahresschlage nicht übersetzen dart
+T83	Consequence 10127 10134;10135 10141	aus dem Grunde
+E19	Consequence:T83 Cause:T85 Effect:T84
+A20	Degree E19 Facilitate
+T84	Argument 10048 10061;10062 10126	die Zerleging sehr breiter Thalseiten oder ausgedehnter Waldstrecken der Ebene
+T85	Argument 10153 10211;10212 10240	weil die Schläge zu lang würden, wenn sie jene ohne Unter- brechung durchziehen sollten
+T86	Consequence 10186 10190	wenn
+E20	Consequence:T86 Effect:T87 Effect2:T88
+A21	Degree E20 Facilitate
+T87	Argument 10158 10184	die Schläge zu lang würden
+T88	Argument 10191 10211;10212 10240	sie jene ohne Unter- brechung durchziehen sollten
+T89	Argument 10354 10382;10383 10393	die Untertheilung in mehrere Iliebszüge
+T90	Consequence 10394 10407	ausschliessen
+E21	Consequence:T90 Cause:T91 Effect:T89
+A22	Degree E21 Inhibit
+T91	Argument 10242 10314;10315 10344	Die Betriebselassen, oder die abgesonderten Waldstrecken sind allerdings zuweilen so klein und schmal,
+T92	Consequence 10475 10488	nöthig machen
+E22	Consequence:T92 Cause:T91 Effect:T93
+A23	Degree E22 Facilitate
+T93	Argument 10418 10457;10458 10474	das ein- oder mehrjährige Aussetzen des Ilolzeinschlages
+T94	Argument 10500 10538;10539 10616;10617 10630	den Materialertrag auf die Dauer einer längeren Umtriebszeit oder einer Periode derselben in entsprechender Art ver- theilen will.
+T95	Argument 10496 10499	man
+T96	Motivation 10490 10495	falls
+E23	Motivation:T96 Actor:T95 Cause:T94 Effect:T93
+A24	Degree E23 Facilitate
+T97	Consequence 10654 10661	fordern
+E24	Consequence:T97 Cause:T98 Effect:T99
+A25	Degree E24 Facilitate
+T98	Argument 10631 10653	Grosse Betriebsclassen
+T99	Argument 10745 10771;10772 10848;10849 10869	die Holzernte in zwei oder mehreren nebeneinander (in (iebirgslehnen ii bereinander) oder auch getrennt liegenden liebszügen
+T100	Consequence 10871 10875	weil
+E25	Consequence:T100 Cause:T101 Effect:T99
+A26	Degree E25 Facilitate
+T101	Argument 10876 10922;10923 10995;10996 11070;11071 11119	die Anlage nur je eines Jahrschlag es für jede Betriebselasse, jenen zu gross, und namentlich beim Kahlhiebe des Namen- waldes, den Einzelschlag zu breit, endlich die Abwechslung (das Aussetzen, Ruhenlassen) der Schläge unmöglich machen würde.
+T102	Consequence 11106 11118	machen würde
+E26	Consequence:T102 Effect:T104 Cause:T103
+A27	Degree E26 Facilitate
+T103	Argument 10876 10922;10923 10937	die Anlage nur je eines Jahrschlag es für jede Betriebselasse
+T104	Argument 10939 10995;10996 11070;11071 11105	jenen zu gross, und namentlich beim Kahlhiebe des Namen- waldes, den Einzelschlag zu breit, endlich die Abwechslung (das Aussetzen, Ruhenlassen) der Schläge unmöglich
+T105	Argument 11389 11402;11403 11408	auf den Nach- wuchs
+T106	Argument 11423 11472;11473 11492	des Schutzes und der Schonung des älteren wie des jiingeren Bestamies
+T107	Argument 11493 11552;11553 11589	keineswegs angezeigt, (lie liebs- und zugleich Verjüngungs- flächen allzu umfangsreich anzulegen
+T108	Argument 11612 11635;11636 11651	in solchen ausgedehnten Betriebsclassen
+T109	Argument 11673 11710	mehr als eine Sellagreihe zu eröffnen
+T110	Argument 11293 11309;11323 11341	nicht vollkommen kahl gelegt werden
+T111	Purpose 11378 11388	in Absicht
+E27	Purpose:T111 Cause:T105 Effect:T107
+A28	Degree E27 Facilitate
+T112	Purpose 11417 11422	wegen
+E28	Purpose:T112 Cause:T106 Effect:T107
+A29	Degree E28 Facilitate
+T113	Motivation 11602 11611;11664 11671	erscheint geboten
+E29	Motivation:T113 Cause:T108 Effect:T109
+A30	Degree E29 Facilitate
+T114	Argument 11181 11204	natürlichen Samenabfall
+T115	Argument 11214 11220;11239 11247	Femel- schlägen
+T117	Argument 11271 11292	die Holzbezugsflächen
+T118	Consequence 11205 11213	mittelst
+E30	Consequence:T118 Cause:T115 Effect:T114
+A31	Degree E30 Facilitate
+T119	Consequence 11175 11180	durch
+E31	Consequence:T119 Cause:T114 Effect:T110 Affected:T117
+A32	Degree E31 Facilitate
+T116	Consequence 11912 11917	indem
+E32	Consequence:T116 Cause:T120 Effect:T121
+A33	Degree E32 Facilitate
+T120	Argument 11918 11964;11965 12030;12031 12064	sie aus mehreren setrennten Waldparzellen oder aus solchen liebszugstheilen, welche nicht unmittelbar neben ein- ander liegen, sich zusammensetzen
+T121	Argument 11845 11901;11902 11910	Betriebselassen und Schlagreihen können sich gegenseitig ergänzen
+T122	Consequence 12363 12370	so dass
+E33	Consequence:T122 Cause:T123 Effect:T124
+A34	Degree E33 Facilitate
+T123	Argument 12093 12167;12191 12275;12293 12362	Die Hiebszige werden in Abtheilungen (lliebsfächer, Periodenfächer, perio- dlische Schlagflächen) zerlegt, welche die einzelnen Bestandesfiguren als ihre inte- grirenden Flächenparzellen mittelst ihrer Umfangslinien abschliessen,
+T124	Argument 12371 12375;12394 12477;12489 12568;12569 12652;12653 12683	eine nach Betriebsart, Holzart, Mischung, Alter, Bestockmg: ja selbst nach Ertragsfähig- keit gleichartig erscheinende Bestandestliche, wenn sie in mehrere Abtheilungen liniibergreift, innerhalb jeder Abtheilung abgesondert bezeichnet, und ebenso taxa- torisch behandelt werden muss.
+T125	Argument 13013 13092;13093 13170;13171 13188	erhebliche Gründe dafür sprechen, manche Abtheilungen an ihrer Breitseite anzu- hauen, und die Schlagfronten rechtwinklig auf die Längenseite jener, einander folgen zu lassen.
+T126	Argument 12891 12933;12934 13001	Die Längserstreckung ist gleich der Breite des Hiebszuges und zeigt zumeist auch die Richtung der Schlagfront,
+T127	Consequence 13002 13006	wenn
+E34	Consequence:T127 Cause:T125 Controlling:T128 Effect:T126
+A35	Degree E34 Facilitate
+T128	Argument 13007 13012	nicht
+T129	Consequence 13295 13301	bilden
+E35	Consequence:T129 Cause:T130 Effect:T131
+A36	Degree E35 Facilitate
+T130	Argument 13302 13337;13338 13367	die Flankengrenzlinien der Flächen- fächer in ihrem Zusammenhange
+T131	Argument 13368 13405;13406 13460	die Trennungsmarken der nebeneinander situirten Hiehszige, nämlich die Wirthschaftsstreiten.
+T132	Consequence 13497 13504	zwingen
+E36	Consequence:T132 Cause:T133 Effect:T134
+A37	Degree E36 Facilitate
+T133	Argument 13461 13496	Die Waldgestalt und Terrainbildlun,
+T134	Argument 13512 13533;13534 13569	zu mancherlei Moditi- cationen der Abtheilungs-Grun.lform
+T135	Note 14077 14097	Die Abtheilungen als
+#31	AnnotatorNotes T135	Ignore
+T136	Note 14167 14187	Hiebsfächer fiir ge.
+#32	AnnotatorNotes T136	Ignore
+T137	Note 14264 14284	wisse Zeitabschnitte
+#33	AnnotatorNotes T137	Ignore
+T138	Note 14370 14391	(Perioden). Bedeutung
+#34	AnnotatorNotes T138	Ignore
+T139	Note 14473 14492	der Periodenziffern
+#35	AnnotatorNotes T139	Ignore
+T140	Note 14507 14529;14530 14550	oder der in die Hiebs- züge eingezeichneten
+#36	AnnotatorNotes T140	Ignore
+T141	Note 14611 14632	Pfeile. Vortheile der
+#37	AnnotatorNotes T141	Ignore
+T142	Note 14694 14711	dauernd markirten
+#38	AnnotatorNotes T142	Ignore
+T143	Argument 14777 14789	Abtheilungen
+#39	AnnotatorNotes T143	Ignore
+T144	Note 17436 17455	Brouillons zum Ent-
+#40	AnnotatorNotes T144	Ignore
+T145	Note 17535 17557	wurfe der Eintheilung.
+#41	AnnotatorNotes T145	Ignore
+T146	Note 18740 18760	schaftliche Vorerhe-
+#42	AnnotatorNotes T146	Ignore
+T147	Note 18839 18860	bungen im Waldle, als
+#43	AnnotatorNotes T147	Ignore
+T148	Note 18937 18956	Grundlagen des Ein-
+#44	AnnotatorNotes T148	Ignore
+T149	Note 19060 19082	theilungs - Entwurſes,
+#45	AnnotatorNotes T149	Ignore
+T150	Note 19161 19179	sowie der zunächst
+#46	AnnotatorNotes T150	Ignore
+T151	Note 19259 19278	und späterhin ange-
+#47	AnnotatorNotes T151	Ignore
+T152	Note 19358 19380	zeigtenSchlagfiihrung.
+#48	AnnotatorNotes T152	Ignore
+T153	Note 21107 21126	Beginn der Einthei.
+#49	AnnotatorNotes T153	Ignore
+T154	Note 21195 21217	lung mit der Ausschei-
+#50	AnnotatorNotes T154	Ignore
+T155	Note 21298 21315	dung von Plänter,
+#51	AnnotatorNotes T155	Ignore
+T156	Note 21353 21374;21375 21396	Schutz- und Bannwald, feruer der ausser Er-
+#52	AnnotatorNotes T156	Ignore
+T157	Note 21471 21493	tragsabschlag bleiben-
+#53	AnnotatorNotes T157	Ignore
+T158	Note 21576 21592	den Flächen. Ah.
+#54	AnnotatorNotes T158	Ignore
+T159	Note 21667 21689	grenzung der Betriebs-
+#55	AnnotatorNotes T159	Ignore
+T160	Note 21703 21710	classen
+#56	AnnotatorNotes T160	Ignore
+T161	Note 21719 21737	Anhaltsgegenstände
+#57	AnnotatorNotes T161	Ignore
+T162	Note 21807 21826	für die Hauptlinien
+#58	AnnotatorNotes T162	Ignore
+T163	Note 21908 21924	der Eintheilung.
+#59	AnnotatorNotes T163	Ignore
+T164	Note 22001 22017;22018 22037	Die Wirtschafts- streifen, ihr Zweck
+#60	AnnotatorNotes T164	Ignore
+T165	Note 22368 22388	und die künftige Be-
+#61	AnnotatorNotes T165	Ignore
+T166	Note 22465 22486	handlung derselben. –
+#62	AnnotatorNotes T166	Ignore
+T167	Note 22565 22585	Projectirung der Ab-
+#63	AnnotatorNotes T167	Ignore
+T168	Note 22665 22684	theilungslinien mit
+#64	AnnotatorNotes T168	Ignore
+T169	Note 22767 22788;22789 22808	Benützung natürlicher Merkmale und Anwen.
+#65	AnnotatorNotes T169	Ignore
+T170	Note 22891 22911	dung von Schneissen,
+#66	AnnotatorNotes T170	Ignore
+T171	Argument 14572 14582	keineswegs
+T172	Argument 14560 14566	hierin
+T173	Consequence 14583 14592	ein Zwang
+E37	Consequence:T173 Cause:T172 Effect:T174 Controlling:T171
+A38	Degree E37 Facilitate
+T174	Argument 14594 14610;14633 14692;14712 14776;14791 14827	die periodischen llolzabgabesätze beschränkt auf diesen Rahmen und ohne Rück sicht auf die normale oder concrete Ertragsfähigkeit der um tan- genen Flächen ausmitteln zu miissen.
+T175	Argument 14932 14942;14943 14952	das Hiebs- planideal
+T176	Argument 14953 14956	sie
+T177	Argument 14828 14844	Den Ibtheilungen
+R1	Coref Arg1:T176 Arg2:T177	
+T178	Consequence 14957 14965	zuweiset
+E38	Consequence:T178 Cause:T175 Affected:T176
+A39	Degree E38 Facilitate
+T179	Consequence 15089 15097	anzeigen
+E39	Consequence:T179 Effect:T180 Cause:T181
+A40	Degree E39 Facilitate
+T180	Argument 15099 15101;15102 15176;15177 15240;15241 15311;15312 15354	wo innerhalb desselben liebsznyes die Bestandesa nbiebe bei normaler, das ist bei einer der Schlagfolge entsprechenden Alterselassen-Lagerung zu machen wären, sondern auch in welcher Richtung lie Schlagtouren von Periode 20 Periode sich fortsetzen sollen.
+T181	Argument 15023 15075	Vorschreiten von den niederen zu den höheren Nummern
+T182	Purpose 15527 15533	beluts
+E40	Purpose:T182 Cause:T183 Effect:T184
+A41	Degree E40 Facilitate
+T183	Argument 15534 15585	Flankendeckung von der einen oder der anderen Seite
+T184	Argument 15586 15615;15616 15662	entweiler friiher oder später als die anderen abzuholzen beabsichtigt werden
+T185	Consequence 15387 15393;15399 15401	deuten an
+E41	Consequence:T185 Cause:T186 Effect:T187
+A42	Degree E41 Facilitate
+T186	Argument 15355 15378;15379 15386	Die erwähnten Perioden- nummern
+T187	Argument 15403 15456;15457 15533;15534 15615;15616 15662	welche von zwei oder mehreren angrenzenden, jedoch in Verschiedenen, parallel laufenden liebszigen liegenılen Abtheilungen, beluts Flankendeckung von der einen oder der anderen Seite entweiler friiher oder später als die anderen abzuholzen beabsichtigt werden
+T188	Argument 15664 15694;15695 15712	Falls keine Periodennummern in Anwendung kommen,
+T189	Argument 15767 15771;15772 15780;15793 15852;15853 15910	vlie Richtung nach welcher man die Schläge (von der Feder zur Spitze vies Preiles vorschreitend) aneinander zu reihen beabsichtigt.
+T190	Purpose 15713 15717;15781 15791	wird angedeutet
+E42	Purpose:T190 Controlling:T188 Trigger:T191 Effect:T192 Cause:T189
+A43	Degree E42 Facilitate
+T191	Argument 15718 15726	mittelst
+T192	Argument 15727 15734	Pfeilen
+T193	Consequence 16128 16130	so
+E43	Consequence:T193 Cause:T194 Effect:T195
+A44	Degree E43 Facilitate
+T194	Argument 15911 15931;15956 16034;16035 16109;16110 16127	Soll die Reihenfolge der Schläge innerhalb einer einzelnen Abtheilung, im Vergleich zur allgemeinen Schlagrichtung in der Längenerstreckung des Hiebszuges, ausnahmsweise eine abweichende sein,
+T195	Argument 16131 16190	lässt sich diens mittelst eines kleineren Pfeiles andeuten.
+T196	Argument 16142 16147	diens
+T197	Argument 16157 16180	eines kleineren Pfeiles
+T198	Purpose 16181 16189	andeuten
+E44	Purpose:T198 Effect:T197 Cause:T196 Trigger:T199
+A45	Degree E44 Facilitate
+T199	Argument 16148 16156	mittelst
+R2	Coref Arg1:T196 Arg2:T194	
+T200	Argument 16322 16339;16340 16352	der Deckung gegen Flankenwinde
+T201	Argument 16223 16249	die nothwendige Hiebsfolge
+T202	Argument 16250 16267;16268 16308	der nebeneinander liegenden Abtheilungen zweier Hiebsziige
+T203	Purpose 16310 16321	aus Gründen
+E45	Purpose:T203 Cause:T200 Effect:T201 Affected:T202
+A46	Degree E45 Facilitate
+T206	Argument 16367 16374	Pfeilen
+T204	Argument 16353 16366	mit Hilfe von
+T205	Purpose 16375 16383	andeuten
+E46	Purpose:T205 Trigger:T204 Effect:T206 Cause:T201
+A47	Degree E46 Facilitate
+T207	Consequence 16402 16407	geben
+E47	Consequence:T207 Cause:T209 Effect:T208
+A48	Degree E47 Facilitate
+T208	Argument 16414 16451;16452 16472	den Rahmen für die künftige Schlagan- lage und Schlagfolge
+T209	Argument 16385 16401	Die Abtheilungen
+T210	Consequence 16474 16485	erleichtern
+E48	Consequence:T210 Cause:T209 Controlling:T211 Effect:T212
+A49	Degree E48 Facilitate
+T211	Argument 16486 16524	bei markanter und dauernder Begrenzung
+T212	Argument 16582 16603;16604 16626	die geometrischen und taxatorischen Arbeiten
+T213	Purpose 16632 16638	dienen
+E49	Purpose:T213 Trigger:T214 Effect:T216 Cause:T215
+A50	Degree E49 Facilitate
+T214	Argument 16647 16650	zur
+T215	Argument 16651 16685;16686 16715	rascheren Orientirung und Controle bei allen Betriebsoperationen
+T216	Argument 16628 16631	sie
+R3	Coref Arg1:T216 Arg2:T209	
+T217	Note 16903 16912	Jusdelmuy
+#67	AnnotatorNotes T217	Ausdehnung
+T218	Argument 16925 16948	werden sie unerlässlich
+T219	Consequence 16889 16892	bei
+E50	Consequence:T219 Cause:T220 Effect:T218 Affected:T221
+A51	Degree E50 Facilitate
+A52	Correlation E50
+T220	Argument 16893 16917;16918 16924	grösserer Jusdelmuy des- selben
+T221	Argument 16932 16935	sie
+T222	Argument 16807 16833	Derlei Wirthschaftsfiguren
+R4	Coref Arg1:T221 Arg2:T222	
+T223	Consequence 16950 16954	weil
+E51	Consequence:T223 Cause:T224 Effect:T218
+A53	Degree E51 Facilitate
+T224	Argument 16955 16997;16998 17071;17072 17154;17155 17230;17231 17264	bei dem im Staatsforste allenthalben wizu- strebenden geregelten Plänterwaldbetriebe das geordnete Fortschreiten der rationell angelegten Jahresnutzungsflächen, bei gleichzeitigem Aussetzen des Holz- einschlages in den mit Jungwuchs zu vervollständigenden Bestandespartien an feste Grenzen sich zu halten hat.
+T225	Argument 17719 17790;17791 17803	von Seite der Ingenieur-Abtheilungen der Directionen oder des Ackerhad- ministeriums
+T226	Argument 17804 17814;17824 17870;17871 17925	Brouillons von jenen Wirthschaftsbezirken, für die man in nächster Zeit Betriebspläne zu begründen beabsichtigt.
+T228	Argument 17364 17435;17456 17534;17558 17633;17634 17711	Mit Benutzung der Karten des Grundsteuer-Katasters, ferner der Special- Terrainkarten les militär.-geographischen Instituts, soweit diese in grösserem Massstabe und als Ergebniss der neueren Aufnahmen zu beziehen sind, endlich auch mit Ililfe der auf einigen Staatsgiitern vorhandenen älteren Forstkarten
+T229	Argument 17364 17367	Mit
+T230	Argument 17639 17649	mit Ililfe
+T227	Motivation 17712 17718;17815 17823	werden verfasst
+E52	Motivation:T227 Trigger:T229 Trigger2:T230 Cause:T228 Effect:T226 Actor:T225
+A54	Degree E52 Facilitate
+T234	Argument 17965 18033;18034 18061	Schichtencurven oder leicht hingeworfener Schraffuur (z. B. mittelst des sogenannten Schummerns)
+T235	Argument 18062 18087	die Berg- und Thalbildung
+T237	Argument 18105 18109;18110 18167	ein- facher, blauer Linien und beziehungsweise blauer Konturen
+T238	Argument 18168 18184;18185 18210	die Wasserläute, Seen, Teiche und Siimpfe,
+T233	Purpose 17956 17964	mittelst
+E54	Purpose:T233 Cause:T235 Effect:T234
+A56	Degree E54 Facilitate
+T236	Purpose 18096 18104	mittelst
+E55	Purpose:T236 Effect:T237 Cause:T238
+A57	Degree E55 Facilitate
+T231	Argument 18917 18936;18957 19008	die Orientirung und (lie weiteren vorläutigen Aufnahmen oder Erhebungen
+T232	Argument 19102 19160;19180 19258;19279 19300	die auffindbaren trigonometrischen Punkte des Grundstener- Katasters mit den gebräuchlichen Signalen zu versehen und deren Standpunkte im Brouillon anzumerken.
+T239	Purpose 18901 18916	Zweckmässig für
+E53	Purpose:T239 Cause:T231 Effect:T232 Controlling:T240
+A55	Degree E53 Facilitate
+T240	Argument 19023 19035;19083 19101	beim Beginne der Recognoscirung
+T241	Argument 19381 19455;19456 19476	die l'ebereinstimmung der graphischen Darstellungen des Brouillons mit der Natur zu constatiren
+T242	Argument 19483 19527	vorkommende grobe Abweichungen zu beseitigen
+T243	Argument 19539 19606	das verjüngte Bild des Waldes nach Thunlichkeit zu vervollständigen
+T244	Argument 19317 19335	die Recognoscirung
+T245	Purpose 19313 19316;19336 19347	hat die Aufgabe
+E56	Purpose:T245 Effect:T244 Cause:T243
+A58	Degree E56 Facilitate
+T246	Purpose 19313 19316;19336 19347	hat die Aufgabe
+E57	Purpose:T246 Effect:T244 Cause:T242
+A59	Degree E57 Facilitate
+T247	Purpose 19313 19316;19336 19347	hat die Aufgabe
+E58	Purpose:T247 Cause:T241 Effect:T244
+A60	Degree E58 Facilitate
+T248	Consequence 19737 19744	erlaubt
+E59	Consequence:T248 Cause:T249 Effect:T250
+A61	Degree E59 Facilitate
+T249	Argument 19704 19736	die benutzte geometrische Skizze
+T250	Argument 19701 19703	es
+T251	Argument 19657 19684	mit jenem Genauigkeitsgrade
+R5	Coref Arg1:T250 Arg2:T251	
+T255	Argument 20320 20366	nahe den Punkten höhere Holzwüchse sich finden
+T256	Argument 20368 20373;20374 20445;20446 20482	einen Stamm oder ein Stämmchen anzuschalmen und das Zeichen des geometrischen Punktes sichtbar darauf zu schreiben
+T257	Consequence 20311 20319	dort, wo
+E61	Consequence:T257 Cause:T255 Effect:T256
+A63	Degree E61 Facilitate
+T258	Argument 20484 20514;20591 20601;20602 20608	die Richtung von Scheidelinien kennbar zu machen
+T259	Argument 20526 20545	Anreissen der Bäume
+T260	Argument 20557 20590	lichte Farbenstriche an derselben
+T261	Purpose 20520 20525	durch
+E62	Purpose:T261 Cause:T258 Effect:T259
+A64	Degree E62 Facilitate
+T262	Purpose 20551 20556	durch
+E63	Purpose:T262 Cause:T258 Effect:T260
+A65	Degree E63 Facilitate
+T252	Argument 20008 20060;20061 20138;20139 20166	kenntlich bezeichneter tief in den Boden getriebener Pflöcke, verbunden mit Kreuzgräbchen, so dass der Kreuzungspunkt der Gräbchen den Pflockstandpunkt bildet
+T253	Argument 20174 20194	Erd- oder Steinkegel
+T254	Argument 20203 20215;20216 20222	auf felsigem Grunde
+T263	Argument 20232 20276	eines in den Stein rob eingehauenen Zeichens
+T264	Argument 19985 19998;20277 20290	Letzteres hat zu geschehen.
+T265	Purpose 19999 20007	mittelst
+E60	Purpose:T265 Cause:T264 Effect:T252
+A62	Degree E60 Facilitate
+T266	Purpose 20168 20173	durch
+E64	Purpose:T266 Cause:T264 Effect:T253
+A66	Degree E64 Facilitate
+T267	Purpose 20223 20231	mittelst
+E65	Purpose:T267 Controlling:T254 Cause:T264 Effect:T263
+A67	Degree E65 Facilitate
+T268	Motivation 21511 21528	im Bejahungsfalle
+E66	Motivation:T268 Cause:T270 Effect:T269
+A68	Degree E66 Facilitate
+T269	Argument 21529 21562	sind deren Grenzen zu projectiren
+T270	Argument 21422 21470;21494 21506	die Erwägung, ob der Forst in Betriebsclassen zu zerlegen sei
+T271	Consequence 21761 21774;21960 21962	schmiegt sich an
+E67	Consequence:T271 Cause:T273 Affected:T272
+A69	Degree E67 Facilitate
+T272	Argument 21738 21760;21775 21795	Die innere Eintheilung in ihren Hauptlinien
+T273	Argument 21796 21806;21827 21907;21925 21959	theils den Bergriicken und Thaleinschuitten, theils bestehenden Hauptstrassen, Eisenbahnen, Kanälen und grösseren Wasserlänten
+T274	Consequence 21964 21969;22405 22413	trägt Rechnung
+E68	Consequence:T274 Affected:T272 Cause:T282 Controlling:T284
+A70	Degree E68 Facilitate
+T275	Note 22116 22199;22200 22289;22290 22340	*, Die ersteren Winde belrohen die Hiebszüge in der Front, nämlich mit ihrem Drucke parallel zu der Längenerstreckung jener, die anderen in der Flanke, nämlich rechtwinkelig aut' die Längsrichtung derselben (cler Hiebszige).
+#68	AnnotatorNotes T275	Fußnote
+T276	Consequence 22183 22186	mit
+E69	Consequence:T276 Cause:T278 Effect:T277
+A71	Degree E69 Facilitate
+T277	Argument 22119 22173	Die ersteren Winde belrohen die Hiebszüge in der Front
+T278	Argument 22187 22199;22200 22289;22290 22322	ihrem Drucke parallel zu der Längenerstreckung jener, die anderen in der Flanke, nämlich rechtwinkelig aut' die Längsrichtung derselben
+T279	Consequence 22138 22146	belrohen
+E70	Consequence:T279 Cause:T280 Affected:T281
+A72	Degree E70 Inhibit
+T280	Argument 22119 22137	Die ersteren Winde
+T281	Argument 22147 22173	die Hiebszüge in der Front
+T282	Argument 21980 22000	dem eingeschlossenen
+T283	Argument 22038 22077	Vichtholzboden oder improductiven Lande
+T284	Argument 22079 22115;22389 22404	je nach dessen Lagerung und Flächen- form gebührende
+T285	Consequence 22454 22460	gelten
+E71	Consequence:T285 Cause:T287 Effect:T286
+A73	Degree E71 Facilitate
+T286	Argument 22415 22453	Als Hauptlinien des Eintheilungsnetzes
+T287	Argument 22461 22464;22487 22534	die Scheidelinien nebeneinander liegender Hiebszüge
+T288	Purpose 22646 22648	um
+E72	Purpose:T288 Effect:T289 Cause:T290
+A74	Degree E72 Facilitate
+T289	Argument 22586 22644	Wirthschaftsstreifen bis zu 8 Meter Breite geöfinet werden
+T290	Argument 22649 22664;22685 22766;22809 22817	an deren Seiter allmälig sturmfeste Bestandlesränder, als Sicherung gegen die Flankenwinde heran- zuziehen
+T291	Consequence 22856 22861	daher
+E73	Consequence:T291 Cause:T292 Effect:T293
+A75	Degree E73 Facilitate
+T292	Argument 22819 22854	Nach Erfüllung letzterer Bestimmung
+T293	Argument 22862 22889	etwa nach 10 oder 20 Jahren
+T294	Argument 22912 22985;22986 23015	können die Wirthschaftsstreifen womöglich mit Laubhölzern bis auf 2 Meter Breite licht bepflanzt werden
+T295	Argument 22824 22854	Erfüllung letzterer Bestimmung
+T296	Consequence 22819 22823	Nach
+E74	Consequence:T296 Cause:T295 Effect:T294 Controlling:T297
+A76	Degree E74 Facilitate
+T297	Argument 23017 23065;23066 23132;23133 23154	wenn diese Aufhiebe nicht als Wege und zur Holz- ablagerung dienen oder wegen leichterer Bekämpfung von Waldbränden offen bleiben müssen.
+T298	Purpose 23089 23094	wegen
+E75	Purpose:T298 Cause:T299 Effect:T300
+A77	Degree E75 Facilitate
+T299	Argument 23095 23132	leichterer Bekämpfung von Waldbränden
+T300	Argument 23133 23153	offen bleiben müssen
+T301	Argument 23344 23385;23386 23464;23465 23490	diese Scheidelinien nach den angrenzenden Hiebszügen entweder in unveränderter Richtung oder in einer etwas abweichenden Richtung sich fortsetzen,
+T302	Consequence 23331 23343	derart, dass
+E76	Consequence:T302 Cause:T304 Effect:T301 Controlling:T303
+A78	Degree E76 Facilitate
+T303	Argument 23491 23541;23542 23621;23622 23641	es wäre denn, dass je zwei Hiebsziige durch breite Wasserläufe ovler zwischenliegenden Nichtholzboden vollständig ausser Zusammen- hang gebracht sind.
+T304	Argument 23305 23319	Dies geschieht
+T305	Consequence 23529 23534	durch
+E77	Consequence:T305 Cause:T306 Effect:T307
+A79	Degree E77 Facilitate
+T306	Argument 23535 23541;23542 23592	breite Wasserläufe ovler zwischenliegenden Nichtholzboden
+T307	Argument 23510 23528;23593 23621;23622 23641	je zwei Hiebsziige vollständig ausser Zusammen- hang gebracht sind.
+T308	Consequence 24427 24439	ausschliesst
+E78	Consequence:T308 Controlling:T311 Effect:T310 Cause:T309
+A80	Degree E78 Inhibit
+T309	Argument 24336 24352	in eine Richtung
+T310	Argument 24370 24383;24384 24412	die Befahrung oder wenigstens die Begehung
+T311	Argument 24413 24418	nicht
+T312	Motivation 24188 24192	nach
+E79	Motivation:T312 Effect:T315 Controlling:T313 Cause:T314
+A81	Degree E79 Facilitate
+T313	Argument 24182 24187	nicht
+T314	Argument 24193 24225;24226 24236	dem Verlaufe von Bergricken oder Thalsohlen
+T315	Argument 24157 24181	die Wirthschaftsstreifen
+T316	Motivation 24314 24321	trachte
+E80	Motivation:T316 Effect:T321 Actor:T320 Trigger:T319 Trigger2:T318 Cause:T317
+A82	Degree E80 Facilitate
+T317	Argument 24157 24225;24226 24300;24301 24307	die Wirthschaftsstreifen nicht nach dem Verlaufe von Bergricken oder Thalsohlen projectirt werden, oder nicht ohnehin schon den fahrbaren Wegen folgen
+T318	Argument 24309 24313	dort
+T319	Argument 24154 24156	Wo
+T320	Argument 24322 24325	man
+T321	Argument 24326 24383;24384 24439	dieselben in eine Richtung zu legen, welche die Befahrung oder wenigstens die Begehung nicht absolut ausschliesst
+T322	Motivation 23816 23831	darin begrinder
+E81	Motivation:T322 Effect:T323 Cause:T324
+A83	Degree E81 Facilitate
+T323	Argument 23649 23701;23702 23784;23785 23814	das Bestreben, die Abtheilungslinien zusammenhängen, durch sie daher die liebszugslinien kreuzen, nicht aber jene auf den Wirthschafts- streifen aufsitzen“ zu lassen
+#69	AnnotatorNotes E81	darin begründet
+T324	Argument 23833 23860;23861 23943;23944 23960	dass man an den Flanken der Abtheilungen nur je ein Fach, nicht aber zwei oder mehrere Hiebsfächer will gegen- überliegen haben
+T325	Purpose 23962 23964	um
+E82	Purpose:T325 Cause:T326 Effect:T324
+A84	Degree E82 Facilitate
+T326	Argument 23965 24023;24024 24104;24105 24153	so die Möglichkeit zu bewahren, nachtheilige Blossstellun- gen der einzelnen Periodenflächen beim Abtrielle der Abtheilungen des angrenzen- den Hiebszuges im kleinsten Masse hervorzurufen.
+T327	Consequence 23712 23717	daher
+E83	Consequence:T327 Effect:T329 Cause:T328
+A85	Degree E83 Facilitate
+T328	Argument 23664 23700	die Abtheilungslinien zusammenhängen
+T329	Argument 23718 23745	die liebszugslinien kreuzen
+T330	Argument 23758 23784;23785 23804	jene auf den Wirthschafts- streifen aufsitzen“
+E84	Consequence:T327 Cause:T328 Controlling:T331 Effect:T330
+A86	Degree E84 Facilitate
+T331	Argument 23747 23752	nicht
+T332	Purpose 24542 24547	damit
+E85	Purpose:T332 Cause:T333 Effect:T334
+A87	Degree E85 Facilitate
+T333	Argument 24548 24591;24592 24605	die Flankenwinde keine Busen als Angriff's- punkte finden
+T334	Argument 24441 24511;24512 24540	Zu grosse Winkel oder hin und wierler einschneidende Buchten grösserer Tiefe sind aber zu vermeiden
+T335	Consequence 24857 24859;24876 24880	so dass
+E86	Consequence:T335 Cause:T336 Effect:T337
+A88	Degree E86 Facilitate
+T336	Argument 24860 24874	oft zu brechen
+T337	Argument 24881 24910;24911 24986;24987 25066;25067 25092	durch die Markirung zu vieler Winkel die Anzahl der künftig nöthigen Sicherheitssteine nicht über die zu- lässige Menge (auf je 200 Meter Distanz durchschnittlich einen Sicherheitsstein gerechnet) vermehrt wird.
+T338	Consequence 25078 25091	vermehrt wird
+E87	Consequence:T338 Controlling:T342 Effect:T341 Cause:T340 Trigger:T339
+A89	Degree E87 Facilitate
+A90	Correlation E87
+T339	Argument 24881 24886	durch
+T340	Argument 24887 24910;24911 24917	die Markirung zu vieler Winkel
+T341	Argument 24918 24967;24974 24986;24987 25000	die Anzahl der künftig nöthigen Sicherheitssteine über die zu- lässige Menge
+T342	Argument 24968 24973	nicht
+T343	Argument 25098 25159;25160 25204	Felswände, Wasserläufe oder andere natiirliche Marken als die Scheidegrenzen der lliebszüge sich empfehlen
+T344	Argument 25206 25236;25237 25253	hat die vorstehende Bestimmung keine Anwendung.
+T345	Consequence 25093 25097	Wenn
+E88	Consequence:T345 Cause:T343 Effect:T344
+A91	Degree E88 Facilitate
+T346	Argument 25098 25151	Felswände, Wasserläufe oder andere natiirliche Marken
+T347	Argument 25156 25159;25160 25189	die Scheidegrenzen der lliebszüge
+T348	Motivation 25152 25155;25190 25204	als sich empfehlen
+E89	Motivation:T348 Cause:T346 Effect:T347
+A92	Degree E89 Facilitate
+T349	Motivation 25614 25618;25629 25638	kann entstehen
+E90	Motivation:T349 Cause:T350 Effect:T351
+A93	Degree E90 Facilitate
+T350	Argument 25432 25505;25506 25585;25586 25613	Beim Entwurfe der ebengenannten Linien an Bergseiten, welche durch Riegel und diesen entsprechenden Thäler (Seitenthäler «les llauptthales) in ihrer Ver- flachung unterbrochen sind,
+T351	Argument 25619 25628;25640 25665;25666 25716	die Frage ob man sie auf die Ricken der Riegel oder in die Thaleinschnitte legen solle
+T352	Argument 25499 25505;25506 25571	Riegel und diesen entsprechenden Thäler (Seitenthäler «les llauptthales)
+T353	Argument 25474 25492	Bergseiten, welche
+T354	Consequence 25493 25498	durch
+E91	Consequence:T354 Affected:T353 Cause:T352 Effect:T355
+A94	Degree E91 Facilitate
+T355	Argument 25572 25585;25586 25607	in ihrer Ver- flachung unterbrochen
+T356	Argument 25770 25817	ist die erstgenannte Lage der Linie vorzuziehen
+T357	Argument 25835 25844;25845 25926;25927 25952	weil dann (lie Abtheilung aus einem Bringungsgebiete, nämlich aus zwei in dasselbe Thal ab- dachenden Hängen besteht,
+T358	Motivation 25819 25833	aus dem Grunde
+E92	Motivation:T358 Cause:T357 Effect:T356
+A95	Degree E92 Facilitate
+T359	Argument 25718 25741	Wenn die Wahl freisteht
+T360	Consequence 25767 25769	so
+E93	Consequence:T360 Cause:T359 Effect:T356
+A96	Degree E93 Facilitate
+T361	Consequence 26003 26009	bilden
+E94	Consequence:T361 Cause:T362 Effect:T363
+A97	Degree E94 Facilitate
+T362	Argument 25972 25991	die Thaleinschnitte
+T363	Argument 25992 26002	die Grenze
+T364	Consequence 25967 25971	wenn
+E95	Consequence:T364 Cause:T366 Effect:T365
+A98	Degree E95 Facilitate
+T365	Argument 26011 26066	ein Fach nach zwei Thalgebieten sein Holz abyeben muss.
+T366	Argument 25972 26002;26003 26009	die Thaleinschnitte die Grenze bilden
+T367	Argument 26067 26138;26139 26213;26214 26276	Ausgedehnte, gegen das Thal hin von stark geneigten Bergseiten oder von Felswänden begrenzte Bergricken, isolirte Bergkuppen und die grösseren von steilen Berglehnen oder Felswänden umgebene Mulden und Buchten
+T368	Consequence 26277 26285	erhalten
+E96	Consequence:T368 Effect:T369 Affected:T367
+A99	Degree E96 Facilitate
+T369	Argument 26286 26290;26291 26339	ihre cigene Eintheilung als selbstständige liebszüye.
+T370	Motivation 26453 26457	dort
+E97	Motivation:T370 Trigger:T371 Cause:T373 Effect:T374 Actor:T372
+A100	Degree E97 Facilitate
+T371	Argument 26340 26342	Wo
+T372	Argument 26462 26465	man
+T373	Argument 26343 26408;26409 26452	die angedeuteten, schon vorhandenen oder natürlichen Merkmale zur Markirung der Eintheilung nicht hinreichen,
+T374	Argument 26458 26461;26495 26566;26567 26575	hat geraile, kiinstliche Bestandesgassen oder sogenannte Schneissen zu pro- jectiren
+T375	Purpose 26466 26468	zu
+E98	Purpose:T375 Cause:T377 Effect:T374 Affected:T376 Actor:T372
+A101	Degree E98 Facilitate
+T376	Argument 26469 26474	ihrer
+T377	Argument 26475 26489;26490 26494	Vervollständi- ging
+T378	Argument 26577 26645;26646 26728;26729 26773	In niedleren, auf den Kuppen und Kämmen noch bewaldeten Gebirgen mit breiten, die Scheidelinie der beiderseits abfallenden Berglehnen (den (rath) nicht kennzeichnenden Ricken, ferner im Flachlande
+T381	Argument 26866 26877;26878 26942;26943 27006;27007 27070	ausgenommen in den schon angedeuteten Fällen, ferner auch dann, wenn stabile Wege und Gewässer, oder Acker-, Wiesen- und Ilut weide-Streifen oder dergleichen bleibende Unterbrechungen sie vertreten können
+T382	Purpose 26821 26824	als
+E100	Purpose:T382 Cause:T383 Effect:T380
+A103	Degree E100 Facilitate
+T383	Argument 26825 26843	Eintheilungsmarken
+T379	Motivation 26844 26864	in Antrag zu bringen
+E99	Motivation:T379 Cause:T378 Effect:T380 Controlling:T381
+A102	Degree E99 Facilitate
+T380	Argument 26779 26804;26805 26820	ausschliessend künstliche Bestandesgassen
+T384	Argument 27072 27152;27153 27205	Nicht allein dort, wo kiinstliche Bestandesdurchhiebe die Abtheilungen scheiden, sondern auch bei anderen Trennungslinien der Fächer,
+T385	Motivation 27206 27210;27280 27290	wird projectirt
+E101	Motivation:T385 Cause:T384 Effect:T386 Trigger:T388 Trigger2:T387 Controlling:T389
+A104	Degree E101 Facilitate
+T386	Argument 27211 27227;27228 27279	zwischen je zwei Abtheilungen ein holzfreier Streifen von zwei Meter
+T387	Argument 27085 27093	dort, wo
+T388	Argument 27166 27169	bei
+T389	Argument 27292 27308;27309 27383;27384 27405	falls nicht etwa Lavinenzüge, Erdriesen etc., als Grenzen gewählt wurden und zureichend die Ibtheilungen trennen.
+T390	Consequence 27397 27404	trennen
+E102	Consequence:T390 Affected:T393 Effect:T392 Cause:T391
+A105	Degree E102 Facilitate
+T391	Argument 27309 27337	Lavinenzüge, Erdriesen etc.,
+T392	Argument 27369 27379	zureichend
+T393	Argument 27380 27383;27384 27396	die Ibtheilungen
+T394	Motivation 27350 27364	gewählt wurden
+E103	Motivation:T394 Cause:T391 Trigger:T395 Effect:T396
+A106	Degree E103 Facilitate
+T395	Argument 27338 27341	als
+T396	Argument 27342 27349	Grenzen
+T397	Note 27413 27432	Commissionelle Prü-
+#70	AnnotatorNotes T397	Ignore
+T398	Note 27508 27530	fung des Eintheilungs-
+#71	AnnotatorNotes T398	Ignore
+T399	Note 27610 27628	Entwurfes. Vorlage
+#72	AnnotatorNotes T399	Ignore
+T400	Note 27702 27721	des Befundes an das
+#73	AnnotatorNotes T400	Ignore
+T401	Note 27795 27815	Ackerbauministerium.
+#74	AnnotatorNotes T401	Ignore
+T402	Note 27890 27907	Beschäftigung der
+#75	AnnotatorNotes T402	Ignore
+T403	Note 27908 27929	Betriebseinrichtungs-
+#76	AnnotatorNotes T403	Ignore
+T404	Note 28008 28026	organe bis zur Ge.
+#77	AnnotatorNotes T404	Ignore
+T405	Note 28106 28126	nehmigung oder Modi-
+#78	AnnotatorNotes T405	Ignore
+T406	Note 28209 28232	ficirung des Entwurfes.
+#79	AnnotatorNotes T406	Ignore
+T407	Motivation 29062 29068	Sobald
+E104	Motivation:T407 Cause:T409 Effect:T408
+A107	Degree E104 Facilitate
+A108	Temporal E104
+T408	Argument 29166 29212;29213 29233	wird sofort zur Festlegung der räumlichen Ein- theilung geschritten
+T409	Argument 29069 29130;29131 29164	das dem Ackerbauministerium vorgelegte Project als zur Durch- fiihrung autorisirt zurückgelangt
+T410	Motivation 27433 27437	Nach
+E105	Motivation:T410 Cause:T411 Support:T414 Effect:T413 Affected:T412
+A109	Degree E105 Facilitate
+A110	Temporal E105
+T411	Argument 27438 27477	Ausfertigung des Eintheilungsprojectes,
+T412	Argument 27676 27701;27722 27739	die competente Forst- und Domänen-Direction
+T413	Argument 27672 27675;27740 27793	ist von dem Bereitliegen des Elaborats zu benachrichtigen
+T414	Argument 27478 27507;27531 27609;27629 27670	verbunden mit der Darstellung aller auf die künftige Iliebsführung einflussiibenden, gesammelten Erfahrungen und erhobenen thatsächlichen Verhältnisse
+T415	Argument 28680 28706	die vorgelegten Erhebungen
+T416	Argument 28711 28726;28727 28754	die Begriindung der künftigen lliebsanträge
+T417	Consequence 28707 28710;28755 28765	für massgebend
+E106	Consequence:T417 Cause:T415 Effect:T416
+A111	Degree E106 Facilitate
+T419	Argument 29334 29360	vorher übersehene Umstände
+T420	Motivation 29361 29369	gebotene
+E108	Motivation:T420 Trigger:T418 Cause:T419 Effect:T421
+A113	Degree E108 Facilitate
+T421	Argument 29370 29434	Aenderungen in der Lage von Punkten, oder im Verlaufe von Linien
+T418	Argument 29328 29333	durch
+T422	Consequence 29290 29295	gegen
+E107	Consequence:T422 Actor:T424 Effect:T425 Cause:T423
+A112	Degree E107 Facilitate
+T423	Argument 29296 29318	spätere Rechtfertigung
+T424	Argument 29244 29275	den Betriebseinrichtungsorganen
+T425	Argument 29276 29289;29319 29369;29370 29446	gestattet ist mindere, durch vorher übersehene Umstände gebotene Aenderungen in der Lage von Punkten, oder im Verlaufe von Linien vorzunehmen
+T426	Motivation 29511 29520	auf Grund
+E109	Motivation:T426 Effect:T427 Cause:T428
+A114	Degree E109 Facilitate
+T427	Argument 29480 29509	weitgreifenden Modificationen
+T428	Argument 29521 29541	gehöriger Motivirung
+T429	Motivation 29589 29592	ehe
+E110	Motivation:T429 Cause:T430 Effect:T431
+A115	Degree E110 Facilitate
+T430	Argument 29460 29520;29521 29587	die Ermächtigung zu weitgreifenden Modificationen, auf Grund gehöriger Motivirung, bei der Oberbehörde friiher einzuholen haben
+T431	Argument 29593 29600;29601 29629	jene in der Natur ausgefiihrt werden
+A116	Temporal E110
+T432	Argument 29635 29668	Festlegung des Eintheilungsnetzes
+T433	Argument 29677 29680;29681 29754;29755 29834;29835 29912;29913 29989;29990 30059;30060 30069	mit Hilfe der entsprechenden geodätischen Instrumente und Messgeräthe, im An- schlusse an die beim Entwurſe fixirten Punkte unter Anwendung von Pflöcken oder am besten, und wenn es irgend möglich wird, sogleich mit den bleibenden, vor- geschriebenen Marken, verbunden mit den schon friiher vorgezeichneten Siche- rungsmassregeln, ferner durch schmal aufgehauene (assen in den Ilolz- beständen
+T434	Purpose 29669 29676	erfolgt
+E111	Purpose:T434 Cause:T432 Effect:T433
+A117	Degree E111 Facilitate
+T435	Note 30135 30156	Für welche Forste Pro
+#80	AnnotatorNotes T435	Ignore
+T436	Note 30230 30251	visorien zu verfassen
+#81	AnnotatorNotes T436	Ignore
+T437	Note 30327 30348	sind und was sie ent-
+#82	AnnotatorNotes T437	Ignore
+T438	Note 30428 30442	halten sollen.
+#83	AnnotatorNotes T438	Ignore
+T439	Note 30687 30705	Die Begründung des
+#84	AnnotatorNotes T439	Ignore
+T440	Note 30767 30788	Provisoriums hat sich
+#85	AnnotatorNotes T440	Ignore
+T441	Note 30857 30877	mit der Projectirung
+#86	AnnotatorNotes T441	Ignore
+T442	Note 30957 30978	der inneren Forstein-
+#87	AnnotatorNotes T442	Ignore
+T443	Note 31037 31059;31060 31081	theilung zu verbinden, ebenso die commissio-
+#88	AnnotatorNotes T443	Ignore
+T444	Note 31155 31178	nelle Prüfung der Letz-
+#89	AnnotatorNotes T444	Ignore
+T445	Argument 31254 31276	teren mit der Priifung
+#90	AnnotatorNotes T445	Ignore
+T446	Argument 30264 30326;30349 30365	der bestehenden Vertrags- oder Servituts-Verhältnisse oder aus anderen Griinden
+T448	Argument 30401 30427;30443 30516	die Arbeiten der genaueren Vermessung und Taxation bis zum gegebenen Termin nicht zu bewältigen sind
+T447	Argument 30369 30383	dringend rasch
+T449	Argument 30177 30229;30252 30257	die Aufstellung von Betriebsplänen als Wirthschafts- basis
+T450	Consequence 30258 30263	wegen
+E112	Consequence:T450 Cause:T446 Effect:T447
+A118	Degree E112 Facilitate
+T451	Argument 30161 30176	Forsten, welche
+T452	Motivation 30384 30394	erbeischen
+E113	Motivation:T452 Cause:T451 Effect:T449
+A119	Degree E113 Facilitate
+T453	Consequence 30366 30368;30396 30400	so dass
+E114	Consequence:T453 Cause:T447 Effect:T448
+A120	Degree E114 Facilitate
+T454	Argument 30525 30549	vorläufige llauungspläne
+T455	Argument 30554 30591	die IIaubarkeits- und Zwischennutzung
+T456	Purpose 30550 30553	für
+E115	Purpose:T456 Cause:T455 Effect:T454
+A121	Degree E115 Facilitate
+T457	Purpose 30626 30629	für
+E116	Purpose:T457 Cause:T459 Effect:T458
+A122	Degree E116 Facilitate
+T458	Argument 30600 30625	Aufforstung's präliminare
+T459	Argument 30630 30658	das nächstfolgende Decennium
+T460	Argument 30161 30229;30252 30326;30349 30400;30401 30427;30443 30517	Forsten, welche die Aufstellung von Betriebsplänen als Wirthschafts- basis wegen der bestehenden Vertrags- oder Servituts-Verhältnisse oder aus anderen Griinden so dringend rasch erbeischen, dass die Arbeiten der genaueren Vermessung und Taxation bis zum gegebenen Termin nicht zu bewältigen sind,
+T461	Argument 30518 30592;30593 30666;30667 30679	werden vorläufige llauungspläne für die IIaubarkeits- und Zwischennutzung. ferner Aufforstung's präliminare für das nächstfolgende Decennium zu ver- fassen sein.
+T462	Consequence 30157 30160	Bei
+E117	Consequence:T462 Cause:T460 Effect:T461
+A123	Degree E117 Facilitate
+T463	Argument 30836 30856;30878 30898	die Begründung eines solchen Provisoriums
+T464	Argument 30706 30766;30789 30856;30878 30911	Wurde den Betriebseinrichtungs-Organen in Verbindung mit dem betreffenden Forstverwalter oder diesem allein die Begründung eines solchen Provisoriums aufgetragen,
+T465	Consequence 30912 30914	so
+E118	Consequence:T465 Effect:T466 Cause:T464
+A124	Degree E118 Facilitate
+T466	Argument 30915 30956;30979 31035	haben die Genannten nach Projectirung der Forsteintheilung sogleich die Betriebspläne zu entwerfen
+T467	Argument 31005 31022	die Betriebspläne
+T468	Motivation 31026 31035	entwerfen
+E119	Motivation:T468 Actor:T469 Controlling:T470 Effect:T467
+A125	Degree E119 Facilitate
+T469	Argument 30921 30934	die Genannten
+T470	Argument 30935 30956;30979 31004	nach Projectirung der Forsteintheilung sogleich
+T471	Consequence 31138 31140	so
+E120	Consequence:T471 Cause:T472 Effect:T473
+A126	Degree E120 Facilitate
+T472	Argument 31082 31136	Genügen hiezu die bereits gesammelten Daten noch nicht
+T473	Argument 31141 31154;31179 31253;31277 31308	sind letztere durch die nöthigsten Bestandesausscheidungen und annähernden Massen- sowie Zuwachsschätzungen zu ergänzen.
+T474	Note 31350 31372	des Betriebspläne-Ent-
+#91	AnnotatorNotes T474	Ignore
+T475	Note 31446 31452	Wurfes
+#92	AnnotatorNotes T475	Ignore
+T476	Consequence 31471 31473	so
+E121	Consequence:T476 Cause:T477 Effect:T478 Affected:T479
+A127	Degree E121 Facilitate
+T477	Argument 31309 31349;31373 31445;31454 31470	Wurden dann endlich die Entwürfe der Be- triebspläne in Verbindung mit dem Projecte der räumlichen Eintheilung zu Stande gebracht,
+T478	Argument 31474 31513;31558 31578	ist für solche besondere Fälle nun erst davon Kunde zu geben
+T479	Argument 31514 31529;31530 31557	der competenten Forst- und Domänendirection
+T480	Consequence 31580 31586	worauf
+E122	Consequence:T480 Cause:T478 Actor:T481 Affected:T482 Effect:T483
+A128	Degree E122 Facilitate
+A129	Temporal E122
+T481	Argument 31587 31591	jene
+T482	Argument 31592 31606;31607 31680;31681 31757;31758 31790	die Priitungs- Commission in der für die Begutachtung des Eintheilungs-Entwurfes und der Hiebsplan-Grundlagen (§. 13) nach &. 16 dieser Instruction (Abtheilung II C) vorgeschriebenen Zusammensetzung
+T483	Argument 31791 31813	zur Wirksamkeit bringt
+R6	Coref Arg1:T481 Arg2:T479	
+T484	Note 32115 32134	Bestandtheile eines
+#93	AnnotatorNotes T484	Ignore
+T485	Note 32209 32227	provisorischen Be-
+#94	AnnotatorNotes T485	Ignore
+T486	Note 32306 32325	triebseinrichtungs-
+#95	AnnotatorNotes T486	Ignore
+T487	Note 32407 32415	operates
+#96	AnnotatorNotes T487	Ignore
+T488	Note 32813 32834	Vorlage der provisori
+#97	AnnotatorNotes T488	Ignore
+T489	Note 32904 32924	schen Elaborate beim
+#98	AnnotatorNotes T489	Ignore
+T490	Note 33001 33020	Ackerbauministerium
+#99	AnnotatorNotes T490	Ignore
+T491	Note 33269 33289	Die Verpflichtung zu
+#100	AnnotatorNotes T491	Ignore
+T492	Note 33367 33385	Nachtragsarbeiten,
+#101	AnnotatorNotes T492	Ignore
+T493	Note 33465 33485	wenn auch nur Provi-
+#102	AnnotatorNotes T493	Ignore
+T494	Note 33560 33576	sorien bestehen.
+#103	AnnotatorNotes T494	Ignore
+T495	Note 33584 33601	Umwandlungs-Zeite
+#104	AnnotatorNotes T495	Ignore
+T496	Note 33676 33698	punkt für das Proviso-
+#105	AnnotatorNotes T496	Ignore
+T497	Note 33783 33804	rium in «in Definiti-
+#106	AnnotatorNotes T497	Ignore
+T498	Note 33965 33968	Vum
+#107	AnnotatorNotes T498	Ignore
+T499	Argument 32135 32182	Ein provisorisches Betriebseinrichtungselaborat
+T500	Argument 32195 32208;32228 32261;32298 32305;32326 32406;32417 32442	denselben Be- schreibungen, Tabellen und Karten wie ein Operat, welches als ein genauer begriindetes und definitives zur sicheren Wirth- schaftsbasis geeignet ist
+T501	Consequence 32183 32194	besteht aus
+E123	Consequence:T501 Effect:T499 Cause:T500 Controlling:T502
+A130	Degree E123 Facilitate
+T502	Argument 32263 32295	init Ausnahme der Aufnahımskarte
+T503	Consequence 32643 32652	bewirkten
+E124	Consequence:T503 Cause:T505 Trigger:T504 Effect:T506
+A131	Degree E124 Facilitate
+T504	Argument 32605 32614	mit Hilfe
+T505	Argument 32615 32642	der reodätischen Erhebungen
+T506	Argument 32653 32672	Vervollständigungen
+T507	Argument 32496 32531	Die Nachweisungen des Provisoriumis
+T508	Argument 32555 32574;32575 32579	jenen Genauigkeits- grad
+T509	Argument 32601 32652;32653 32734;32735 32782	die mit Hilfe der reodätischen Erhebungen bewirkten Vervollständigungen, ferner die taxatorischen Ermittlungen nach den rascher, wenn auch weniger präcis zum Ziel führenden Methoden
+T510	Consequence 32784 32804	gewährleisten können
+E125	Consequence:T510 Cause:T509 Effect:T508 Affected:T507
+A132	Degree E125 Facilitate
+T511	Argument 33046 33102;33103 33113	eventuell mit den von vler Centralstelle angeordneten Ab änderungen
+T512	Consequence 32996 33000	nach
+E126	Consequence:T512 Cause:T513 Effect:T514 Controlling:T511
+A133	Degree E126 Facilitate
+A134	Temporal E126
+T513	Argument 33022 33044	erfolgter (ienehmigung
+T514	Argument 33114 33128	zweimal copirt
+T515	Argument 33133 33178;33179 33240	ein Exemplar der betreffenden Forstverwaltung und das zweite Exemplar dem Ackerbauministerium zum Gebrauche
+T516	Purpose 33130 33132;33241 33253;33254 33260	um übergeben zu können
+E127	Purpose:T516 Cause:T515 Effect:T514
+A135	Degree E127 Facilitate
+T517	Motivation 32945 32950	durch
+E128	Motivation:T517 Cause:T520 Effect:T519 Actor:T518 Affected:T521
+A136	Degree E128 Facilitate
+T518	Argument 32951 32964	die Direction
+T519	Argument 32864 32870;32965 32986	werden zur Prüfung vorgelegt
+T520	Argument 32835 32863;32871 32899	Die provisorischen Elaborate in ihrer ersten Ausfertigung
+T521	Argument 32900 32903;32925 32944	dem Ackerbauministerium
+T522	Argument 33838 33879;33880 33930	Ablauf des Jahrzehntes aber, nämlich beim Eintritte der ersten Betriebseinrichtungs-Revision
+T523	Argument 33833 33837	nach
+T524	Consequence 33932 33936;33956 33964	muss erfolgen
+E129	Consequence:T524 Trigger:T523 Cause:T522 Effect:T525
+A137	Degree E129 Facilitate
+T525	Argument 33937 33942	diess
+T526	Argument 33602 33674;33699 33769;33770 33782;33805 33831	Ein solches Provisorium dart, falls die verfügbaren Kräfte und Geldmitte es gestatten, noch vor Ablaut des Decenniums, wofiir es begründet ist, in ein Deti- nitivum umgewandelt werden
+R7	Coref Arg1:T525 Arg2:T526	
+T527	Argument 34441 34465	War dies nicht der Fall,
+T528	Motivation 34466 34468	so
+E130	Motivation:T528 Cause:T527 Effect:T530 Actor:T529
+A138	Degree E130 Facilitate
+T529	Argument 34534 34573	von den Organen der Betriebseinrichtung
+T530	Argument 34469 34515;34516 34528;34574 34592;34593 34669;34670 34713	muss die bezeichnete Aufgabe in ihrem geodäti- schen Theile und zwar theils im Zusammenhang mit der Festlegung der räumlichen Eintheilung, theils erst nach Vollen,lung dieses Geschäftes gelöst werden
+T531	Argument 34972 34983	die Grenzen
+T532	Argument 35162 35184;35185 35201	vollkommen sicher ver- markt erscheinen
+T533	Argument 35203 35259;35312 35323	ist es an der Zeit, die genaue geodätische Forstaufnahme zu beginnen
+T534	Argument 35291 35311	die Landesvermessung
+T535	Consequence 35274 35290	im Anschlusse an
+E131	Consequence:T535 Cause:T534 Effect:T533
+A139	Degree E131 Facilitate
+A140	Temporal E131
+T536	Consequence 34964 34971	nachdem
+E132	Consequence:T536 Cause:T531 Controlling:T540 Effect:T533
+A141	Degree E132 Facilitate
+A142	Temporal E132
+T537	Argument 35027 35032;35033 35070	Fest- stellung im Rechtswege geschehen muss
+T538	Consequence 35079 35084	daher
+E133	Consequence:T538 Cause:T537 Effect:T539
+A143	Degree E133 Facilitate
+T539	Argument 35085 35111;35112 35161	vorläufig in den Beschrei- bungen und Karten als streitige bezeichnet werden
+T540	Argument 34988 35032;35033 35111;35112 35161	bis auf jene l’unkte und Linien, deren Fest- stellung im Rechtswege geschehen muss. welche daher vorläufig in den Beschrei- bungen und Karten als streitige bezeichnet werden
+T541	Note 35381 35400	Aufnahme der Eigene
+#108	AnnotatorNotes T541	Ignore
+T542	Note 35469 35489	thumsgrenzen und des
+#109	AnnotatorNotes T542	Ignore
+T543	Note 35572 35592	wenig veränderlichen
+#110	AnnotatorNotes T543	Ignore
+T544	Note 35674 35681	Details
+#111	AnnotatorNotes T544	Ignore
+T547	Argument 35687 35740	ihr sich anschliessend oder mit ihrer Lösung parallel
+T548	Motivation 35741 35748	erfolgt
+E134	Motivation:T548 Cause:T547 Effect:T549
+A144	Degree E134 Facilitate
+T549	Argument 35749 35763;35764 35831;35832 35900;35901 35968;35969 36042;36043 36112	die Bestimmung jener Punkte und Linien, welche den ertragsfähigen und ertragslosen Grund, ferner den II olzboden von der landwirthschaftlichen oder von der Ban - Area scheiden, endlich die Tufnahme aller Gewässer, Wege, Bringungsmittel, überhaupt solcher Objecte, die in Absicht auf Forst- und Jagdbetrieb oder auch nur der Oricntirung halber eine Bedeutung haben
+T550	Note 36219 36238	Scheidung von Holz-
+#112	AnnotatorNotes T550	Ignore
+T545	Argument 35433 35468;35490 35571;35593 35650	die Aufnahme der Eigenthumsgrenzen, sowohl der sichergestellten als der streitigen, ferner die Vermessung der inneren Eintheilung des Wirthschaftsganzen als eine erste Aufgabe
+T546	Argument 35651 35666	an den Geometer
+T551	Motivation 35427 35432;35667 35672	tritt heran
+E135	Motivation:T551 Trigger:T553 Cause:T552 Effect:T545 Actor:T546
+A145	Degree E135 Facilitate
+T552	Argument 35406 35426	dem Vorangeschickten
+T553	Argument 35401 35405	Nach
+T554	Note 36121 36141	Vorschriften für die
+#113	AnnotatorNotes T554	Ignore
+T555	Note 36317 36337	bestandes-Abtheilun-
+#114	AnnotatorNotes T555	Ignore
+T556	Note 36408 36427	gen (Bestandes-Par.
+#115	AnnotatorNotes T556	Ignore
+T557	Note 36507 36515	cellen).
+#116	AnnotatorNotes T557	Ignore
+T558	Argument 36142 36190	Dic Scheidelinien der Ilolzbestands-Abtheilungen
+T559	Argument 36191 36195;36547 36583	sind ersichtlich und auffindbar zu machen
+T560	Argument 36205 36218;36239 36316;36338 36345	unschädlicher Schalme oder lichter Farbenstriche oder Zeichen mit dem Reisser an Bäumen und Stangen
+T561	Argument 36346 36370	in den älteren Beständen
+T562	Argument 36388 36407;36428 36436	schmal aufgehauener Gässchen
+T563	Argument 36478 36506;36516 36534	Erdkegeln oder Steinhäufchen oder Einzelsteinen
+T564	Argument 36437 36454	in Jung wiich sen
+T565	Argument 36535 36546	bei Blössen
+T566	Purpose 36196 36204	mittelst
+E136	Purpose:T566 Effect:T560 Cause:T559 Affected:T558 Controlling:T561
+A146	Degree E136 Facilitate
+T567	Purpose 36379 36387	mittelst
+E137	Purpose:T567 Cause:T559 Effect:T562 Controlling:T564 Affected:T558
+A147	Degree E137 Facilitate
+T568	Purpose 36464 36477	mit Hilfe von
+E138	Purpose:T568 Effect:T563 Controlling:T565 Cause:T559 Affected:T558
+A148	Degree E138 Facilitate
+T569	Argument 36731 36735;36736 36751	fol- gende Kriterien
+T570	Argument 36757 36768	die erstere
+T571	Argument 36585 36616	Bei der Bestandes-Ausscheidlung
+R8	Coref Arg1:T570 Arg2:T571	
+T572	Motivation 36769 36790	zum Anhalte zu nehmen
+E139	Motivation:T572 Cause:T569 Effect:T570
+A149	Degree E139 Facilitate
+T573	Consequence 37254 37258	I h.
+E140	Consequence:T573 Cause:T574 Effect:T575
+A150	Degree E140 Facilitate
+T574	Argument 37242 37252	Schutzwald
+T575	Argument 37259 37313;37314 37387;37388 37399	ein solcher, bei dem die besondere Schonung und Erhal- tung der Bestockung freiwillig, daher ohne forstpolizeilichen Zwang anzu- streben ist
+T576	Argument 37334 37381	freiwillig, daher ohne forstpolizeilichen Zwang
+T577	Motivation 37382 37387;37388 37399	anzu- streben ist
+E141	Motivation:T577 Cause:T576 Effect:T578
+A151	Degree E141 Facilitate
+T578	Argument 37280 37313;37314 37333	die besondere Schonung und Erhal- tung der Bestockung
+T579	Argument 36792 36845	1. Die Verschiedenheit der Betriebsart und Behandlung
+T580	Argument 37515 37583;37584 37593	Die Verschiedenheit der Holzart, wo jede fir sich im reinen Bestande erscheint
+T581	Argument 38193 38258;38259 38280	Bei den Jungwüchsen, Stangen und Mittelhölzern des Samenwaldes im schlagweisen Betriebe
+T582	Argument 38286 38311	Abstufungen von 10 Jahren
+T583	Argument 38313 38331	bei den Althölzern
+T584	Argument 38332 38335;38336 38345	von 20 Jahren
+T585	Consequence 38281 38285;38346 38355	sind gestattet
+E142	Consequence:T585 Cause:T583 Effect:T584
+A152	Degree E142 Facilitate
+T586	Consequence 37768 37777	begründet
+E143	Consequence:T586 Effect:T590 Cause:T588 Cause2:T589
+A153	Degree E143 Facilitate
+T587	Argument 37598 37644	Die Verschiedenheit des Mischungsverhältnisses
+T588	Argument 37652 37656	jene
+T589	Argument 37657 37666;37667 37724	durch die Vereinigung von Baumarten abweichenden Entwicklungsganges
+T590	Argument 37726 37741;37742 37767	anderer Massen- haltigkeit und Massengüte
+R9	Coref Arg1:T588 Arg2:T587	
+T591	Argument 38059 38082	entschieden vorherrscht
+T592	Consequence 38084 38088	also
+E144	Consequence:T592 Cause:T593 Effect:T591
+A154	Degree E144 Facilitate
+A155	Correlation E144
+T593	Argument 38089 38103;38104 38129	mindestens 0.6 des Standraumes einnimit.
+T594	Consequence 38281 38285;38346 38355	sind gestattet
+E145	Consequence:T594 Cause:T581 Effect:T582
+A156	Degree E145 Facilitate
+T595	Argument 38381 38416	bei sehr ungleichförmigen Beständen
+T596	Argument 38357 38366	Ausnahmen
+T597	Consequence 38367 38380	sind zulässig
+E146	Consequence:T597 Cause:T595 Effect:T596
+A157	Degree E146 Facilitate
+T598	Consequence 38576 38585	entstehen
+E147	Consequence:T598 Effect:T600 Cause:T599
+A158	Degree E147 Facilitate
+T599	Argument 38429 38505;38506 38575	bei der ausgedehnten Benützung von Vorwichsen zur Nachzucht oder bei der Be- standesbegriindung in Femelschlägen mit sehr langer Verjiingungsdauer
+T600	Argument 38422 38428	solche
+R10	Coref Arg1:T600 Arg2:T595	
+T601	Argument 38587 38608	Die Altersabstufungen
+T602	Motivation 38609 38616;38647 38651	(lürfen sein
+E148	Motivation:T602 Cause:T603 Effect:T604 Affected:T601
+A159	Degree E148 Facilitate
+T603	Argument 38617 38632	in derlei Orten
+T604	Argument 38633 38646	etwas grösser
+T605	Argument 38479 38488	Nachzucht
+T606	Purpose 38475 38478	zur
+E149	Purpose:T606 Cause:T605 Effect:T607
+A160	Degree E149 Facilitate
+T607	Argument 38433 38474	der ausgedehnten Benützung von Vorwichsen
+T608	Motivation 38671 38675;38739 38749	sind massgebend
+E150	Motivation:T608 Cause:T610 Effect:T611 Affected:T609
+A161	Degree E150 Facilitate
+T609	Argument 38653 38670	Im Ausschlagwalde
+T610	Argument 38676 38712	Altersunterschiede von 5 zu 5 Jahren
+T611	Argument 38713 38720;38721 38738	für die Bestandestrennung
+T612	Argument 38778 38818;38819 38900;38901 38929	das Ueberwiegen, oder der für namhaftere Flächen hervortretende Mangel von einer oder von zwei der drei Hauptaltersstufen: Jugend, Mittelholz, Altholz,
+T613	Motivation 38767 38771	gibt
+E151	Motivation:T613 Affected:T614 Cause:T612 Effect:T615
+A162	Degree E151 Facilitate
+T614	Argument 38751 38766	Im Plänterwalde
+T615	Argument 38930 38944	den Ausschlag.
+T616	Consequence 39141 39152	aussprechen
+E152	Consequence:T616 Effect:T617 Cause:T618
+A163	Degree E152 Facilitate
+T617	Argument 39042 39046	jene
+T618	Argument 39047 39094;39095 39131	in der ungleichen Entwicklung derselben Baumart auf zusammenhängenden Flächentheilen
+T619	Argument 38948 39019;39020 39030	Auffallende Unterschiede in der Standortsgüte oder Ertragsfähigkeit des Holzlandes
+R11	Coref Arg1:T617 Arg2:T619	
+T620	Argument 39157 39201	Merkbare Verschiedenheiten in der Bestockung
+T621	Argument 39223 39299;39300 39315	Massenschätzungen nach dem Augenmasse oder mit Hilfe kleiner Probeflächen in Aussicht stehen
+T622	Consequence 39214 39222	dort, wo
+E153	Consequence:T622 Cause:T621 Effect:T620
+A164	Degree E153 Facilitate
+T623	Purpose 39266 39275	mit Hilfe
+E154	Purpose:T623 Cause:T625 Effect:T627
+A165	Degree E154 Facilitate
+T624	Purpose 39241 39249	nach dem
+E155	Purpose:T624 Cause:T625 Effect:T626
+A166	Degree E155 Facilitate
+T625	Argument 39223 39240	Massenschätzungen
+T626	Argument 39250 39260	Augenmasse
+T627	Argument 39276 39296	kleiner Probeflächen
+T628	Argument 39331 39345	folgende (rade
+T629	Motivation 39320 39325;39367 39377	wären massgebend
+E156	Motivation:T629 Cause:T628 Effect:T630
+A167	Degree E156 Facilitate
+T630	Argument 39346 39366	für die Abscheiilung
+T631	Argument 39379 39383;39384 39408;39409 39448;39449 39492;39493 39504;39505 39509	Voll 1.1) und 0.9 Bestockung, Gelichtet 0.8 bis incl. 0-6 Bestockung, Sebr licht = 0).5 bis incl. 0:3 Bestockung, Räumden 0.2 ():1
+R12	Coref Arg1:T628 Arg2:T631	
+T632	Argument 39510 39523	In Althölzern
+T633	Argument 39546 39549	man
+T634	Argument 39531 39545	Massenvorräthe
+T635	Purpose 39570 39572;39573 39596	zu erforschen beabsichtigt
+E157	Purpose:T635 Cause:T634 Affected:T632 Actor:T633 Trigger:T636 Effect:T637
+A168	Degree E157 Facilitate
+T636	Argument 39550 39558	mittelst
+T637	Argument 39559 39569	Auszählung
+T638	Consequence 39598 39606	entfällt
+E158	Consequence:T638 Cause:T639 Effect:T640
+A169	Degree E158 Inhibit
+T639	Argument 39510 39572;39573 39596	In Althölzern, deren Massenvorräthe man mittelst Auszählung zu erforschen beabsichtigt
+T640	Argument 39607 39652	die Rücksichtsnahme auf wechselnde Bestockung
+T641	Consequence 39748 39752;39766 39770	dann wenn
+E159	Consequence:T641 Effect:T643 Cause:T642
+A170	Degree E159 Facilitate
+T642	Argument 39771 39828;39829 39906;39907 39939	die ersteren so breit sind oder die Bäumehem am Rande der letzteren erst eine solche Höhe haben, dass die Aufforstung dieser holzleeren Stellen einen Ertoly verspricht.
+T643	Argument 39689 39747;39753 39764	Die Blössen überhaupt oder die Licken in Jungwiichsen sind aufzunehmen
+T644	Motivation 39928 39938	verspricht
+E160	Motivation:T644 Effect:T646 Cause:T645
+A171	Degree E160 Facilitate
+T645	Argument 39873 39906;39907 39914	die Aufforstung dieser holzleeren Stellen
+T646	Argument 39915 39927	einen Ertoly
+T647	Consequence 39784 39786;39868 39872	so dass
+E161	Consequence:T647 Cause:T648 Effect:T649
+A172	Degree E161 Facilitate
+T648	Argument 39771 39783;39787 39797	die ersteren breit sind
+T649	Argument 39873 39906;39907 39939	die Aufforstung dieser holzleeren Stellen einen Ertoly verspricht.
+T650	Argument 39803 39828;39829 39866	die Bäumehem am Rande der letzteren erst eine solche Höhe haben
+T651	Consequence 39868 39872	dass
+E162	Consequence:T651 Cause:T650 Effect:T649
+A173	Degree E162 Facilitate
+T652	Consequence 40383 40398	vergebens wären
+E163	Consequence:T652 Effect:T653 Cause:T655 Trigger:T654
+A174	Degree E163 Inhibit
+T653	Argument 40363 40376	Aufforstungen
+T654	Argument 40400 40404	weil
+T655	Argument 40405 40440;40441 40508	sie schon vor der Bestandesfällung, namentlich aber während derselben keine Schonung zu erwarten hätten
+T656	Argument 40512 40584;40585 40595	Die Bestandesunterschiecie, welche in den Punkten 1 bis incl. 6 bezeich- net wurden
+T657	Motivation 40597 40605	bedürfen
+E164	Motivation:T657 Controlling:T659 Effect:T658 Cause:T656
+A175	Degree E164 Facilitate
+T658	Argument 40606 40641	einer genanen geodätischen Fixirung
+T659	Argument 40642 40647	nicht
+T660	Consequence 40649 40653	wenn
+E165	Consequence:T660 Cause:T662 Effect:T661
+A176	Degree E165 Facilitate
+T661	Argument 40654 40660;40661 40738	sie im Samenwalde, wie im Ausschlagwalde nicht mindestens 0-6 Hektar Fläche umfassen
+T662	Argument 40512 40584;40585 40648	Die Bestandesunterschiecie, welche in den Punkten 1 bis incl. 6 bezeich- net wurden, bedürfen einer genanen geodätischen Fixirung nicht,
+T663	Argument 2529 2580	Die Betriebseinrichtung der Staats- und Fondsforste
+T664	Argument 2598 2608;2630 2714;2734 2802;2824 2895;2896 2952	den Wirth- schaftsgang aller vom k. k. Ackerbauministerium zu administrirenden Wälder in Bezie- hung auf die Benutzung und Wiederbegründung derselben, sowie auf die dabei in Frage kommenden Flächen und Zeiträume, zugleich mit Riicksicht auf die inneren und äusseren Verhältnisse des Waldlandes
+T665	Motivation 2960 2962;2963 2969	zu regeln
+E166	Motivation:T665 Cause:T663 Effect:T664
+A177	Degree E166 Facilitate
+T666	Argument 2976 2985	dieselben
+T667	Argument 2642 2704	aller vom k. k. Ackerbauministerium zu administrirenden Wälder
+R13	Coref Arg1:T666 Arg2:T667	
+T668	Argument 2986 3035;3036 3096;3097 3163;3164 3183	zur erreichbar höchsten Vollkommenheit des Boden- schutzes und der Bodenpflege, der Ordnung und Güte des Holz- bestanden, der Grösse und des Werthes aller Erträge sich hinaufzu- schwingen vermögen.
+T669	Argument 2960 2962;2963 2969	zu regeln
+T670	Consequence 2953 2959;2971 2975	derart dass
+E167	Consequence:T670 Cause:T669 Effect:T668 Affected:T666
+A178	Degree E167 Facilitate
+T671	Argument 3868 3918	alle Gehölze von der Entstehung bis zur Hiebsreife
+T672	Consequence 3930 3933;3999 4006	vor schitzt
+E168	Consequence:T672 Effect:T674 Affected:T671 Cause:T673
+A179	Degree E168 Inhibit
+T673	Argument 3864 3867	sie
+T674	Argument 3934 3942;3970 3981	widrigen Einfliissen
+T675	Argument 3635 3664	Die künftige Forstwirthschaft
+R14	Coref Arg1:T673 Arg2:T675	
+T676	Argument 3712 3715	sie
+T677	Motivation 3845 3858	bestrebt ist;
+E169	Motivation:T677 Cause:T676 Effect:T678
+A180	Degree E169 Facilitate
+T678	Argument 3716 3785;3786 3820	jedes Fleckchen ertragsfälıigen Landes in ihrem Bereiche auch ertrag- bringend zu machen und zu erhalten
+R15	Coref Arg1:T676 Arg2:T675	
+T679	Argument 4140 4143	sie
+T680	Argument 4144 4188;4189 4255;4256 4295	den genauesten Einblick in eine klare Ueber- sicht, betreffend das Staatsforstvermögen am Flächen, sowie an den darauf stockenden Ilolz massenvorräthen
+T681	Consequence 4296 4322	anzubalmen und zu bewahren
+E170	Consequence:T681 Cause:T679 Effect:T680
+A181	Degree E170 Facilitate
+T682	Argument 4343 4400;4401 4469;4470 4474	die geniigende ('ontrole hinsichtlich der jeweiligen Lei- stungsfähigkeit aller im Walile geborgenen Anlags- und Betriebscapi- tale
+T683	Consequence 4475 4506	zu begründen unit fortzufiihren
+E171	Consequence:T683 Effect:T682 Cause:T679
+A182	Degree E171 Facilitate
+T684	Argument 4534 4561	seine Beruhigung und Stärke
+T685	Argument 4565 4576;4577 4617	überreifen, licht imd abständig werdenden Althölzern
+T686	Motivation 4562 4564;4618 4623	in sucht
+E172	Motivation:T686 Cause:T685 Effect:T684 Actor:T687
+A183	Degree E172 Facilitate
+T687	Argument 4508 4524	Ein Forstbetrieb
+T688	Argument 4526 4576;4577 4641;4642 4704;4705 4771;4772 4789	welcher seine Beruhigung und Stärke in überreifen, licht imd abständig werdenden Althölzern sucht, mit schleppender natürlicher Verjüngung und verschwinden wenig Saat oder Pflan- zung sich begniigtweiterhin um die Jugend und Bestandespflege sich nicht bekimiert -
+T689	Argument 4799 4834;4835 4850	weder im Sinne der Massen- noch der Geld wirtschaft
+T690	Argument 4851 4896;4897 4903	als ein conservirender Haushalt bezeichnet zu werden
+T691	Consequence 4790 4798	verdient
+E173	Consequence:T691 Controlling:T689 Cause:T688 Effect:T690 Affected:T687
+A184	Degree E173 Facilitate
+T692	Note 40879 40898	Aufnahme von Verti.
+#117	AnnotatorNotes T692	Ignore
+T693	Note 40969 40991	calwinkeln behufs con-
+#118	AnnotatorNotes T693	Ignore
+T694	Note 41074 41096	struirung von Terrain-
+#119	AnnotatorNotes T694	Ignore
+T695	Note 41175 41184	profilen.
+#120	AnnotatorNotes T695	Ignore
+T696	Note 41438 41458	Sicherung der Vermes
+#121	AnnotatorNotes T696	Ignore
+T697	Note 41518 41538	sungspunkte. lleber-
+#122	AnnotatorNotes T697	Ignore
+T698	Note 41601 41620	gabe der Punkte und
+#123	AnnotatorNotes T698	Ignore
+T699	Note 41684 41702	Linien des Vermes-
+#124	AnnotatorNotes T699	Ignore
+T700	Note 41703 41721	simgswerkes an das
+#125	AnnotatorNotes T700	Ignore
+T701	Note 41788 41803	Localpersonale.
+#126	AnnotatorNotes T701	Ignore
+T702	Note 42245 42264	Andeutungen für das
+#127	AnnotatorNotes T702	Ignore
+T703	Note 42338 42359	geodätische Verfahren
+#128	AnnotatorNotes T703	Ignore
+T704	Note 42441 42459	und die Flächenbe-
+#129	AnnotatorNotes T704	Ignore
+T705	Note 42537 42558	rechnung. Hinweis auf
+#130	AnnotatorNotes T705	Ignore
+T706	Note 42640 42662	die Specialinstruction
+#131	AnnotatorNotes T706	Ignore
+T707	Argument 42663 42681	für die Vermessung
+#132	AnnotatorNotes T707	Ignore
+T708	Note 42757 42775	wid Begrenzung der
+#133	AnnotatorNotes T708	Ignore
+T709	Note 42852 42865	Staatsforste.
+#134	AnnotatorNotes T709	Ignore
+T710	Note 43456 43467	Formular 1.
+#135	AnnotatorNotes T710	Ignore
+T711	Note 43916 43933	Bezeichnungen der
+#136	AnnotatorNotes T711	Ignore
+T712	Note 44011 44034	Karten. Die zu liefern-
+#137	AnnotatorNotes T712	Ignore
+T713	Note 44114 44135	den Arten der Karten,
+#138	AnnotatorNotes T713	Ignore
+T714	Note 44221 44238	deren Beschaffen-
+#139	AnnotatorNotes T714	Ignore
+T715	Note 44239 44259	heit und Zweck. line
+#140	AnnotatorNotes T715	Ignore
+T716	Note 44330 44351;44352 44376;44377 44396;44397 44419	weis auf die Special- instruction für die Ver- messung und Begren- zung der Staatsforste.
+#141	AnnotatorNotes T716	Ignore
+T717	Argument 44619 44638	Welche Arten von Er
+#142	AnnotatorNotes T717	Ignore
+T718	Note 44712 44732	tragstafeln vorzube-
+#143	AnnotatorNotes T718	Ignore
+T719	Note 44809 44831	reiten sind. Verfabren
+#144	AnnotatorNotes T719	Ignore
+T720	Note 44904 44923	bei der Anfertigung
+#145	AnnotatorNotes T720	Ignore
+T721	Note 45183 45193	Formular 2
+#146	AnnotatorNotes T721	Ignore
+T723	Argument 41260 41263	zur
+T724	Argument 41316 41345	Darstellung der Gebirgsformen
+T725	Argument 41355 41382	Schichtencurven (Isohypsen)
+T726	Purpose 41346 41354	mittelst
+E174	Purpose:T726 Cause:T724 Effect:T725
+A185	Degree E174 Facilitate
+T727	Argument 41396 41422	Ergänzung dieser letzteren
+T728	Purpose 41423 41429	bedarf
+E175	Purpose:T728 Effect:T722 Controlling:T731 Trigger:T723 Trigger2:T730 Trigger3:T729 Cause:T732 Cause2:T724 Cause3:T727
+A186	Degree E175 Facilitate
+T729	Argument 41392 41395	zur
+T730	Argument 41301 41304	zur
+T722	Argument 40899 40968;40992 41073;41097 41174	Während der Vornahme der aufgezählten geodätischen Operationen müssen in allen Thälern, auf den Höhenziigen, ferner bei den Linien, welche in der Rich- tung des stärksten Falles der Bergseiten liegen, jene Daten gesammelt werden,
+T731	Argument 41200 41259	insoweit man derselben nach §. 8 der Vermessungsinstruction
+T732	Argument 41264 41293	Zeichnung von Terrainprofilen
+T733	Consequence 41751 41757	lassen
+E176	Consequence:T733 Affected:T736 Cause:T735 Effect:T734
+A187	Degree E176 Facilitate
+T734	Argument 41628 41683;41722 41750	dieselben oder mindestens ihre Standpunkte längere Zeit ohne Schwierigkeit auffinden
+T735	Argument 41561 41599	jenen Schutz- und l’orsichtsmassregeln
+T736	Argument 41513 41517;41539 41556	alle Vermessungsmarken
+T737	Argument 41891 41939	auf Befehl oder mit Bewilligung der Oberbehörden
+T738	Argument 41955 41966	Aenderungen
+T739	Argument 41967 42032;42033 42061	an der Reviersbegrenzung, Eintheilung oder an anderen Punkten und Linien des Vermessungswerkes
+T740	Consequence 41940 41954	vorzunehmenden
+E177	Consequence:T740 Cause:T737 Effect:T738 Affected:T739
+A188	Degree E177 Facilitate
+T741	Argument 42269 42337;42360 42364	die rein geodätische Behandlung der Forstaufnahme und Flächenberech- nung
+T742	Argument 42365 42439;42460 42463	geht eine specielle Anleitung dazu der Betriebseinrichtungsinstruction vor aus
+T743	Purpose 42265 42268	Für
+E178	Purpose:T743 Cause:T741 Effect:T742
+A189	Degree E178 Facilitate
+T744	Argument 42916 42944;42945 42972	innerhalb dieses Rahmens und init Anschluss an denselben
+T745	Argument 42973 43025;43026 43074	die Fixirung (les minder bedeutenden, zumal des ver- änderlichen Details (wie der Bestandesparcellen)
+T746	Argument 43076 43101;43102 43180;43181 43190	die Anwendung des graphi- schen Verfahrens oder den Gebrauch von Boussolen, verbunden mit Winkelauftrag- apparaten
+T747	Motivation 43191 43198	erlaubt
+E179	Motivation:T747 Controlling:T744 Cause:T745 Effect:T746 Controlling2:T751
+A190	Degree E179 Facilitate
+T748	Argument 43210 43245	eine grössere Raschlieit der Arbeit
+T749	Argument 43246 43253	dadurch
+T750	Consequence 43254 43260;43261 43272	zu er- reichen ist
+E180	Consequence:T750 Cause:T749 Effect:T748
+A191	Degree E180 Facilitate
+R16	Coref Arg1:T749 Arg2:T746	
+T751	Argument 43200 43260;43261 43272	insoferne eine grössere Raschlieit der Arbeit dadurch zu er- reichen ist
+T752	Argument 43278 43306	Flächenberechnung im Grossen
+T753	Argument 43321 43332	die Ziffern
+T754	Consequence 43386 43396	resultiren
+E181	Consequence:T754 Cause:T755 Effect:T753
+A192	Degree E181 Facilitate
+T755	Argument 43341 43385	aus den genauen Winkel- und Längen-Messungen
+T756	Argument 43317 43320	man
+T757	Purpose 43307 43316	verwendet
+E182	Purpose:T757 Trigger:T758 Cause:T752 Actor:T756 Effect:T753
+A193	Degree E182 Facilitate
+T758	Argument 43274 43277	Zur
+T759	Purpose 43432 43439	genügen
+E183	Purpose:T759 Trigger:T761 Cause:T762 Effect:T760
+A194	Degree E183 Facilitate
+T760	Argument 43440 43455	die Planimeter.
+T761	Argument 43398 43401	zur
+T762	Argument 43402 43410;43411 43431	Flächen- berechnung im Detail
+T763	Argument 43558 43615;43640 43696	die Abtheilungs-Nummern und die Buchstaben der Bestandes- parcellen, sowie anderer Interabtheilungen in den Karten
+T764	Consequence 43697 43705	anzeigen
+E184	Consequence:T764 Cause:T763 Effect:T765
+A195	Degree E184 Facilitate
+T765	Argument 43552 43557	diese
+T766	Argument 43535 43538;43539 43546	der Ordnung
+R17	Coref Arg1:T765 Arg2:T766	
+T767	Purpose 44469 44475	behufs
+E185	Purpose:T767 Cause:T768 Effect:T769
+A196	Degree E185 Facilitate
+T768	Argument 44476 44481;44482 44545;44546 44593	Nach- weisung des thatsächlichen (gegenwärtigen oder concreten) Wald- zustandes, sowie der gesammten Waldverhältnisse
+T769	Argument 44425 44468	Taxatorische Vorerhebungen und Berechnungen
+T770	Consequence 45147 45152	zeigt
+E186	Consequence:T770 Cause:T771 Effect:T772
+A197	Degree E186 Facilitate
+T771	Argument 45153 45170;45171 45182	das zu benitzende Formular 2.
+T772	Argument 45106 45146	Die zu ermittelnden Factoren und Beträge
+T773	Argument 44853 44886	entsprechende Local-Ertragstafeln
+T774	Argument 44887 44903;44925 44999;45000 45074;45075 45090	nach Juswahl und ('ombination passender Probeflächen, die man beim Beginne oder während der Bestandesbeschreibung und Milssenerhebung für diesen Zweck besonders genau antzunehmen hat
+T775	Motivation 44848 44852;45092 45104	sind zu begründen
+E187	Motivation:T775 Trigger:T777 Cause:T776 Effect:T773 Controlling:T774
+A198	Degree E187 Facilitate
+T776	Argument 44644 44711;44733 44808;44832 44846	Verschiedenheit der Betriebsart, Holzart und Standortsgiite im All- gemeinen, und beim Hochwalde speciell getrennt für den schlagweisen und den Planterbetrieb
+T777	Argument 44639 44643	Nach
+T778	Consequence 45223 45231	geniigen
+E188	Consequence:T778 Cause:T779 Effect:T780
+A199	Degree E188 Facilitate
+T779	Argument 45195 45222	In schwachen Stangenhölzern
+T780	Argument 45232 45259	Proben von 900 Meter Fläche
+T781	Consequence 45435 45437;45451 45455	so dass
+E189	Consequence:T781 Affected:T787 Cause:T788 Controlling:T782 Effect:T789
+A200	Degree E189 Facilitate
+T782	Argument 45456 45461	nicht
+T783	Argument 45462 45470	in Folge
+T784	Consequence 45627 45633	werden
+E190	Consequence:T784 Effect:T786 Cause:T785 Trigger:T783
+A201	Degree E190 Facilitate
+T785	Argument 45471 45502;45503 45525	urichtig einbezogener oder aus- geschiedener Randbäume
+T786	Argument 45526 45578;45579 45626	(lie zu erhebenden Massengrössen umrichtig (zu gross oder zu klein pro Flächeneinheit .-- 1 Ilektar)
+T787	Argument 45412 45422;45423 45429	Die Probe- lächen
+T788	Argument 45438 45449	abzugrenzen
+T789	Argument 45463 45502;45503 45578;45579 45633	n Folge urichtig einbezogener oder aus- geschiedener Randbäume (lie zu erhebenden Massengrössen umrichtig (zu gross oder zu klein pro Flächeneinheit .-- 1 Ilektar) werden
+T790	Argument 45947 45977;45978 46011	einen idealen Bestandesschluss der Massenermittlung unterstellen
+T791	Argument 46023 46056;46057 46130;46131 46142	die Dichtheit kleiner Baumgruppen zum Massstab nimmt und für vermeintlich umgehörige Lücken einzelne Stämme interpolirt
+T792	Motivation 46013 46018	indem
+E191	Motivation:T792 Effect:T790 Actor:T793 Cause:T791
+A202	Degree E191 Facilitate
+T793	Argument 46019 46022	man
+T794	Argument 45806 45820;45821 45900	bei den Stand- Ortsverhältnissen der Fläche im besten Falle und in der Ausdehmung von 1 Hektar
+T795	Argument 45901 45913	nachzuweisen
+T796	Consequence 45914 45920	vermay
+E192	Consequence:T796 Cause:T794 Effect:T795
+A203	Degree E192 Facilitate
